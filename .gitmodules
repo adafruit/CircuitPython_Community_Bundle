@@ -1,3 +1,6 @@
 [submodule "circuitpython"]
 	path = circuitpython
 	url = https://github.com/adafruit/circuitpython.git
+[submodule "libraries/helpers/example"]
+	path = libraries/helpers/example
+	url = https://github.com/tannewt/CircuitPython_Example.git
