@@ -1,0 +1,3 @@
+[submodule "circuitpython"]
+	path = circuitpython
+	url = https://github.com/adafruit/circuitpython.git
