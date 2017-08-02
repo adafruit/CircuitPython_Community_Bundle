@@ -21,7 +21,7 @@ existing folder when it exists.
 
 # Development
 
-After you clone this repository you must run `git submodule --init` on update
+After you clone this repository you must run `git submodule init` on update
 also do `git submodule update`.
 
 ## Updating libraries
