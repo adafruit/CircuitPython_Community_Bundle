@@ -7,3 +7,6 @@
 [submodule "libraries/drivers/hcsr04"]
 	path = libraries/drivers/hcsr04
 	url = https://github.com/mmabey/CircuitPython_HCSR04.git
+[submodule "libraries/drivers/adafruit_soundboard"]
+	path = libraries/drivers/adafruit_soundboard
+	url = git@github.com:mmabey/Adafruit_Soundboard.git
