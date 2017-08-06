@@ -4,3 +4,6 @@
 [submodule "libraries/helpers/example"]
 	path = libraries/helpers/example
 	url = https://github.com/tannewt/CircuitPython_Example.git
+[submodule "libraries/drivers/hcsr04"]
+	path = libraries/drivers/hcsr04
+	url = https://github.com/mmabey/CircuitPython_HCSR04.git
