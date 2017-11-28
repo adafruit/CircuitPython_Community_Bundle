@@ -9,4 +9,4 @@
 	url = https://github.com/mmabey/CircuitPython_HCSR04.git
 [submodule "libraries/drivers/adafruit_soundboard"]
 	path = libraries/drivers/adafruit_soundboard
-	url = git@github.com:mmabey/Adafruit_Soundboard.git
+	url = https://github.com/mmabey/Adafruit_Soundboard.git
