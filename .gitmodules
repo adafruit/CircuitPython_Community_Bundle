@@ -10,3 +10,6 @@
 [submodule "libraries/drivers/adafruit_soundboard"]
 	path = libraries/drivers/adafruit_soundboard
 	url = https://github.com/mmabey/Adafruit_Soundboard.git
+[submodule "libraries/helpers/dotstar_featherwing"]
+	path = libraries/helpers/dotstar_featherwing
+	url = https://github.com/dastels/circuitPython_dotstar_featherwing.git
