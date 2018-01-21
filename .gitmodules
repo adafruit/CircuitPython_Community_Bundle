@@ -13,3 +13,6 @@
 [submodule "libraries/helpers/dotstar_featherwing"]
 	path = libraries/helpers/dotstar_featherwing
 	url = https://github.com/dastels/circuitPython_dotstar_featherwing.git
+[submodule "libraries/drivers/veml6070"]
+	path = libraries/drivers/veml6070
+	url = https://github.com/sommersoft/veml6070.git
