@@ -43,7 +43,17 @@ Only do this if you are replacing the module with an equivalent:
     git rm libraries/<target directory>
 
 ## Building the bundle
-To build the bundle run `build-bundle.py` it requires Python 3.5+ and will
-produce a zip file in `build`. The file structure of the zip will not be
-identical to the source `libraries` directory in order to save space. Libraries
-with a single source will not be placed in their own directory.
+To build this bundle locally you'll need to install the
+`circuitpython-build-tools <https://github.com/adafruit/circuitpython-build-tools>`_ package.
+
+    python3 -m venv .env
+    source .env/bin/activate
+    pip install circuitpython-build-tools
+
+Once installed, make sure you are in the virtual environment:
+
+    source .env/bin/activate
+
+Then run the build:
+
+    circuitpython-build-bundles --filename_prefix circuitpython-community-bundle --library_location libraries --library_depth 2
