@@ -13,3 +13,6 @@
 [submodule "libraries/helpers/nonblocking_timer"]
 	path = libraries/helpers/nonblocking_timer
 	url = https://github.com/Angeleno-Tech/nonblocking_timer.git
+[submodule "libraries/drivers/sh1106"]
+	path = libraries/drivers/sh1106
+	url = https://github.com/winneymj/CircuitPython_SH1106
