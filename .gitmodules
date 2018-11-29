@@ -16,3 +16,6 @@
 [submodule "libraries/drivers/sh1106"]
 	path = libraries/drivers/sh1106
 	url = https://github.com/winneymj/CircuitPython_SH1106
+[submodule "libraries/drivers/slight_tlc5957"]
+	path = libraries/drivers/slight_tlc5957
+	url = https://github.com/s-light/slight_CircuitPython_TLC5957.git
