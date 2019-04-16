@@ -19,3 +19,6 @@
 [submodule "libraries/drivers/slight_tlc5957"]
 	path = libraries/drivers/slight_tlc5957
 	url = https://github.com/s-light/slight_CircuitPython_TLC5957.git
+[submodule "libraries/drivers/tmp75"]
+	path = libraries/drivers/tmp75
+	url = https://github.com/barbudor/CircuitPython_TMP75.git
