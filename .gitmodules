@@ -25,3 +25,6 @@
 [submodule "libraries/drivers/ina3221"]
 	path = libraries/drivers/ina3221
 	url = https://github.com/barbudor/CircuitPython_INA3221.git
+[submodule "libraries/drivers/qwiicjoystick"]
+	path = libraries/drivers/qwiicjoystick
+	url = https://github.com/fourstix/Sparkfun_CircuitPython_QwiicJoystick.git
