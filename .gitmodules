@@ -28,3 +28,6 @@
 [submodule "libraries/drivers/qwiicjoystick"]
 	path = libraries/drivers/qwiicjoystick
 	url = https://github.com/fourstix/Sparkfun_CircuitPython_QwiicJoystick.git
+[submodule "libraries/drivers/qwiicrelay"]
+	path = libraries/drivers/qwiicrelay
+	url = https://github.com/fourstix/Sparkfun_CircuitPython_QwiicRelay.git
