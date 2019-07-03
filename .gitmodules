@@ -31,3 +31,6 @@
 [submodule "libraries/drivers/qwiicrelay"]
 	path = libraries/drivers/qwiicrelay
 	url = https://github.com/fourstix/Sparkfun_CircuitPython_QwiicRelay.git
+[submodule "libraries/drivers/qwiictwist"]
+	path = libraries/drivers/qwiictwist
+	url = https://github.com/fourstix/Sparkfun_CircuitPython_QwiicTwist.git
