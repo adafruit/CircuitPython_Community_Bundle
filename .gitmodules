@@ -34,3 +34,6 @@
 [submodule "libraries/drivers/qwiictwist"]
 	path = libraries/drivers/qwiictwist
 	url = https://github.com/fourstix/Sparkfun_CircuitPython_QwiicTwist.git
+[submodule "libraries/drivers/qwiickeypad"]
+	path = libraries/drivers/qwiickeypad
+	url = https://github.com/fourstix/Sparkfun_CircuitPython_QwiicKeypad
