@@ -37,3 +37,6 @@
 [submodule "libraries/drivers/qwiickeypad"]
 	path = libraries/drivers/qwiickeypad
 	url = https://github.com/fourstix/Sparkfun_CircuitPython_QwiicKeypad
+[submodule "libraries/helpers/html_colors"]
+	path = libraries/helpers/html_colors
+	url = https://github.com/TG-Techie/adafruit_circuitpython_html_colors
