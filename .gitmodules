@@ -43,3 +43,6 @@
 [submodule "libraries/drivers/lis2dh12"]
 	path = libraries/drivers/lis2dh12
 	url = https://github.com/electronut/Electronutlabs_CircuitPython_LIS2DH12.git
+[submodule "libraries/drivers/ltr329als01"]
+	path = libraries/drivers/ltr329als01
+	url = https://github.com/electronut/Electronutlabs_CircuitPython_LTR329ALS01.git
