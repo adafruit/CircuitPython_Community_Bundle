@@ -49,3 +49,6 @@
 [submodule "libraries/drivers/ili9163"]
 	path = libraries/drivers/ili9163
 	url = https://github.com/electronut/Electronutlabs_CircuitPython_ILI9163
+[submodule "libraries/drivers/serlcd"]
+	path = libraries/drivers/serlcd
+	url = https://github.com/fourstix/Sparkfun_CircuitPython_SerLCD.git
