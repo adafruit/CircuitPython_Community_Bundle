@@ -37,3 +37,15 @@
 [submodule "libraries/drivers/qwiickeypad"]
 	path = libraries/drivers/qwiickeypad
 	url = https://github.com/fourstix/Sparkfun_CircuitPython_QwiicKeypad
+[submodule "libraries/drivers/qwiicas3935"]
+	path = libraries/drivers/qwiicas3935
+	url = https://github.com/fourstix/Sparkfun_CircuitPython_QwiicAS3935.git
+[submodule "libraries/drivers/lis2dh12"]
+	path = libraries/drivers/lis2dh12
+	url = https://github.com/electronut/Electronutlabs_CircuitPython_LIS2DH12.git
+[submodule "libraries/drivers/ltr329als01"]
+	path = libraries/drivers/ltr329als01
+	url = https://github.com/electronut/Electronutlabs_CircuitPython_LTR329ALS01.git
+[submodule "libraries/drivers/ili9163"]
+	path = libraries/drivers/ili9163
+	url = https://github.com/electronut/Electronutlabs_CircuitPython_ILI9163
