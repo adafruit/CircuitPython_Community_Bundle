@@ -52,3 +52,6 @@
 [submodule "libraries/drivers/serlcd"]
 	path = libraries/drivers/serlcd
 	url = https://github.com/fourstix/Sparkfun_CircuitPython_SerLCD.git
+[submodule "libraries/drivers/nunchuk"]
+	path = libraries/drivers/nunchuk
+	url = https://github.com/caternuson/CircuitPython_Nunchuk.git
