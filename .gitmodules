@@ -52,6 +52,3 @@
 [submodule "libraries/drivers/serlcd"]
 	path = libraries/drivers/serlcd
 	url = https://github.com/fourstix/Sparkfun_CircuitPython_SerLCD.git
-[submodule "libraries/helpers/ifttt"]
-	path = libraries/helpers/ifttt
-	url = https://github.com/benevpi/CIRCUITPYTHON_ifttt.git
