@@ -18,4 +18,4 @@ deploy:
   on:
     tags: true
 
-script: circuitpython-build-bundles --filename_prefix circuitpython-community-bundle --library_location libraries --library_depth 2 
+script: circuitpython-build-bundles --filename_prefix circuitpython-community-bundle --library_location libraries --library_depth 2

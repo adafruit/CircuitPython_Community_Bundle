@@ -55,3 +55,6 @@
 [submodule "libraries/helpers/ifttt"]
 	path = libraries/helpers/ifttt
 	url = https://github.com/benevpi/CIRCUITPYTHON_ifttt.git
+[submodule "libraries/drivers/nrf24l01"]
+	path = libraries/drivers/nrf24l01
+	url = https://github.com/2bndy5/CircuitPython_nRF24L01.git
