@@ -18,4 +18,6 @@ deploy:
   on:
     tags: true
 
-script: circuitpython-build-bundles --filename_prefix circuitpython-community-bundle --library_location libraries --library_depth 2
+# Note: if a packaged library is not being included in the bundle, add the folder
+# name to the 'package_folder_prefix' argument list below
+script: circuitpython-build-bundles --filename_prefix circuitpython-community-bundle --library_location libraries --library_depth 2 --package_folder_prefix "barbudor_ina3221, dotstar_featherwing, nonblocking_timer"
