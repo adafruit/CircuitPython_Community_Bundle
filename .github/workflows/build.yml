@@ -39,7 +39,7 @@ jobs:
       run: |
         echo ::set-output name=prefix::$(
         ls -RUx |
-        gawk -F '\n' '{ match($1, /(drivers|helpers)\/(.+)\/(.+)/, arr) ; if (length(arr[0]) > 0 && match(arr[3], arr[2]) > 0) printf "%s, ", arr[2] }' |
+        gawk -F '\n' '{ match($1, /(drivers|helpers)\/(.+)\/(.+)\:/, arr) ; if (length(arr[0]) > 0 && match(arr[3], arr[2]) > 0) printf "%s, ", arr[3] }' |
         gawk '{ trimmed = substr($0, 1, length($0) - 2) ; print "\"" trimmed "\"" }'
         )
     - name: Build assets
