@@ -43,7 +43,7 @@ jobs:
         gawk '{ trimmed = substr($0, 1, length($0) - 2) ; print "\"" trimmed "\"" }'
         )
     - name: Build assets
-      run: circuitpython-build-bundles --filename_prefix ${{ steps.repo-name.outputs.repo-name }} --library_location . --package_folder_prefix ${{ steps.pkg-folder.outputs.prefix }}
+      run: circuitpython-build-bundles --filename_prefix ${{ steps.repo-name.outputs.repo-name }} --library_location libraries --library_depth 2 --package_folder_prefix ${{ steps.pkg-folder.outputs.prefix }}
     - name: Upload Release Assets
       # the 'official' actions version does not yet support dynamically
       # supplying asset names to upload. @csexton's version chosen based on
