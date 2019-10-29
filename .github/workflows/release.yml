@@ -34,7 +34,6 @@ jobs:
       run: |
         sudo apt-get install -y gettext gawk
         pip install -r requirements.txt
-        pip install circuitpython-build-tools
     - name: Package Folder Prefix For circuitpython-build-tools (Community Bundle Specific)
       id: pkg-folder
       run: |
