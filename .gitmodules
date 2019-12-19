@@ -58,3 +58,6 @@
 [submodule "libraries/drivers/nrf24l01"]
 	path = libraries/drivers/nrf24l01
 	url = https://github.com/2bndy5/CircuitPython_nRF24L01.git
+[submodule "libraries/drivers/i2cencoderlibv21"]
+	path = libraries/drivers/i2cencoderlibv21
+	url = https://github.com/bwshockley/CircuitPython-i2cEncoderLibV21.git
