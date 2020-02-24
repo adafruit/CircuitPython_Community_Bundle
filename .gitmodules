@@ -61,3 +61,6 @@
 [submodule "libraries/drivers/i2cencoderlibv21"]
 	path = libraries/drivers/i2cencoderlibv21
 	url = https://github.com/bwshockley/CircuitPython-i2cEncoderLibV21.git
+[submodule "libraries/drivers/mitutoyo"]
+	path = libraries/drivers/mitutoyo
+	url = https://github.com/vifino/CircuitPython-mitutoyo.git
