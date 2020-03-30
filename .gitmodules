@@ -64,3 +64,9 @@
 [submodule "libraries/drivers/mitutoyo"]
 	path = libraries/drivers/mitutoyo
 	url = https://github.com/vifino/CircuitPython-mitutoyo.git
+[submodule "libraries/helpers/base64"]
+    path = libraries/helpers/base64
+	url = https://github.com/jimbobbennett/CircuitPython-base64.git
+[submodule "libraries/helpers/HMAC"]
+    path = libraries/helpers/HMAC
+	url = https://github.com/jimbobbennett/CircuitPython-HMAC.git
