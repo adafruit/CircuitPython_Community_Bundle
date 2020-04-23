@@ -73,3 +73,6 @@
 [submodule "libraries/helpers/parse"]
 	path = libraries/helpers/parse
 	url = https://github.com/jimbobbennett/CircuitPython_Parse
+[submodule "libraries/helpers/interparray"]
+	path = libraries/helpers/interparray
+	url = https://github.com/95Fox/interparray.git
