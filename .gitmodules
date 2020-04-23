@@ -73,3 +73,6 @@
 [submodule "libraries/helpers/parse"]
 	path = libraries/helpers/parse
 	url = https://github.com/jimbobbennett/CircuitPython_Parse
+[submodule "libraries/helpers/AzureCustomVision_Prediction"]
+	path = libraries/helpers/AzureCustomVision_Prediction
+	url = https://github.com/jimbobbennett/CircuitPython_AzureCustomVision_Prediction
