@@ -76,3 +76,6 @@
 [submodule "libraries/helpers/AzureCustomVision_Prediction"]
 	path = libraries/helpers/AzureCustomVision_Prediction
 	url = https://github.com/jimbobbennett/CircuitPython_AzureCustomVision_Prediction
+[submodule "libraries/helpers/ahrs"]
+	path = libraries/helpers/ahrs
+	url = https://github.com/gamblor21/CircuitPython_AHRS.git
