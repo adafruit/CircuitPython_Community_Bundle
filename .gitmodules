@@ -79,3 +79,6 @@
 [submodule "libraries/helpers/gamblor21_ahrs"]
 	path = libraries/helpers/gamblor21_ahrs
 	url = https://github.com/gamblor21/Gamblor21_CircuitPython_AHRS.git
+[submodule "libraries/drivers/ltr559"]
+	path = libraries/drivers/ltr559
+	url = https://github.com/pimoroni/Pimoroni_CircuitPython_LTR559/
