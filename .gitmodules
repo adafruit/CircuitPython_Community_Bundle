@@ -82,3 +82,6 @@
 [submodule "libraries/drivers/ltr559"]
 	path = libraries/drivers/ltr559
 	url = https://github.com/pimoroni/Pimoroni_CircuitPython_LTR559.git
+[submodule "libraries/helpers/udecimal"]
+	path = libraries/helpers/udecimal
+	url = https://github.com/jepler/Jepler_CircuitPython_udecimal.git
