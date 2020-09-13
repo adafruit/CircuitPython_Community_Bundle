@@ -79,3 +79,6 @@
 [submodule "libraries/helpers/gamblor21_ahrs"]
 	path = libraries/helpers/gamblor21_ahrs
 	url = https://github.com/gamblor21/Gamblor21_CircuitPython_AHRS.git
+[submodule "libraries/drivers/dynamixel"]
+	path = libraries/drivers/dynamixel
+	url = https://github.com/hierophect/Circuitpython_Dynamixel.git
