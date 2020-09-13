@@ -36,6 +36,10 @@ Determine the best location within `libraries` for the new library and then run:
 The target directory should omit any MicroPython or CircuitPython specific
 prefixes such as `CircuitPython_` to simplify the listing.
 
+You should make sure that the git url has the format `https://github.com/{:user}/{:repo}.git`,
+such as `https://github.com/tannewt/CircuitPython_Example.git`.  Other forms may interfere with
+adabot scripts (see https://github.com/adafruit/adabot/issues/145 for details).
+
 ## Removing a library
 Only do this if you are replacing the module with an equivalent:
 
