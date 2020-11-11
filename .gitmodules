@@ -94,3 +94,6 @@
 [submodule "libraries/drivers/blinka_displayio_pygamedisplay"]
 	path = libraries/drivers/blinka_displayio_pygamedisplay
 	url = https://github.com/FoamyGuy/Blinka_Displayio_PyGameDisplay.git
+[submodule "libraries/helpers/debouncedbutton"]
+	path = libraries/helpers/debouncedbutton
+	url = https://github.com/BradChan/Adafruit_CircuitPython_DebouncedButton.git
