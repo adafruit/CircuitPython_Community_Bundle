@@ -91,6 +91,3 @@
 [submodule "libraries/helpers/discordbot"]
 	path = libraries/helpers/discordbot
 	url = https://github.com/2231puppy/CircuitPython_DiscordBot.git
-[submodule "libraries/drivers/blinka_displayio_pygamedisplay"]
-	path = libraries/drivers/blinka_displayio_pygamedisplay
-	url = https://github.com/FoamyGuy/Blinka_Displayio_PyGameDisplay.git
