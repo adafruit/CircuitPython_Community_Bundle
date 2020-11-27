@@ -91,3 +91,6 @@
 [submodule "libraries/helpers/discordbot"]
 	path = libraries/helpers/discordbot
 	url = https://github.com/2231puppy/CircuitPython_DiscordBot.git
+[submodule "libraries/drivers/mics6814"]
+	path = libraries/drivers/mics6814
+	url = https://github.com/pimoroni/Pimoroni_CircuitPython_MICS6814.git
