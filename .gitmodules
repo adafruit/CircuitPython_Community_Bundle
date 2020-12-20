@@ -94,3 +94,6 @@
 [submodule "libraries/drivers/mics6814"]
 	path = libraries/drivers/mics6814
 	url = https://github.com/pimoroni/Pimoroni_CircuitPython_MICS6814.git
+[submodule "libraries/helpers/circuitpython_display_frame"]
+	path = libraries/helpers/circuitpython_display_frame
+	url = https://github.com/FoamyGuy/CircuitPython_Display_Frame.git
