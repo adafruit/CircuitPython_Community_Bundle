@@ -91,3 +91,6 @@
 [submodule "libraries/helpers/discordbot"]
 	path = libraries/helpers/discordbot
 	url = https://github.com/2231puppy/CircuitPython_DiscordBot.git
+[submodule "libraries/drivers/at42qt107"]
+	path = libraries/drivers/at42qt107
+	url = https://github.com/skerr92/at42qt-acorn-python.git
