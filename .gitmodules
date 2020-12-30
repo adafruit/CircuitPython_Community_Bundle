@@ -97,3 +97,6 @@
 [submodule "libraries/helpers/circuitpython_display_frame"]
 	path = libraries/helpers/circuitpython_display_frame
 	url = https://github.com/FoamyGuy/CircuitPython_Display_Frame.git
+[submodule "libraries/drivers/at42qt1070"]
+	path = libraries/drivers/at42qt1070
+	url = https://github.com/skerr92/at42qt-acorn-python.git
