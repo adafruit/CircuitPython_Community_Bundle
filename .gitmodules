@@ -19,12 +19,6 @@
 [submodule "libraries/drivers/slight_tlc5957"]
 	path = libraries/drivers/slight_tlc5957
 	url = https://github.com/s-light/slight_CircuitPython_TLC5957.git
-[submodule "libraries/drivers/tmp75"]
-	path = libraries/drivers/tmp75
-	url = https://github.com/barbudor/CircuitPython_TMP75.git
-[submodule "libraries/drivers/ina3221"]
-	path = libraries/drivers/ina3221
-	url = https://github.com/barbudor/CircuitPython_INA3221.git
 [submodule "libraries/drivers/qwiicjoystick"]
 	path = libraries/drivers/qwiicjoystick
 	url = https://github.com/fourstix/Sparkfun_CircuitPython_QwiicJoystick.git
@@ -85,12 +79,6 @@
 [submodule "libraries/drivers/ltr559"]
 	path = libraries/drivers/ltr559
 	url = https://github.com/pimoroni/Pimoroni_CircuitPython_LTR559.git
-[submodule "libraries/helpers/udecimal"]
-	path = libraries/helpers/udecimal
-	url = https://github.com/jepler/Jepler_CircuitPython_udecimal.git
-[submodule "libraries/helpers/discordbot"]
-	path = libraries/helpers/discordbot
-	url = https://github.com/2231puppy/CircuitPython_DiscordBot.git
 [submodule "libraries/drivers/mics6814"]
 	path = libraries/drivers/mics6814
 	url = https://github.com/pimoroni/Pimoroni_CircuitPython_MICS6814.git
