@@ -100,3 +100,6 @@
 [submodule "libraries/drivers/at42qt1070"]
 	path = libraries/drivers/at42qt1070
 	url = https://github.com/skerr92/at42qt-acorn-python.git
+[submodule "libraries/drivers/wiiclassic"]
+	path = libraries/drivers/wiiclassic
+	url = https://github.com/jfurcean/CircuitPython_WiiClassic.git
