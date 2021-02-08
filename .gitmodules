@@ -100,3 +100,6 @@
 [submodule "libraries/drivers/at42qt1070"]
 	path = libraries/drivers/at42qt1070
 	url = https://github.com/skerr92/at42qt-acorn-python.git
+[submodule "libraries/drivers/wiichuck"]
+	path = libraries/drivers/wiichuck
+	url = https://github.com/jfurcean/CircuitPython_WiiChuck.git
