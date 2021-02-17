@@ -60,4 +60,4 @@ Once installed, make sure you are in the virtual environment:
 
 Then run the build:
 
-    circuitpython-build-bundles --filename_prefix circuitpython-community-bundle --library_location libraries --library_depth 2
+    ./build.sh
