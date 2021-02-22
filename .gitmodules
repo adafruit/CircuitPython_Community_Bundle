@@ -103,3 +103,6 @@
 [submodule "libraries/drivers/wiichuck"]
 	path = libraries/drivers/wiichuck
 	url = https://github.com/jfurcean/CircuitPython_WiiChuck.git
+[submodule "libraries/drivers/as3935"]
+	path = libraries/drivers/as3935
+	url = https://github.com/BiffoBear/CircuitPython_AS3935.git
