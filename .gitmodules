@@ -108,4 +108,4 @@
 	url = https://github.com/BiffoBear/CircuitPython_AS3935.git
 [submodule "libraries/drivers/bteve"]
 	path = libraries/drivers/bteve
-	url = git@github.com:jamesbowman/CircuitPython_bteve.git
+	url = https://github.com/jamesbowman/CircuitPython_bteve.git
