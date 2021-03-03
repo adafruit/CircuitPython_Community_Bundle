@@ -106,3 +106,6 @@
 [submodule "libraries/drivers/as3935"]
 	path = libraries/drivers/as3935
 	url = https://github.com/BiffoBear/CircuitPython_AS3935.git
+[submodule "libraries/drivers/bteve"]
+	path = libraries/drivers/bteve
+	url = https://github.com/jamesbowman/CircuitPython_bteve.git
