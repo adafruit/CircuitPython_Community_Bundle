@@ -109,3 +109,6 @@
 [submodule "libraries/drivers/bteve"]
 	path = libraries/drivers/bteve
 	url = https://github.com/jamesbowman/CircuitPython_bteve.git
+[submodule "libraries/drivers/gc9a01"]
+	path = libraries/drivers/gc9a01
+	url = https://github.com/tylercrumpton/CircuitPython_GC9A01.git
