@@ -112,3 +112,6 @@
 [submodule "libraries/drivers/gc9a01"]
 	path = libraries/drivers/gc9a01
 	url = https://github.com/tylercrumpton/CircuitPython_GC9A01.git
+[submodule "libraries/helpers/PiperBlocklyLibrary"]
+	path = libraries/helpers/PiperBlocklyLibrary
+	url = https://github.com/buildwithpiper/PiperBlocklyLibrary.git
