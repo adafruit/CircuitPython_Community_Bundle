@@ -115,3 +115,6 @@
 [submodule "libraries/helpers/PiperBlocklyLibrary"]
 	path = libraries/helpers/PiperBlocklyLibrary
 	url = https://github.com/buildwithpiper/PiperBlocklyLibrary.git
+[submodule "libraries/helpers/uschedule"]
+	path = libraries/helpers/uschedule
+	url = https://github.com/cognitivegears/CircuitPython_uschedule.git
