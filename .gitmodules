@@ -118,3 +118,6 @@
 [submodule "libraries/helpers/arrow_line"]
 	path = libraries/helpers/arrow_line
 	url = https://github.com/jposada202020/CircuitPython_ArrowLine.git
+[submodule "libraries/helpers/candlesticks"]
+	path = libraries/helpers/candlesticks
+	url = https://github.com/jposada202020/CircuitPython_Candlesticks.git
