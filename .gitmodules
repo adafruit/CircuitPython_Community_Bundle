@@ -115,3 +115,9 @@
 [submodule "libraries/helpers/PiperBlocklyLibrary"]
 	path = libraries/helpers/PiperBlocklyLibrary
 	url = https://github.com/buildwithpiper/PiperBlocklyLibrary.git
+[submodule "libraries/helpers/arrowline"]
+	path = libraries/helpers/arrowline
+	url = https://github.com/jposada202020/CircuitPython_ArrowLine.git
+[submodule "libraries/helpers/candlesticks"]
+	path = libraries/helpers/candlesticks
+	url = https://github.com/jposada202020/CircuitPython_Candlesticks.git
