@@ -41,6 +41,7 @@ Here is a listing of current CircuitPython Community Libraries. There are 41 lib
 * [CircuitPython Display Frame](https://github.com/FoamyGuy/CircuitPython_Display_Frame.git) ([PyPi](https://pypi.org/project/circuitpython-display-frame)) \([Docs](https://circuitpython.readthedocs.io/projects/display_frame/en/latest/))
 * [CircuitPython Example](https://github.com/tannewt/CircuitPython_Example.git) \([Docs](https://circuitpython-example.readthedocs.io/en/latest/))
 * [CircuitPython HMAC](https://github.com/jimbobbennett/CircuitPython_HMAC) ([PyPi](https://pypi.org/project/circuitpython-hmac)) \([Docs](https://circuitpython.readthedocs.io/projects/hmac/en/latest/))
+* [CircuitPython MorseCode](https://github.com/jposada202020/CircuitPython_MorseCode.git) \([Docs](https://circuitpython-morsecode.readthedocs.io/en/latest/))
 * [CircuitPython Parse](https://github.com/jimbobbennett/CircuitPython_Parse) ([PyPi](https://pypi.org/project/circuitpython-parse)) \([Docs](https://circuitpython.readthedocs.io/projects/parse/en/latest/))
 * [Gamblor21 CircuitPython AHRS](https://github.com/gamblor21/Gamblor21_CircuitPython_AHRS.git) \([Docs](https://circuitpython-ahrs.readthedocs.io/))
 * [Jepler CircuitPython udecimal](https://github.com/jepler/Jepler_CircuitPython_udecimal.git) ([PyPi](https://pypi.org/project/jepler-circuitpython-udecimal)) \([Docs](https://jepler-udecimal.readthedocs.io/en/latest/))

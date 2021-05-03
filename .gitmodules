@@ -124,3 +124,6 @@
 [submodule "libraries/helpers/schedule"]
 	path = libraries/helpers/schedule
 	url = https://github.com/cognitivegears/CircuitPython_Schedule.git
+[submodule "libraries/helpers/morsecode"]
+	path = libraries/helpers/morsecode
+	url = https://github.com/jposada202020/CircuitPython_MorseCode.git
