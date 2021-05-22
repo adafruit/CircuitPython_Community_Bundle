@@ -1,3 +1,5 @@
 build/*
 .env
 bundles
+build_deps
+build-circuitpython*
