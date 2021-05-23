@@ -127,3 +127,6 @@
 [submodule "libraries/helpers/morsecode"]
 	path = libraries/helpers/morsecode
 	url = https://github.com/jposada202020/CircuitPython_MorseCode.git
+[submodule "libraries/helpers/styles"]
+	path = libraries/helpers/styles
+	url = https://github.com/jposada202020/CircuitPython_styles
