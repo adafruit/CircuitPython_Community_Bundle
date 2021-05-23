@@ -127,3 +127,6 @@
 [submodule "libraries/helpers/morsecode"]
 	path = libraries/helpers/morsecode
 	url = https://github.com/jposada202020/CircuitPython_MorseCode.git
+[submodule "libraries/drivers/tca9555"]
+	path = libraries/drivers/tca9555
+	url = https://github.com/lesamouraipourpre/Community_CircuitPython_TCA9555.git
