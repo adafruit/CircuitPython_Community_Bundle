@@ -1,7 +1,7 @@
-#CircuitPython Community Libraries
+# CircuitPython Community Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current CircuitPython Community Libraries. There are 41 libraries available.
+Here is a listing of current CircuitPython Community Libraries. There are 43 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -10,6 +10,7 @@ Here is a listing of current CircuitPython Community Libraries. There are 41 lib
 * [CircuitPython HCSR04](https://github.com/mmabey/CircuitPython_HCSR04.git)
 * [CircuitPython INA3221](https://github.com/barbudor/CircuitPython_INA3221.git) \([Docs](https://circuitpython-ina3221.readthedocs.io/en/latest/))
 * [CircuitPython SH1106](https://github.com/winneymj/CircuitPython_SH1106)
+* [CircuitPython TCA9555](https://github.com/lesamouraipourpre/Community_CircuitPython_TCA9555) \([PyPI](https://pypi.org/project/community-circuitpython-tca9555/)) \([Docs](http://community-circuitpython-tca9555.rtfd.io/))
 * [CircuitPython TMP75](https://github.com/barbudor/CircuitPython_TMP75.git) \([Docs](https://circuitpython-tmp75.readthedocs.io/en/latest/))
 * [CircuitPython WiiChuck](https://github.com/jfurcean/CircuitPython_WiiChuck.git) ([PyPi](https://pypi.org/project/circuitpython-wiichuck)) \([Docs](https://circuitpython-wiichuck.readthedocs.io/))
 * [CircuitPython bteve](https://github.com/jamesbowman/CircuitPython_bteve.git)
