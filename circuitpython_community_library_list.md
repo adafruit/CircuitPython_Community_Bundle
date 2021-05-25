@@ -44,7 +44,7 @@ Here is a listing of current CircuitPython Community Libraries. There are 45 lib
 * [CircuitPython HMAC](https://github.com/jimbobbennett/CircuitPython_HMAC) ([PyPi](https://pypi.org/project/circuitpython-hmac)) \([Docs](https://circuitpython.readthedocs.io/projects/hmac/en/latest/))
 * [CircuitPython MorseCode](https://github.com/jposada202020/CircuitPython_MorseCode.git) \([Docs](https://circuitpython-morsecode.readthedocs.io/en/latest/))
 * [CircuitPython Parse](https://github.com/jimbobbennett/CircuitPython_Parse) ([PyPi](https://pypi.org/project/circuitpython-parse)) \([Docs](https://circuitpython.readthedocs.io/projects/parse/en/latest/))
-* [CircuitPython_Schedule](https://github.com/cognitivegears/CircuitPython_Schedule.git) ([PyPi](https://pypi.org/project/circuitpython-parse)) \([Docs](https://circuitpython-schedule.readthedocs.io/en/latest/))
+* [CircuitPython_Schedule](https://pypi.org/project/circuitpython-schedule) ([PyPi](https://pypi.org/project/circuitpython-parse)) \([Docs](https://circuitpython-schedule.readthedocs.io/en/latest/))
 * [CircuitPython Styles](https://github.com/jposada202020/CircuitPython_styles.git) \([Docs](https://circuitpython-styles.readthedocs.io/en/latest/))
 * [Gamblor21 CircuitPython AHRS](https://github.com/gamblor21/Gamblor21_CircuitPython_AHRS.git) \([Docs](https://circuitpython-ahrs.readthedocs.io/))
 * [Jepler CircuitPython udecimal](https://github.com/jepler/Jepler_CircuitPython_udecimal.git) ([PyPi](https://pypi.org/project/jepler-circuitpython-udecimal)) \([Docs](https://jepler-udecimal.readthedocs.io/en/latest/))
