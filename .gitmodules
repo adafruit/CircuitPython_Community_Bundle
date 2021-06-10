@@ -133,3 +133,6 @@
 [submodule "libraries/helpers/styles"]
 	path = libraries/helpers/styles
 	url = https://github.com/jposada202020/CircuitPython_styles
+[submodule "libraries/drivers/74hc165"]
+	path = libraries/drivers/74hc165
+	url = https://github.com/WoolseyWorkshop/WoolseyWorkshop_CircuitPython_74HC165.git
