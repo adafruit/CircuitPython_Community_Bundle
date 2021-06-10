@@ -1,7 +1,7 @@
 # CircuitPython Community Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current CircuitPython Community Libraries. There are 45 libraries available.
+Here is a listing of current CircuitPython Community Libraries. There are 46 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
