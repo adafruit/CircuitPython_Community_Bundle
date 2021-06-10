@@ -31,6 +31,7 @@ Here is a listing of current CircuitPython Community Libraries. There are 45 lib
 * [Sparkfun CircuitPython SerLCD](https://github.com/fourstix/Sparkfun_CircuitPython_SerLCD.git) ([PyPi](https://pypi.org/project/sparkfun-circuitpython-serlcd)) \([Docs](https://sparkfun-circuitpython-serlcd.readthedocs.io/en/latest/))
 * [at42qt-acorn-python](https://github.com/skerr92/at42qt-acorn-python.git)
 * [slight CircuitPython TLC5957](https://github.com/s-light/slight_CircuitPython_TLC5957.git)
+* [Woolsey Workshop CircuitPython 74HC165](https://github.com/WoolseyWorkshop/WoolseyWorkshop_CircuitPython_74HC165.git) ([PyPI](https://pypi.org/project/woolseyworkshop-circuitpython-74hc165/)) \([Docs](https://woolseyworkshop-circuitpython-74hc165.readthedocs.io/en/latest/))
 
 ## Helpers:
 * [CIRCUITPYTHON ifttt](https://github.com/benevpi/CIRCUITPYTHON_ifttt.git) \([Docs](https://circuitpython-ifttt.readthedocs.io/))
