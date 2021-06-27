@@ -32,6 +32,7 @@ Here is a listing of current CircuitPython Community Libraries. There are 46 lib
 * [at42qt-acorn-python](https://github.com/skerr92/at42qt-acorn-python.git)
 * [slight CircuitPython TLC5957](https://github.com/s-light/slight_CircuitPython_TLC5957.git)
 * [Woolsey Workshop CircuitPython 74HC165](https://github.com/WoolseyWorkshop/WoolseyWorkshop_CircuitPython_74HC165.git) ([PyPI](https://pypi.org/project/woolseyworkshop-circuitpython-74hc165/)) \([Docs](https://woolseyworkshop-circuitpython-74hc165.readthedocs.io/en/latest/))
+* [CircuitPython NeoTrellisM4 extended (with Neotrellis seesaw boards)] (https://github.com/arofarn/CircuitPython_TrellisM4_extended)
 
 ## Helpers:
 * [CIRCUITPYTHON ifttt](https://github.com/benevpi/CIRCUITPYTHON_ifttt.git) \([Docs](https://circuitpython-ifttt.readthedocs.io/))

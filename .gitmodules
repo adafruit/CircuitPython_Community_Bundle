@@ -136,3 +136,6 @@
 [submodule "libraries/drivers/74hc165"]
 	path = libraries/drivers/74hc165
 	url = https://github.com/WoolseyWorkshop/WoolseyWorkshop_CircuitPython_74HC165.git
+[submodule "libraries/drivers/trellism4_extended"]
+	path = libraries/drivers/trellism4_extended
+	url = https://github.com/arofarn/CircuitPython_TrellisM4_extended.git
