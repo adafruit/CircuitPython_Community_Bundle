@@ -1,7 +1,7 @@
 # CircuitPython Community Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current CircuitPython Community Libraries. There are 46 libraries available.
+Here is a listing of current CircuitPython Community Libraries. There are 48 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -44,6 +44,7 @@ Here is a listing of current CircuitPython Community Libraries. There are 46 lib
 * [CircuitPython Display Frame](https://github.com/FoamyGuy/CircuitPython_Display_Frame.git) ([PyPi](https://pypi.org/project/circuitpython-display-frame)) \([Docs](https://circuitpython.readthedocs.io/projects/display_frame/en/latest/))
 * [CircuitPython Example](https://github.com/tannewt/CircuitPython_Example.git) \([Docs](https://circuitpython-example.readthedocs.io/en/latest/))
 * [CircuitPython HMAC](https://github.com/jimbobbennett/CircuitPython_HMAC) ([PyPi](https://pypi.org/project/circuitpython-hmac)) \([Docs](https://circuitpython.readthedocs.io/projects/hmac/en/latest/))
+* [CircuitPython I2C Button](https://github.com/gmparis/CircuitPython_I2C_Button) \([Docs](https://circuitpython-i2c-button.readthedocs.io/en/latest/))
 * [CircuitPython MorseCode](https://github.com/jposada202020/CircuitPython_MorseCode.git) ([PyPi](https://pypi.org/project/circuitpython-MorseCode)) \([Docs](https://circuitpython-morsecode.readthedocs.io/en/latest/))
 * [CircuitPython Parse](https://github.com/jimbobbennett/CircuitPython_Parse) ([PyPi](https://pypi.org/project/circuitpython-parse)) \([Docs](https://circuitpython.readthedocs.io/projects/parse/en/latest/))
 * [CircuitPython_Schedule](https://pypi.org/project/circuitpython-schedule) ([PyPi](https://pypi.org/project/circuitpython-parse)) \([Docs](https://circuitpython-schedule.readthedocs.io/en/latest/))
