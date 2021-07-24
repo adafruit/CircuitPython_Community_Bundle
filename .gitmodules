@@ -142,3 +142,6 @@
 [submodule "libraries/drivers/i2c_button"]
 	path = libraries/drivers/i2c_button
 	url = https://github.com/gmparis/CircuitPython_I2C_Button.git
+[submodule "libraries/drivers/bluepad32"]
+	path = libraries/drivers/bluepad32
+	url = https://github.com/ricardoquesada/bluepad32-circuitpython.git
