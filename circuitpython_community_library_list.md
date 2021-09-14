@@ -1,7 +1,7 @@
 # CircuitPython Community Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current CircuitPython Community Libraries. There are 48 libraries available.
+Here is a listing of current CircuitPython Community Libraries. There are 49 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -54,3 +54,5 @@ Here is a listing of current CircuitPython Community Libraries. There are 48 lib
 * [PiperBlocklyLibrary](https://github.com/buildwithpiper/PiperBlocklyLibrary.git)
 * [circuitPython dotstar featherwing](https://github.com/dastels/circuitPython_dotstar_featherwing.git) \([Docs](https://circuitpython.readthedocs.io/projects/dotstar_featherwing/en/latest/))
 * [nonblocking timer](https://github.com/Angeleno-Tech/nonblocking_timer.git) \([Docs](https://circuitpython-nonblocking_timer.readthedocs.io/))
+* [CircuitPython_async](https://github.com/WarriorOfWire/CircuitPython_async.git)
+
