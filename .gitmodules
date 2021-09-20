@@ -145,3 +145,6 @@
 [submodule "libraries/drivers/bluepad32"]
 	path = libraries/drivers/bluepad32
 	url = https://github.com/ricardoquesada/bluepad32-circuitpython.git
+[submodule "libraries/helpers/asynccp"]
+	path = libraries/helpers/asynccp
+	url = https://github.com/WarriorOfWire/CircuitPython_async.git
