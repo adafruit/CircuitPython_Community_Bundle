@@ -148,3 +148,6 @@
 [submodule "libraries/helpers/asynccp"]
 	path = libraries/helpers/asynccp
 	url = https://github.com/WarriorOfWire/CircuitPython_async.git
+[submodule "libraries/helpers/csv"]
+	path = libraries/helpers/csv
+	url = https://github.com/tekktrik/CircuitPython_CSV.git
