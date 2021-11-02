@@ -151,3 +151,6 @@
 [submodule "libraries/helpers/csv"]
 	path = libraries/helpers/csv
 	url = https://github.com/tekktrik/CircuitPython_CSV.git
+[submodule "libraries/helpers/nvm_helper"]
+	path = libraries/helpers/nvm_helper
+	url = https://github.com/FoamyGuy/Foamyguy_CircuitPython_nvm_helper.git
