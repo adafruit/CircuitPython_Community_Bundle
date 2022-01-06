@@ -10,10 +10,10 @@ jobs:
       env:
         GITHUB_CONTEXT: ${{ toJson(github) }}
       run: echo "$GITHUB_CONTEXT"
-    - name: Set up Python 3.7
+    - name: Set up Python 3
       uses: actions/setup-python@v1
       with:
-        python-version: 3.7
+        python-version: 3.x
     - name: Versions
       run: |
         python3 --version
@@ -21,7 +21,7 @@ jobs:
       with:
         submodules: true
     - name: Fetch correct submodule shas
-      run: git submodule foreach 'git fetch --tags --depth 1 origin $$sha1 && git checkout -q $$sha1'
+      run: git submodule foreach 'git fetch --tags --depth 1 origin $sha1 && git checkout -q $sha1'
     - name: Install deps
       run: |
         sudo apt-get install -y gettext gawk
