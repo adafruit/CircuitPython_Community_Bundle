@@ -154,3 +154,9 @@
 [submodule "libraries/helpers/nvm_helper"]
 	path = libraries/helpers/nvm_helper
 	url = https://github.com/FoamyGuy/Foamyguy_CircuitPython_nvm_helper.git
+[submodule "libraries/helpers/ansi_escape_code"]
+	path = libraries/helpers/ansi_escape_code
+	url = https://github.com/s-light/CircuitPython_ansi_escape_code.git
+[submodule "libraries/helpers/nonblocking_serialinput"]
+	path = libraries/helpers/nonblocking_serialinput
+	url = https://github.com/s-light/CircuitPython_nonblocking_serialinput.git
