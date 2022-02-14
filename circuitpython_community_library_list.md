@@ -1,10 +1,12 @@
 # CircuitPython Community Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
 
-Here is a listing of current CircuitPython Community Libraries. There are 49 libraries available.
+Here is a listing of current CircuitPython Community Libraries. There are 54 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
+* [at42qt-acorn-python](https://github.com/skerr92/at42qt-acorn-python.git)
+* [Bluepad 32](https://github.com/ricardoquesada/bluepad32-circuitpython)
 * [CircuitPython AS3935](https://github.com/BiffoBear/CircuitPython_AS3935.git) \([Docs](https://circuitpython-as3935.readthedocs.io/))
 * [CircuitPython GC9A01](https://github.com/tylercrumpton/CircuitPython_GC9A01.git)
 * [CircuitPython HCSR04](https://github.com/mmabey/CircuitPython_HCSR04.git)
@@ -14,6 +16,7 @@ Here is a listing of current CircuitPython Community Libraries. There are 49 lib
 * [CircuitPython TMP75](https://github.com/barbudor/CircuitPython_TMP75.git) \([Docs](https://circuitpython-tmp75.readthedocs.io/en/latest/))
 * [CircuitPython WiiChuck](https://github.com/jfurcean/CircuitPython_WiiChuck.git) ([PyPi](https://pypi.org/project/circuitpython-wiichuck)) \([Docs](https://circuitpython-wiichuck.readthedocs.io/))
 * [CircuitPython bteve](https://github.com/jamesbowman/CircuitPython_bteve.git)
+* [CircuitPython NeoTrellisM4 extended (with Neotrellis seesaw boards)](https://github.com/arofarn/CircuitPython_TrellisM4_extended)
 * [CircuitPython nRF24L01](https://github.com/2bndy5/CircuitPython_nRF24L01.git) ([PyPi](https://pypi.org/project/circuitpython-nrf24l01)) \([Docs](https://circuitpython-nrf24l01.readthedocs.io/en/stable/))
 * [CircuitPython-i2cEncoderLibV21](https://github.com/bwshockley/CircuitPython-i2cEncoderLibV21.git) \([Docs](https://circuitpython-i2cencoderlibv21.readthedocs.io/))
 * [CircuitPython-mitutoyo](https://github.com/vifino/CircuitPython-mitutoyo.git) \([Docs](https://circuitpython-mitutoyo.readthedocs.io/))
@@ -29,17 +32,18 @@ Here is a listing of current CircuitPython Community Libraries. There are 49 lib
 * [Sparkfun CircuitPython QwiicRelay](https://github.com/fourstix/Sparkfun_CircuitPython_QwiicRelay.git) ([PyPi](https://pypi.org/project/sparkfun-circuitpython-qwiicrelay)) \([Docs](https://sparkfun-circuitpython-qwiicrelay.readthedocs.io/en/latest/))
 * [Sparkfun CircuitPython QwiicTwist](https://github.com/fourstix/Sparkfun_CircuitPython_QwiicTwist.git) \([Docs](https://sparkfun-circuitpython-qwiictwist.readthedocs.io/en/latest/))
 * [Sparkfun CircuitPython SerLCD](https://github.com/fourstix/Sparkfun_CircuitPython_SerLCD.git) ([PyPi](https://pypi.org/project/sparkfun-circuitpython-serlcd)) \([Docs](https://sparkfun-circuitpython-serlcd.readthedocs.io/en/latest/))
-* [at42qt-acorn-python](https://github.com/skerr92/at42qt-acorn-python.git)
 * [slight CircuitPython TLC5957](https://github.com/s-light/slight_CircuitPython_TLC5957.git)
 * [Woolsey Workshop CircuitPython 74HC165](https://github.com/WoolseyWorkshop/WoolseyWorkshop_CircuitPython_74HC165.git) ([PyPI](https://pypi.org/project/woolseyworkshop-circuitpython-74hc165/)) \([Docs](https://woolseyworkshop-circuitpython-74hc165.readthedocs.io/en/latest/))
-* [CircuitPython NeoTrellisM4 extended (with Neotrellis seesaw boards)](https://github.com/arofarn/CircuitPython_TrellisM4_extended)
 
 ## Helpers:
+* [Ansi Escape Codes](https://github.com/s-light/CircuitPython_ansi_escape_code) \([Docs](https://circuitpython-ansi-escape-code.readthedocs.io/))
 * [CIRCUITPYTHON ifttt](https://github.com/benevpi/CIRCUITPYTHON_ifttt.git) \([Docs](https://circuitpython-ifttt.readthedocs.io/))
 * [CircuitPython ArrowLine](https://github.com/jposada202020/CircuitPython_ArrowLine.git) ([PyPi](https://pypi.org/project/circuitpython-ArrowLine))  \([Docs](https://circuitpython-arrowline.readthedocs.io/))
+* [CircuitPython_async](https://github.com/WarriorOfWire/CircuitPython_async.git)
 * [CircuitPython AzureCustomVision Prediction](https://github.com/jimbobbennett/CircuitPython_AzureCustomVision_Prediction) ([PyPi](https://pypi.org/project/circuitpython-azurecustomvision-prediction)) \([Docs](https://circuitpython.readthedocs.io/projects/circuitpython_azurecustomvision_prediction/en/latest/))
 * [CircuitPython Base64](https://github.com/jimbobbennett/CircuitPython_Base64) ([PyPi](https://pypi.org/project/circuitpython-base64)) \([Docs](https://circuitpython.readthedocs.io/projects/base64/en/latest/))
 * [CircuitPython Candlesticks](https://github.com/jposada202020/CircuitPython_Candlesticks.git) ([PyPi](https://pypi.org/project/circuitpython-Candlesticks)) \([Docs](https://circuitpython-candlesticks.readthedocs.io/))
+* [CircuitPython CSV](https://github.com/tekktrik/CircuitPython_CSV) \([Docs](https://circuitpython-csv.readthedocs.io/))
 * [CircuitPython DiscordBot](https://github.com/2231puppy/CircuitPython_DiscordBot.git)
 * [CircuitPython Display Frame](https://github.com/FoamyGuy/CircuitPython_Display_Frame.git) ([PyPi](https://pypi.org/project/circuitpython-display-frame)) \([Docs](https://circuitpython.readthedocs.io/projects/display_frame/en/latest/))
 * [CircuitPython Example](https://github.com/tannewt/CircuitPython_Example.git) \([Docs](https://circuitpython-example.readthedocs.io/en/latest/))
@@ -54,5 +58,5 @@ Here is a listing of current CircuitPython Community Libraries. There are 49 lib
 * [PiperBlocklyLibrary](https://github.com/buildwithpiper/PiperBlocklyLibrary.git)
 * [circuitPython dotstar featherwing](https://github.com/dastels/circuitPython_dotstar_featherwing.git) \([Docs](https://circuitpython.readthedocs.io/projects/dotstar_featherwing/en/latest/))
 * [nonblocking timer](https://github.com/Angeleno-Tech/nonblocking_timer.git) \([Docs](https://circuitpython-nonblocking_timer.readthedocs.io/))
-* [CircuitPython_async](https://github.com/WarriorOfWire/CircuitPython_async.git)
-
+* [nonblocking Serial Input](https://github.com/s-light/CircuitPython_nonblocking_serialinput) \([Docs](https://circuitpython-nonblocking-serialinput.readthedocs.io/))
+* [NVM Helper](https://github.com/FoamyGuy/Foamyguy_CircuitPython_nvm_helper) \([Docs](https://circuitpython-nvm-helper.readthedocs.io/))
