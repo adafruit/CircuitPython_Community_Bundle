@@ -160,3 +160,6 @@
 [submodule "libraries/helpers/nonblocking_serialinput"]
 	path = libraries/helpers/nonblocking_serialinput
 	url = https://github.com/s-light/CircuitPython_nonblocking_serialinput.git
+[submodule "libraries/helpers/functools"]
+	path = libraries/helpers/functools
+	url = https://github.com/tekktrik/CircuitPython_functools.git
