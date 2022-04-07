@@ -47,6 +47,7 @@ Here is a listing of current CircuitPython Community Libraries. There are 54 lib
 * [CircuitPython DiscordBot](https://github.com/2231puppy/CircuitPython_DiscordBot.git)
 * [CircuitPython Display Frame](https://github.com/FoamyGuy/CircuitPython_Display_Frame.git) ([PyPi](https://pypi.org/project/circuitpython-display-frame)) \([Docs](https://circuitpython.readthedocs.io/projects/display_frame/en/latest/))
 * [CircuitPython Example](https://github.com/tannewt/CircuitPython_Example.git) \([Docs](https://circuitpython-example.readthedocs.io/en/latest/))
+* [CircuitPython Functools](https://github.com/tekktrik/CircuitPython_Functools.git) \([Docs](https://circuitpython-functools.readthedocs.io/en/latest/))
 * [CircuitPython HMAC](https://github.com/jimbobbennett/CircuitPython_HMAC) ([PyPi](https://pypi.org/project/circuitpython-hmac)) \([Docs](https://circuitpython.readthedocs.io/projects/hmac/en/latest/))
 * [CircuitPython I2C Button](https://github.com/gmparis/CircuitPython_I2C_Button) \([Docs](https://circuitpython-i2c-button.readthedocs.io/en/latest/))
 * [CircuitPython MorseCode](https://github.com/jposada202020/CircuitPython_MorseCode.git) ([PyPi](https://pypi.org/project/circuitpython-MorseCode)) \([Docs](https://circuitpython-morsecode.readthedocs.io/en/latest/))
