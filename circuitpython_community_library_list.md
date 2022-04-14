@@ -14,6 +14,7 @@ Here is a listing of current CircuitPython Community Libraries. There are 54 lib
 * [CircuitPython SH1106](https://github.com/winneymj/CircuitPython_SH1106)
 * [CircuitPython TCA9555](https://github.com/lesamouraipourpre/Community_CircuitPython_TCA9555) \([PyPI](https://pypi.org/project/community-circuitpython-tca9555/)) \([Docs](http://community-circuitpython-tca9555.rtfd.io/))
 * [CircuitPython TMP75](https://github.com/barbudor/CircuitPython_TMP75.git) \([Docs](https://circuitpython-tmp75.readthedocs.io/en/latest/))
+* [CircuitPython TicStepper](https://github.com/barbudor/CircuitPython_TicStepper.git) \([Docs](https://circuitpython-ticstepper.readthedocs.io/en/latest/))
 * [CircuitPython WiiChuck](https://github.com/jfurcean/CircuitPython_WiiChuck.git) ([PyPi](https://pypi.org/project/circuitpython-wiichuck)) \([Docs](https://circuitpython-wiichuck.readthedocs.io/))
 * [CircuitPython bteve](https://github.com/jamesbowman/CircuitPython_bteve.git)
 * [CircuitPython NeoTrellisM4 extended (with Neotrellis seesaw boards)](https://github.com/arofarn/CircuitPython_TrellisM4_extended)

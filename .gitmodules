@@ -163,3 +163,6 @@
 [submodule "libraries/helpers/functools"]
 	path = libraries/helpers/functools
 	url = https://github.com/tekktrik/CircuitPython_functools.git
+[submodule "libraries/drivers/ticstepper"]
+	path = libraries/drivers/ticstepper
+	url = https://github.com/tekktrik/CircuitPython_TicStepper.git
