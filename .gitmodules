@@ -166,6 +166,3 @@
 [submodule "libraries/drivers/ticstepper"]
 	path = libraries/drivers/ticstepper
 	url = https://github.com/tekktrik/CircuitPython_TicStepper.git
-[submodule "libraries/drivers/nau7802"]
-	path = libraries/drivers/nau7802
-	url = https://github.com/CedarGroveStudios/nau7802.git
