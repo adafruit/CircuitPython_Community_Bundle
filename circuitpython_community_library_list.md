@@ -7,6 +7,7 @@ Here is a listing of current CircuitPython Community Libraries. There are 54 lib
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
 * [at42qt-acorn-python](https://github.com/skerr92/at42qt-acorn-python.git)
 * [Bluepad 32](https://github.com/ricardoquesada/bluepad32-circuitpython)
+* [CedarGrove CircuitPython NAU7802](https://github.com/CedarGroveStudios/nau7802.git) \ ([Docs](https://github.com/CedarGroveStudios/nau7802/blob/main/docs/pseudo%20readthedocs%20cedargrove_nau7802.pdf))
 * [CircuitPython AS3935](https://github.com/BiffoBear/CircuitPython_AS3935.git) \([Docs](https://circuitpython-as3935.readthedocs.io/))
 * [CircuitPython GC9A01](https://github.com/tylercrumpton/CircuitPython_GC9A01.git)
 * [CircuitPython HCSR04](https://github.com/mmabey/CircuitPython_HCSR04.git)
