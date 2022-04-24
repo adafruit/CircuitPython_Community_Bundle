@@ -11,6 +11,7 @@ Here is a listing of current CircuitPython Community Libraries. There are 57 lib
 * [CircuitPython GC9A01](https://github.com/tylercrumpton/CircuitPython_GC9A01.git)
 * [CircuitPython HCSR04](https://github.com/mmabey/CircuitPython_HCSR04.git)
 * [CircuitPython INA3221](https://github.com/barbudor/CircuitPython_INA3221.git) \([Docs](https://circuitpython-ina3221.readthedocs.io/en/latest/))
+* [CircuitPython_NAU7802](https://github.com/CedarGroveStudios/CircuitPython_NAU7802.git)
 * [CircuitPython SH1106](https://github.com/winneymj/CircuitPython_SH1106)
 * [CircuitPython TCA9555](https://github.com/lesamouraipourpre/Community_CircuitPython_TCA9555) \([PyPI](https://pypi.org/project/community-circuitpython-tca9555/)) \([Docs](http://community-circuitpython-tca9555.rtfd.io/))
 * [CircuitPython TMP75](https://github.com/barbudor/CircuitPython_TMP75.git) \([Docs](https://circuitpython-tmp75.readthedocs.io/en/latest/))
