@@ -166,3 +166,6 @@
 [submodule "libraries/drivers/ticstepper"]
 	path = libraries/drivers/ticstepper
 	url = https://github.com/tekktrik/CircuitPython_TicStepper.git
+[submodule "libraries/drivers/bbq10keyboard"]
+	path = libraries/drivers/bbq10keyboard
+	url = https://github.com/solderparty/arturo182_CircuitPython_BBQ10Keyboard

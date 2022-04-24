@@ -27,6 +27,7 @@ Here is a listing of current CircuitPython Community Libraries. There are 54 lib
 * [Hierophect Circuitpython Dynamixel](https://github.com/hierophect/Hierophect_Circuitpython_Dynamixel.git) \([Docs](https://circuitpython-dynamixel.readthedocs.io/))
 * [Pimoroni CircuitPython LTR559](https://github.com/pimoroni/Pimoroni_CircuitPython_LTR559.git) \([Docs](https://circuitpython.readthedocs.io/projects/pimoroni_circuitpython_ltr559/en/latest/))
 * [Pimoroni CircuitPython MICS6814](https://github.com/pimoroni/Pimoroni_CircuitPython_MICS6814.git) \([Docs](https://circuitpython.readthedocs.io/projects/mics6814/en/latest/))
+* [Solder Party BBQ10Keyboard](https://github.com/solderparty/arturo182_CircuitPython_BBQ10Keyboard) \([Docs](https://docs.solder.party/))
 * [Sparkfun CircuitPython QwiicAS3935](https://github.com/fourstix/Sparkfun_CircuitPython_QwiicAS3935.git) ([PyPi](https://pypi.org/project/sparkfun-circuitpython-qwiicas3935)) \([Docs](https://sparkfun-circuitpython-qwiicas3935.readthedocs.io/en/latest/))
 * [Sparkfun CircuitPython QwiicJoystick](https://github.com/fourstix/Sparkfun_CircuitPython_QwiicJoystick.git) ([PyPi](https://pypi.org/project/sparkfun-circuitpython-qwiicjoystick)) \([Docs](https://sparkfun-circuitpython-qwiicjoystick.readthedocs.io/en/latest/))
 * [Sparkfun CircuitPython QwiicKeypad](https://github.com/fourstix/Sparkfun_CircuitPython_QwiicKeypad) ([PyPi](https://pypi.org/project/sparkfun-circuitpython-qwiickeypad)) \([Docs](https://sparkfun-circuitpython-qwiickeypad.readthedocs.io/en/latest/))
