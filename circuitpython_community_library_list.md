@@ -10,6 +10,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython AS3935](https://github.com/BiffoBear/CircuitPython_AS3935.git) \([Docs](https://circuitpython-as3935.readthedocs.io/))
 * [CircuitPython GC9A01](https://github.com/tylercrumpton/CircuitPython_GC9A01.git)
 * [CircuitPython HCSR04](https://github.com/mmabey/CircuitPython_HCSR04.git)
+* [CircuitPython HX711](https://github.com/fivesixzero/CircuitPython_HX711) \([Docs](https://circuitpython-hx711.readthedocs.io/en/latest/))
 * [CircuitPython INA3221](https://github.com/barbudor/CircuitPython_INA3221.git) \([Docs](https://circuitpython-ina3221.readthedocs.io/en/latest/))
 * [CircuitPython_NAU7802](https://github.com/CedarGroveStudios/CircuitPython_NAU7802.git)
 * [CircuitPython SH1106](https://github.com/winneymj/CircuitPython_SH1106)

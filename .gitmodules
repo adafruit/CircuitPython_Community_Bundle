@@ -172,3 +172,6 @@
 [submodule "libraries/drivers/nau7802"]
 	path = libraries/drivers/nau7802
 	url = https://github.com/CedarGroveStudios/CircuitPython_NAU7802.git
+[submodule "libraries/drivers/hx711"]
+	path = libraries/drivers/hx711
+	url = https://github.com/fivesixzero/CircuitPython_HX711.git
