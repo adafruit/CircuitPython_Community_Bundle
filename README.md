@@ -40,6 +40,13 @@ You should make sure that the git url has the format `https://github.com/{:user}
 such as `https://github.com/tannewt/CircuitPython_Example.git`.  Other forms may interfere with
 adabot scripts (see https://github.com/adafruit/adabot/issues/145 for details).
 
+The repository must have a tag, as the bundle release process pulls the latest tag, usually
+matching a release of your library. The tag must follow the Semver format (such as *1.2.3*).
+
+The [circuitpython_community_library_list.md](circuitpython_community_library_list.md) page is
+manually updated. Please add your library to the list with the relevant links to the repository,
+pypi page and documentation if available.
+
 ## Removing a library
 Only do this if you are replacing the module with an equivalent:
 
