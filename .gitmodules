@@ -175,3 +175,6 @@
 [submodule "libraries/drivers/hx711"]
 	path = libraries/drivers/hx711
 	url = https://github.com/fivesixzero/CircuitPython_HX711.git
+[submodule "libraries/helpers/tzdb"]
+	path = libraries/helpers/tzdb
+	url = https://github.com/evindunn/circuitpython_tzdb.git
