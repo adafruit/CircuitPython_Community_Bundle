@@ -37,6 +37,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [Sparkfun CircuitPython QwiicTwist](https://github.com/fourstix/Sparkfun_CircuitPython_QwiicTwist.git) \([Docs](https://sparkfun-circuitpython-qwiictwist.readthedocs.io/en/latest/))
 * [Sparkfun CircuitPython SerLCD](https://github.com/fourstix/Sparkfun_CircuitPython_SerLCD.git) ([PyPi](https://pypi.org/project/sparkfun-circuitpython-serlcd)) \([Docs](https://sparkfun-circuitpython-serlcd.readthedocs.io/en/latest/))
 * [slight CircuitPython TLC5957](https://github.com/s-light/slight_CircuitPython_TLC5957.git)
+* [Waveshare's I2C Character Display LCD1602](https://github.com/Neradoc/Circuitpython_Waveshare_LCD1602.git) ([PyPi](https://pypi.org/project/circuitpython-waveshare-lcd1602)) \([Docs](https://waveshare-lcd1602-circuitpython-driver.readthedocs.io/))
 * [Woolsey Workshop CircuitPython 74HC165](https://github.com/WoolseyWorkshop/WoolseyWorkshop_CircuitPython_74HC165.git) ([PyPI](https://pypi.org/project/woolseyworkshop-circuitpython-74hc165/)) \([Docs](https://woolseyworkshop-circuitpython-74hc165.readthedocs.io/en/latest/))
 
 ## Helpers:
