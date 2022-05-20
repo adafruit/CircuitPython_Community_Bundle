@@ -178,3 +178,6 @@
 [submodule "libraries/helpers/tzdb"]
 	path = libraries/helpers/tzdb
 	url = https://github.com/evindunn/circuitpython_tzdb.git
+[submodule "libraries/drivers/lcd1602"]
+	path = libraries/drivers/lcd1602
+	url = https://github.com/Neradoc/Circuitpython_Waveshare_LCD1602.git
