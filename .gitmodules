@@ -181,3 +181,6 @@
 [submodule "libraries/drivers/lcd1602"]
 	path = libraries/drivers/lcd1602
 	url = https://github.com/Neradoc/Circuitpython_Waveshare_LCD1602.git
+[submodule "libraries/drivers/qwiicquadsolidstaterelay"]
+	path = libraries/drivers/qwiicquadsolidstaterelay
+	url = https://github.com/gbeland/CircuitPython_Sparkfun_QwiicQuadSolidStateRelay.git
