@@ -184,3 +184,6 @@
 [submodule "libraries/drivers/qwiicquadsolidstaterelay"]
 	path = libraries/drivers/qwiicquadsolidstaterelay
 	url = https://github.com/gbeland/CircuitPython_Sparkfun_QwiicQuadSolidStateRelay.git
+[submodule "libraries/helpers/palettefader"]
+	path = libraries/helpers/palettefader
+	url = https://github.com/CedarGroveStudios/CircuitPython_PaletteFader.git
