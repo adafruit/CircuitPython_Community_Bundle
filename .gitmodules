@@ -187,3 +187,6 @@
 [submodule "libraries/helpers/palettefader"]
 	path = libraries/helpers/palettefader
 	url = https://github.com/CedarGroveStudios/CircuitPython_PaletteFader.git
+[submodule "libraries/drivers/drv8830"]
+	path = libraries/drivers/drv8830
+	url = https://github.com/CedarGroveStudios/CircuitPython_DRV8830.git
