@@ -190,3 +190,6 @@
 [submodule "libraries/drivers/drv8830"]
 	path = libraries/drivers/drv8830
 	url = https://github.com/CedarGroveStudios/CircuitPython_DRV8830.git
+[submodule "libraries/helpers/rangeslicer"]
+	path = libraries/helpers/rangeslicer
+	url = https://github.com/CedarGroveStudios/CircuitPython_RangeSlicer.git
