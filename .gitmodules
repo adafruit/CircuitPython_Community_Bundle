@@ -193,3 +193,6 @@
 [submodule "libraries/helpers/rangeslicer"]
 	path = libraries/helpers/rangeslicer
 	url = https://github.com/CedarGroveStudios/CircuitPython_RangeSlicer.git
+[submodule "libraries/helpers/palettefilter"]
+	path = libraries/helpers/palettefilter
+	url = https://github.com/Cedargrovestudios/circuitpython_paletteFilter.git
