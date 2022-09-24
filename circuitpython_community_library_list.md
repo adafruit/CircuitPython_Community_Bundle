@@ -59,6 +59,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython I2C Button](https://github.com/gmparis/CircuitPython_I2C_Button) \([Docs](https://circuitpython-i2c-button.readthedocs.io/en/latest/))
 * [CircuitPython MorseCode](https://github.com/jposada202020/CircuitPython_MorseCode.git) ([PyPi](https://pypi.org/project/circuitpython-MorseCode)) \([Docs](https://circuitpython-morsecode.readthedocs.io/en/latest/))
 * [CircuitPython Palette Fader](https://github.com/CedarGroveStudios/CircuitPython_PaletteFader)
+* [CircuitPython Palette Filter](https://github.com/CedarGroveStudios/CircuitPython_PaletteFilter)
 * [CircuitPython Parse](https://github.com/jimbobbennett/CircuitPython_Parse) ([PyPi](https://pypi.org/project/circuitpython-parse)) \([Docs](https://circuitpython.readthedocs.io/projects/parse/en/latest/))
 * [CircuitPython_RangeSlicer](https://github.com/CedarGroveStudios/CircuitPython_RangeSlicer.git)
 * [CircuitPython_Schedule](https://pypi.org/project/circuitpython-schedule) ([PyPi](https://pypi.org/project/circuitpython-parse)) \([Docs](https://circuitpython-schedule.readthedocs.io/en/latest/))
