@@ -196,3 +196,6 @@
 [submodule "libraries/helpers/palettefilter"]
 	path = libraries/helpers/palettefilter
 	url = https://github.com/Cedargrovestudios/circuitpython_paletteFilter.git
+[submodule "libraries/drivers/rda5807"]
+	path = libraries/drivers/rda5807
+	url = https://github.com/tinkeringtech/CircuitPython_rda5807.git
