@@ -199,3 +199,6 @@
 [submodule "libraries/drivers/rda5807"]
 	path = libraries/drivers/rda5807
 	url = https://github.com/tinkeringtech/CircuitPython_rda5807.git
+[submodule "libraries/drivers/ad5245"]
+	path = libraries/drivers/ad5245
+	url = https://github.com/cedargrovestudios/CircuitPython_AD5245.git
