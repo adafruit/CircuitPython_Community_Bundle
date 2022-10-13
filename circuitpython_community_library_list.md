@@ -8,6 +8,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [at42qt-acorn-python](https://github.com/skerr92/at42qt-acorn-python.git)
 * [Bluepad 32](https://github.com/ricardoquesada/bluepad32-circuitpython)
 * [CircuitPython_AD5245](https://github.com/CedarGroveStudios/CircuitPython_AD5245.git)
+* [CircuitPython_AD9833](https://github.com/CedarGroveStudios/CircuitPython_AD9833.git)
 * [CircuitPython AS3935](https://github.com/BiffoBear/CircuitPython_AS3935.git) \([Docs](https://circuitpython-as3935.readthedocs.io/))
 * [CircuitPython_DRV8830](https://github.com/CedarGroveStudios/CircuitPython_DRV8830.git)
 * [CircuitPython GC9A01](https://github.com/tylercrumpton/CircuitPython_GC9A01.git)
