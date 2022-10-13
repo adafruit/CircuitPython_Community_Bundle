@@ -202,3 +202,6 @@
 [submodule "libraries/drivers/ad5245"]
 	path = libraries/drivers/ad5245
 	url = https://github.com/cedargrovestudios/CircuitPython_AD5245.git
+[submodule "libraries/drivers/ad9833"]
+	path = libraries/drivers/ad9833
+	url = https://github.com/CedarGroveStudios/CircuitPython_AD9833.git
