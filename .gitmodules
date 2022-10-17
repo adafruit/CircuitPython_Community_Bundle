@@ -205,3 +205,9 @@
 [submodule "libraries/drivers/ad9833"]
 	path = libraries/drivers/ad9833
 	url = https://github.com/CedarGroveStudios/CircuitPython_AD9833.git
+[submodule "libraries/helpers/shadowwatcher"]
+	path = libraries/helpers/shadowwatcher
+	url = https://github.com/cedargrovestudios/circuitpython_shadowwatcher.git
+[submodule "libraries/helpers/punkconsole"]
+	path = libraries/helpers/punkconsole
+	url = https://github.com/cedargrovestudios/circuitpython_punkconsole.git
