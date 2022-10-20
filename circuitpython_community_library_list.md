@@ -48,6 +48,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 ## Helpers:
 * [Ansi Escape Codes](https://github.com/s-light/CircuitPython_ansi_escape_code) \([Docs](https://circuitpython-ansi-escape-code.readthedocs.io/))
 * [CIRCUITPYTHON ifttt](https://github.com/benevpi/CIRCUITPYTHON_ifttt.git) \([Docs](https://circuitpython-ifttt.readthedocs.io/))
+* [CircuitPython_AirQualityTools](https://github.com/CedarGroveStudios/CircuitPython_AirQualityTools.git)
 * [CircuitPython ArrowLine](https://github.com/jposada202020/CircuitPython_ArrowLine.git) ([PyPi](https://pypi.org/project/circuitpython-ArrowLine))  \([Docs](https://circuitpython-arrowline.readthedocs.io/))
 * [CircuitPython_async](https://github.com/WarriorOfWire/CircuitPython_async.git)
 * [CircuitPython AzureCustomVision Prediction](https://github.com/jimbobbennett/CircuitPython_AzureCustomVision_Prediction) ([PyPi](https://pypi.org/project/circuitpython-azurecustomvision-prediction)) \([Docs](https://circuitpython.readthedocs.io/projects/circuitpython_azurecustomvision_prediction/en/latest/))
@@ -69,6 +70,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython_Schedule](https://pypi.org/project/circuitpython-schedule) ([PyPi](https://pypi.org/project/circuitpython-parse)) \([Docs](https://circuitpython-schedule.readthedocs.io/en/latest/))
 * [CircuitPython_ShadowWatcher](https://github.com/CedarGroveStudios/CircuitPython_ShadowWatcher.git)
 * [CircuitPython Styles](https://github.com/jposada202020/CircuitPython_styles.git) ([PyPi](https://pypi.org/project/circuitpython-styles)) \([Docs](https://circuitpython-styles.readthedocs.io/en/latest/))
+* [CircuitPython_TemperatureTools](https://github.com/CedarGroveStudios/CircuitPython_TemperatureTools.git)
 * [CircuitPython TZDB](https://github.com/evindunn/circuitpython_tzdb) ([PyPi](https://pypi.org/project/circuitpython-tzdb/)) \([Docs](https://circuitpython-tzdb.readthedocs.io/en/latest/))
 * [Gamblor21 CircuitPython AHRS](https://github.com/gamblor21/Gamblor21_CircuitPython_AHRS.git) \([Docs](https://circuitpython-ahrs.readthedocs.io/))
 * [Jepler CircuitPython udecimal](https://github.com/jepler/Jepler_CircuitPython_udecimal.git) ([PyPi](https://pypi.org/project/jepler-circuitpython-udecimal)) \([Docs](https://jepler-udecimal.readthedocs.io/en/latest/))
