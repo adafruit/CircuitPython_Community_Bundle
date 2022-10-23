@@ -62,7 +62,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython HMAC](https://github.com/jimbobbennett/CircuitPython_HMAC) ([PyPi](https://pypi.org/project/circuitpython-hmac)) \([Docs](https://circuitpython.readthedocs.io/projects/hmac/en/latest/))
 * [CircuitPython I2C Button](https://github.com/gmparis/CircuitPython_I2C_Button) \([Docs](https://circuitpython-i2c-button.readthedocs.io/en/latest/))
 * [CircuitPython MorseCode](https://github.com/jposada202020/CircuitPython_MorseCode.git) ([PyPi](https://pypi.org/project/circuitpython-MorseCode)) \([Docs](https://circuitpython-morsecode.readthedocs.io/en/latest/))
-* [CircuitPython PaletteFader](https://github.com/CedarGroveStudios/CircuitPython_PaletteFader.git)
+* [CircuitPython PaletteFader](https://github.com/CedarGroveStudios/CircuitPython_PaletteFader.git) \([Docs](https://github.com/CedarGroveStudios/CircuitPython_PaletteFader/blob/main/media/pseudo_rtd_cedargrove_palettefader.pdf))
 * [CircuitPython PaletteFilter](https://github.com/CedarGroveStudios/CircuitPython_PaletteFilter.git)
 * [CircuitPython Parse](https://github.com/jimbobbennett/CircuitPython_Parse) ([PyPi](https://pypi.org/project/circuitpython-parse)) \([Docs](https://circuitpython.readthedocs.io/projects/parse/en/latest/))
 * [CircuitPython_PunkConsole](https://github.com/CedarGroveStudios/CircuitPython_PunkConsole.git)
