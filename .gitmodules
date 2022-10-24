@@ -217,3 +217,9 @@
 [submodule "libraries/helpers/temperaturetools"]
 	path = libraries/helpers/temperaturetools
 	url = https://github.com/cedargrovestudios/circuitpython_temperaturetools.git
+[submodule "libraries/helpers/dst_adjuster"]
+	path = libraries/helpers/dst_adjuster
+	url = https://github.com/cedargrovestudios/circuitpython_dst_adjuster
+[submodule "libraries/helpers/leapyear"]
+	path = libraries/helpers/leapyear
+	url = https://github.com/cedargrovestudios/circuitpython_leapyear
