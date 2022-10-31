@@ -223,3 +223,18 @@
 [submodule "libraries/helpers/leapyear"]
 	path = libraries/helpers/leapyear
 	url = https://github.com/cedargrovestudios/circuitpython_leapyear
+[submodule "libraries/helpers/colorfader"]
+	path = libraries/helpers/colorfader
+	url = https://github.com/CedarGroveStudios/CircuitPython_ColorFader.git
+[submodule "libraries/helpers/touchcalibrator"]
+	path = libraries/helpers/touchcalibrator
+	url = https://github.com/CedarGroveStudios/CircuitPython_TouchCalibrator.git
+[submodule "libraries/helpers/rgb_spectrumtools"]
+	path = libraries/helpers/rgb_spectrumtools
+	url = https://github.com/CedarGroveStudios/CircuitPython_RGB_SpectrumTools.git
+[submodule "libraries/helpers/midi_tools"]
+	path = libraries/helpers/midi_tools
+	url = https://github.com/CedarGroveStudios/CircuitPython_MIDI_Tools.git
+[submodule "libraries/helpers/ohmslaw"]
+	path = libraries/helpers/ohmslaw
+	url = https://github.com/CedarGroveStudios/CircuitPython_OhmsLaw.git
