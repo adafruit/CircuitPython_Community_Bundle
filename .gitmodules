@@ -223,6 +223,9 @@
 [submodule "libraries/helpers/leapyear"]
 	path = libraries/helpers/leapyear
 	url = https://github.com/cedargrovestudios/circuitpython_leapyear
+[submodule "libraries/drivers/rm3100"]
+	path = libraries/drivers/rm3100
+	url = https://github.com/furbrain/CircuitPython_RM3100.git
 [submodule "libraries/helpers/colorfader"]
 	path = libraries/helpers/colorfader
 	url = https://github.com/CedarGroveStudios/CircuitPython_ColorFader.git
@@ -238,3 +241,4 @@
 [submodule "libraries/helpers/ohmslaw"]
 	path = libraries/helpers/ohmslaw
 	url = https://github.com/CedarGroveStudios/CircuitPython_OhmsLaw.git
+  
