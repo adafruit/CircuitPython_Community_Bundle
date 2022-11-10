@@ -242,3 +242,6 @@
 	path = libraries/helpers/ohmslaw
 	url = https://github.com/CedarGroveStudios/CircuitPython_OhmsLaw.git
   
+[submodule "libraries/drivers/seeed_xiao_nrf52840"]
+	path = libraries/drivers/seeed_xiao_nrf52840
+	url = https://github.com/furbrain/CircuitPython_seeed_xiao_nRF52840.git

@@ -19,6 +19,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython RDA5807](https://github.com/tinkeringtech/CircuitPython_rda5807)
 * [CircuitPython RM3100](https://github.com/furbrain/CircuitPython_RM3100) \([Docs](https://circuitpython-rm3100.readthedocs.io/en/latest/))
 * [CircuitPython SH1106](https://github.com/winneymj/CircuitPython_SH1106)
+* [CircuitPython Seeed XIAO nRF52840](https://github.com/furbrain/CircuitPython_seeed_xiao_nRF52840) \([Docs](https://circuitpython-seeed-xiao-nrf52840.readthedocs.io/en/latest/))
 * [CircuitPython TCA9555](https://github.com/lesamouraipourpre/Community_CircuitPython_TCA9555) \([PyPI](https://pypi.org/project/community-circuitpython-tca9555/)) \([Docs](http://community-circuitpython-tca9555.rtfd.io/))
 * [CircuitPython TMP75](https://github.com/barbudor/CircuitPython_TMP75.git) \([Docs](https://circuitpython-tmp75.readthedocs.io/en/latest/))
 * [CircuitPython TicStepper](https://github.com/barbudor/CircuitPython_TicStepper.git) \([Docs](https://circuitpython-ticstepper.readthedocs.io/en/latest/))
