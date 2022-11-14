@@ -33,6 +33,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [Electronutlabs CircuitPython LIS2DH12](https://github.com/electronut/Electronutlabs_CircuitPython_LIS2DH12.git) \([Docs](https://circuitpython-lis2dh12-library.readthedocs.io/en/latest/))
 * [Electronutlabs CircuitPython LTR329ALS01](https://github.com/electronut/Electronutlabs_CircuitPython_LTR329ALS01.git) \([Docs](https://circuitpython-ltr329als01-library.readthedocs.io/en/latest/))
 * [Hierophect Circuitpython Dynamixel](https://github.com/hierophect/Hierophect_Circuitpython_Dynamixel.git) \([Docs](https://circuitpython-dynamixel.readthedocs.io/))
+* [Mindwidgets CircuitPython DF1201S](https://github.com/mindwidgets/Mindwidgets_CircuitPython_DF1201S) \([Docs](https://mindwidgets-circuitpython-df1201s-library.readthedocs.io/en/latest/))
 * [Pimoroni CircuitPython LTR559](https://github.com/pimoroni/Pimoroni_CircuitPython_LTR559.git) \([Docs](https://circuitpython.readthedocs.io/projects/pimoroni_circuitpython_ltr559/en/latest/))
 * [Pimoroni CircuitPython MICS6814](https://github.com/pimoroni/Pimoroni_CircuitPython_MICS6814.git) \([Docs](https://circuitpython.readthedocs.io/projects/mics6814/en/latest/))
 * [Solder Party BBQ10Keyboard](https://github.com/solderparty/arturo182_CircuitPython_BBQ10Keyboard) \([Docs](https://docs.solder.party/))
