@@ -245,3 +245,6 @@
 [submodule "libraries/drivers/seeed_xiao_nrf52840"]
 	path = libraries/drivers/seeed_xiao_nrf52840
 	url = https://github.com/furbrain/CircuitPython_seeed_xiao_nRF52840.git
+[submodule "libraries/drivers/df1201s"]
+	path = libraries/drivers/df1201s
+	url = https://github.com/mindwidgets/Mindwidgets_CircuitPython_DF1201S.git
