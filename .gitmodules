@@ -248,3 +248,6 @@
 [submodule "libraries/drivers/df1201s"]
 	path = libraries/drivers/df1201s
 	url = https://github.com/mindwidgets/Mindwidgets_CircuitPython_DF1201S.git
+[submodule "libraries/drivers/paj7620"]
+	path = libraries/drivers/paj7620
+	url = https://github.com/deshipu/circuitpython-paj7620.git
