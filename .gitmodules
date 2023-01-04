@@ -251,9 +251,6 @@
 [submodule "libraries/drivers/paj7620"]
 	path = libraries/drivers/paj7620
 	url = https://github.com/deshipu/circuitpython-paj7620.git
-[submodule "helpers/mag_cal"]
-	path = helpers/mag_cal
-	url = https://github.com/furbrain/CircuitPython_mag_cal.git
 [submodule "libraries/helpers/mag_cal"]
 	path = libraries/helpers/mag_cal
 	url = https://github.com/furbrain/CircuitPython_mag_cal.git
