@@ -15,10 +15,11 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython HCSR04](https://github.com/mmabey/CircuitPython_HCSR04.git)
 * [CircuitPython HX711](https://github.com/fivesixzero/CircuitPython_HX711) \([Docs](https://circuitpython-hx711.readthedocs.io/en/latest/))
 * [CircuitPython INA3221](https://github.com/barbudor/CircuitPython_INA3221.git) \([Docs](https://circuitpython-ina3221.readthedocs.io/en/latest/))
+* [CircuitPython Laser AT](https://github.com/furbrain/CircuitPython_laser_at.git) Driver for a cheap laser rangefinder \([Docs](https://circuitpython-laser-at.readthedocs.io/en/latest/))
 * [CircuitPython_NAU7802](https://github.com/CedarGroveStudios/CircuitPython_NAU7802.git) A driver for the NAU7802 24-bit ADC.
 * [CircuitPython_paj7620](https://github.com/deshipu/circuitpython-paj7620.git) A driver for the PAJ7620 gesture sensor.
 * [CircuitPython RDA5807](https://github.com/tinkeringtech/CircuitPython_rda5807)
-* [CircuitPython RM3100](https://github.com/furbrain/CircuitPython_RM3100) \([Docs](https://circuitpython-rm3100.readthedocs.io/en/latest/))
+* [CircuitPython RM3100](https://github.com/furbrain/CircuitPython_RM3100.git) \([Docs](https://circuitpython-rm3100.readthedocs.io/en/latest/))
 * [CircuitPython SH1106](https://github.com/winneymj/CircuitPython_SH1106)
 * [CircuitPython Seeed XIAO nRF52840](https://github.com/furbrain/CircuitPython_seeed_xiao_nRF52840) \([Docs](https://circuitpython-seeed-xiao-nrf52840.readthedocs.io/en/latest/))
 * [CircuitPython TCA9555](https://github.com/lesamouraipourpre/Community_CircuitPython_TCA9555) \([PyPI](https://pypi.org/project/community-circuitpython-tca9555/)) \([Docs](http://community-circuitpython-tca9555.rtfd.io/))
@@ -68,6 +69,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython HMAC](https://github.com/jimbobbennett/CircuitPython_HMAC) ([PyPi](https://pypi.org/project/circuitpython-hmac)) \([Docs](https://circuitpython.readthedocs.io/projects/hmac/en/latest/))
 * [CircuitPython I2C Button](https://github.com/gmparis/CircuitPython_I2C_Button) \([Docs](https://circuitpython-i2c-button.readthedocs.io/en/latest/))
 * [CircuitPython LeapYear](https://github.com/CedarGroveStudios/CircuitPython_LeapYear.git) Confirms whether a specified year is a leap year. \([Docs](https://github.com/CedarGroveStudios/CircuitPython_LeapYear/blob/main/media/pseudo_rtd_cedargrove_leapyear.pdf))
+* [CircuitPython Mag Cal](https://github.com/furbrain/CircuitPython_mag_cal.git) Calibrate magnetic sensors \([Docs](https://circuitpython-mag-cal.readthedocs.io/en/latest/))
 * [CircuitPython_MIDI_Tools](https://github.com/CedarGroveStudios/CircuitPython_MIDI_Tools.git) A collection of methods for processing MIDI notes and Control Change codes. \([Docs](https://github.com/CedarGroveStudios/CircuitPython_MIDI_Tools/blob/main/media/pseudo_rtd_cedargrove_midi_tools.pdf))
 * [CircuitPython MorseCode](https://github.com/jposada202020/CircuitPython_MorseCode.git) ([PyPi](https://pypi.org/project/circuitpython-MorseCode)) \([Docs](https://circuitpython-morsecode.readthedocs.io/en/latest/))
 * [CircuitPython_OhmsLaw](https://github.com/CedarGroveStudios/CircuitPython_OhmsLaw.git) Calculate an Ohm’s Law result from two input parameters. \([Docs](https://github.com/CedarGroveStudios/CircuitPython_OhmsLaw/blob/main/media/pseudo_rtd_cedargrove_ohmslaw.pdf))
