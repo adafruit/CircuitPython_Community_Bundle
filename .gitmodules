@@ -257,3 +257,6 @@
 [submodule "libraries/drivers/laser_at"]
 	path = libraries/drivers/laser_at
 	url = https://github.com/furbrain/CircuitPython_laser_at.git
+[submodule "libraries/helpers/PaletteSlice"]
+	path = libraries/helpers/PaletteSlice
+	url = https://github.com/CedarGroveStudios/CircuitPython_PaletteSlice.git
