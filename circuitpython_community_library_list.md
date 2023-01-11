@@ -15,6 +15,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython HCSR04](https://github.com/mmabey/CircuitPython_HCSR04.git)
 * [CircuitPython HX711](https://github.com/fivesixzero/CircuitPython_HX711) \([Docs](https://circuitpython-hx711.readthedocs.io/en/latest/))
 * [CircuitPython INA3221](https://github.com/barbudor/CircuitPython_INA3221.git) \([Docs](https://circuitpython-ina3221.readthedocs.io/en/latest/))
+* [CircuitPython JLed](https://github.com/jandelgado/jled-circuitpython) Non-blocking LED effects. \([Docs](https://jandelgado.github.io/jled-circuitpython))
 * [CircuitPython Laser AT](https://github.com/furbrain/CircuitPython_laser_at.git) Driver for a cheap laser rangefinder \([Docs](https://circuitpython-laser-at.readthedocs.io/en/latest/))
 * [CircuitPython_NAU7802](https://github.com/CedarGroveStudios/CircuitPython_NAU7802.git) A driver for the NAU7802 24-bit ADC.
 * [CircuitPython_paj7620](https://github.com/deshipu/circuitpython-paj7620.git) A driver for the PAJ7620 gesture sensor.
