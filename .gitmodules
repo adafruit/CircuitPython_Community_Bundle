@@ -260,3 +260,6 @@
 [submodule "libraries/helpers/PaletteSlice"]
 	path = libraries/helpers/PaletteSlice
 	url = https://github.com/CedarGroveStudios/CircuitPython_PaletteSlice.git
+[submodule "libraries/drivers/jled-circuitpython"]
+	path = libraries/drivers/jled
+	url = https://github.com/jandelgado/jled-circuitpython
