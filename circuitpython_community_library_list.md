@@ -94,3 +94,4 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [nonblocking timer](https://github.com/Angeleno-Tech/nonblocking_timer.git) \([Docs](https://circuitpython-nonblocking_timer.readthedocs.io/))
 * [nonblocking Serial Input](https://github.com/s-light/CircuitPython_nonblocking_serialinput) \([Docs](https://circuitpython-nonblocking-serialinput.readthedocs.io/))
 * [NVM Helper](https://github.com/FoamyGuy/Foamyguy_CircuitPython_nvm_helper) \([Docs](https://circuitpython-nvm-helper.readthedocs.io/))
+* [UUIDv4](https://github.com/DerBroader71/circuitpython_uuid4)
