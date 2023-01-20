@@ -263,3 +263,6 @@
 [submodule "libraries/drivers/jled-circuitpython"]
 	path = libraries/drivers/jled
 	url = https://github.com/jandelgado/jled-circuitpython
+[submodule "libraries/helpers/uuidv4"]
+	path = libraries/helpers/uuidv4
+	url = https://github.com/DerBroader71/circuitpython_uuid4.git
