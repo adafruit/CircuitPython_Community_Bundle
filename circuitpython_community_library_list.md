@@ -60,6 +60,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython AzureCustomVision Prediction](https://github.com/jimbobbennett/CircuitPython_AzureCustomVision_Prediction) ([PyPi](https://pypi.org/project/circuitpython-azurecustomvision-prediction)) \([Docs](https://circuitpython.readthedocs.io/projects/circuitpython_azurecustomvision_prediction/en/latest/))
 * [CircuitPython Base64](https://github.com/jimbobbennett/CircuitPython_Base64) ([PyPi](https://pypi.org/project/circuitpython-base64)) \([Docs](https://circuitpython.readthedocs.io/projects/base64/en/latest/))
 * [CircuitPython Candlesticks](https://github.com/jposada202020/CircuitPython_Candlesticks.git) ([PyPi](https://pypi.org/project/circuitpython-Candlesticks)) \([Docs](https://circuitpython-candlesticks.readthedocs.io/))
+* [CircuitPython ColorPicker](https://github.com/jposada202020/CircuitPython_color_picker.git) ([PyPi] \([Docs](https://circuitpython-color-picker.readthedocs.io/))
 * [CircuitPython_ColorFader](https://github.com/CedarGroveStudios/CircuitPython_ColorFader.git) Brightness and gamma adjustment of an integer RGB color value. \([Docs](https://github.com/CedarGroveStudios/CircuitPython_ColorFader/blob/main/media/pseudo_rtd_cedargrove_colorfader.pdf))
 * [CircuitPython CSV](https://github.com/tekktrik/CircuitPython_CSV) \([Docs](https://circuitpython-csv.readthedocs.io/))
 * [CircuitPython DiscordBot](https://github.com/2231puppy/CircuitPython_DiscordBot.git)
