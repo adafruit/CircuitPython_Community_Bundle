@@ -266,3 +266,6 @@
 [submodule "libraries/helpers/uuidv4"]
 	path = libraries/helpers/uuidv4
 	url = https://github.com/DerBroader71/circuitpython_uuid4.git
+[submodule "libraries/helpers/equalizer"]
+	path = libraries/helpers/equalizer
+	url = https://github.com/jposada202020/CircuitPython_equalizer.git
