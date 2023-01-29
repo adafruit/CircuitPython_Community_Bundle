@@ -1,5 +1,5 @@
 # CircuitPython Community Libraries
-![Blinka Reading](https://raw.githubusercontent.com/adafruit/circuitpython-weekly-newsletter/gh-pages/assets/archives/22_1023blinka.png)
+![Blinka Reading](https://github.com/adafruit/circuitpython-weekly-newsletter/blob/gh-pages/assets/common_assets/blinka.png)
 
 Here is a listing of current CircuitPython Community Libraries. These libraries are supplied and supported by community members.
 
