@@ -69,6 +69,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython Equalizer](https://github.com/jposada202020/CircuitPython_equalizer) ([PyPi](https://pypi.org/project/circuitpython-equalizer) \([Docs](https://circuitpython-equalizer.readthedocs.io/))
 * [CircuitPython Example](https://github.com/tannewt/CircuitPython_Example.git) \([Docs](https://circuitpython-example.readthedocs.io/en/latest/))
 * [CircuitPython Functools](https://github.com/tekktrik/CircuitPython_Functools.git) \([Docs](https://circuitpython-functools.readthedocs.io/en/latest/))
+* [CircuitPython gpio_expander](https://github.com/gpongelli/CircuitPython_gpio_expander.git) I2C GPIO expander support for PCA9534, PCA9535, PCA9555, TCA9534, TCA9535 and TCA9555 chips. \([Docs](https://github.com/gpongelli/CircuitPython_gpio_expander/blob/main/README.rst))
 * [CircuitPython HMAC](https://github.com/jimbobbennett/CircuitPython_HMAC) ([PyPi](https://pypi.org/project/circuitpython-hmac)) \([Docs](https://circuitpython.readthedocs.io/projects/hmac/en/latest/))
 * [CircuitPython I2C Button](https://github.com/gmparis/CircuitPython_I2C_Button) \([Docs](https://circuitpython-i2c-button.readthedocs.io/en/latest/))
 * [CircuitPython LeapYear](https://github.com/CedarGroveStudios/CircuitPython_LeapYear.git) Confirms whether a specified year is a leap year. \([Docs](https://github.com/CedarGroveStudios/CircuitPython_LeapYear/blob/main/media/pseudo_rtd_cedargrove_leapyear.pdf))

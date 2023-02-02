@@ -272,3 +272,6 @@
 [submodule "libraries/helpers/color_picker"]
 	path = libraries/helpers/color_picker
 	url = https://github.com/jposada202020/CircuitPython_color_picker.git
+[submodule "libraries/drivers/gpio_expander"]
+	path = libraries/drivers/gpio_expander
+	url = https://github.com/gpongelli/CircuitPython_gpio_expander.git
