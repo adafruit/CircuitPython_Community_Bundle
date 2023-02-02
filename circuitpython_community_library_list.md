@@ -12,6 +12,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython AS3935](https://github.com/BiffoBear/CircuitPython_AS3935.git) Library for the Franklin AS3935 lightning detector. The driver supports connections via SPI and I2C. \([Docs](https://circuitpython-as3935.readthedocs.io/))
 * [CircuitPython_DRV8830](https://github.com/CedarGroveStudios/CircuitPython_DRV8830.git) A driver for the DRV8830 DC motor controller.
 * [CircuitPython GC9A01](https://github.com/tylercrumpton/CircuitPython_GC9A01.git) Displayio driver for GC9A01 TFT LCD displays.
+* [CircuitPython gpio_expander](https://github.com/gpongelli/CircuitPython_gpio_expander.git) I2C GPIO expander support for PCA9534, PCA9535, PCA9555, TCA9534, TCA9535 and TCA9555 chips. ([PyPi](https://pypi.org/project/circuitpython-gpio-expander/)) \([Docs](https://github.com/gpongelli/CircuitPython_gpio_expander/blob/main/README.rst))
 * [CircuitPython HCSR04](https://github.com/mmabey/CircuitPython_HCSR04.git) Library for The HC-SR04 for measuring distances using microcontrollers \([Docs](https://circuitpython-hcsr04.readthedocs.io/en/latest/))
 * [CircuitPython HX711](https://github.com/fivesixzero/CircuitPython_HX711) CircuitPython driver for the HX711 load cell amplifer and ADC \([Docs](https://circuitpython-hx711.readthedocs.io/en/latest/))
 * [CircuitPython INA3221](https://github.com/barbudor/CircuitPython_INA3221.git) CircuitPython driver for the Texas Instruments' INA3221 3 channels current sensor. \([Docs](https://circuitpython-ina3221.readthedocs.io/en/latest/))
