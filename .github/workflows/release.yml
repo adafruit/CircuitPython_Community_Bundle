@@ -15,19 +15,19 @@ jobs:
     - name: Translate Repo Name For Build Tools filename_prefix
       id: repo-name
       run: |
-        echo ::set-output name=repo-name::$(
+        echo "repo-name=$(
         echo ${{ github.repository }} |
         awk -F '\/' '{ print tolower($2) }' |
         tr '_' '-'
-        )
+        )" >> $GITHUB_OUTPUT
     - name: Set up Python 3
-      uses: actions/setup-python@v1
+      uses: actions/setup-python@v4
       with:
         python-version: 3.x
     - name: Versions
       run: |
         python3 --version
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
       with:
         submodules: true
     - name: Fetch correct submodule shas
@@ -39,24 +39,19 @@ jobs:
     - name: Package Folder Prefix For circuitpython-build-tools (Community Bundle Specific)
       id: pkg-folder
       run: |
-        echo ::set-output name=prefix::$(
+        echo prefix=$(
         ls -RUx |
         gawk -F '\n' '{ match($1, /(drivers|helpers)\/(.+)\/(.+)\:/, arr) ; if (length(arr[0]) > 0 && match(arr[3], arr[2]) > 0) printf "%s, ", arr[3] }' |
         gawk '{ trimmed = substr($0, 1, length($0) - 2) ; print "\"" trimmed "\"" }'
-        )
+        ) >> $GITHUB_OUTPUT
     - name: Build assets
       run: circuitpython-build-bundles --filename_prefix ${{ steps.repo-name.outputs.repo-name }} --library_location libraries --library_depth 2 --package_folder_prefix ${{ steps.pkg-folder.outputs.prefix }}
     - name: Upload Release Assets
-      # the 'official' actions version does not yet support dynamically
-      # supplying asset names to upload. @csexton's version chosen based on
-      # discussion in the issue below, as its the simplest to implement and
-      # allows for selecting files with a pattern.
-      # https://github.com/actions/upload-release-asset/issues/4
-      #uses: actions/upload-release-asset@v1.0.1
-      uses: csexton/release-asset-action@master
+      uses: shogo82148/actions-upload-release-asset@v1
       with:
-        pattern: "bundles/*"
-        github-token: ${{ secrets.GITHUB_TOKEN }}
+        asset_path: "bundles/*"
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        upload_url: ${{ github.event.release.upload_url }}
     - name: Upload Assets To AWS S3
       env:
         AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
