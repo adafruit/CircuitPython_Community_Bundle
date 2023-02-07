@@ -278,3 +278,6 @@
 [submodule "libraries/helpers/noise"]
 	path = libraries/helpers/noise
 	url = https://github.com/todbot/CircuitPython_Noise.git
+[submodule "libraries/helpers/uboxplot"]
+	path = libraries/helpers/uboxplot
+	url = https://github.com/jposada202020/CircuitPython-UBoxplot.git
