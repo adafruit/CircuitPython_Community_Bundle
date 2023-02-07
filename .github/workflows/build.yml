@@ -6,10 +6,6 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-    - name: Dump GitHub context
-      env:
-        GITHUB_CONTEXT: ${{ toJson(github) }}
-      run: echo "$GITHUB_CONTEXT"
     - name: Set up Python 3
       uses: actions/setup-python@v4
       with:
