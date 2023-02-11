@@ -275,3 +275,9 @@
 [submodule "libraries/drivers/gpio_expander"]
 	path = libraries/drivers/gpio_expander
 	url = https://github.com/gpongelli/CircuitPython_gpio_expander.git
+[submodule "libraries/helpers/noise"]
+	path = libraries/helpers/noise
+	url = https://github.com/todbot/CircuitPython_Noise.git
+[submodule "libraries/helpers/uboxplot"]
+	path = libraries/helpers/uboxplot
+	url = https://github.com/jposada202020/CircuitPython-UBoxplot.git
