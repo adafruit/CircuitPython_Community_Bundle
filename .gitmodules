@@ -281,3 +281,6 @@
 [submodule "libraries/helpers/uboxplot"]
 	path = libraries/helpers/uboxplot
 	url = https://github.com/jposada202020/CircuitPython-UBoxplot.git
+[submodule "libraries/helpers/uplot"]
+	path = libraries/helpers/uplot
+	url = https://github.com/jposada202020/CircuitPython_uplot.git
