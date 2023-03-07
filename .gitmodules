@@ -284,3 +284,6 @@
 [submodule "libraries/helpers/uplot"]
 	path = libraries/helpers/uplot
 	url = https://github.com/jposada202020/CircuitPython_uplot.git
+[submodule "libraries/drivers/pcf85063a"]
+	path = libraries/drivers/pcf85063a
+	url = https://github.com/bablokb/circuitpython-pcf85063a.git
