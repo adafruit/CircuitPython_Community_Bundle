@@ -101,4 +101,4 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [nonblocking Serial Input](https://github.com/s-light/CircuitPython_nonblocking_serialinput) CircuitPython helper library to handle serial user input in an nonblocking way \([Docs](https://circuitpython-nonblocking-serialinput.readthedocs.io/))
 * [NVM Helper](https://github.com/FoamyGuy/Foamyguy_CircuitPython_nvm_helper) Easy interface to store and retrieve objects persisted via NVM \([Docs](https://circuitpython-nvm-helper.readthedocs.io/))
 * [UUIDv4](https://github.com/DerBroader71/circuitpython_uuid4) This is a CircuitPython library to generate a UUID version 4
-
+* [PCF85063A](https://github.com/bablokb/circuitpython-pcf85063a) A CircuitPython library for the PCF85063A RTC
