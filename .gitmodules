@@ -295,6 +295,10 @@
 [submodule "libraries/helpers/gauge"]
 	path = libraries/helpers/gauge
 	url = https://github.com/jposada202020/CircuitPython_gauge.git
+[submodule "libraries/drivers/ad5293"]
+	path = libraries/drivers/ad5293
+	url = https://github.com/CedarGroveStudios/CircuitPython_AD5293.git
 [submodule "libraries/helpers/simple_dial"]
 	path = libraries/helpers/simple_dial
 	url = https://github.com/jposada202020/CircuitPython_simple_dial.git
+ 

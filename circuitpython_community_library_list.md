@@ -7,8 +7,9 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git) An easy way to add sound to your maker project. \([Docs](https://adafruit-soundboard.readthedocs.io/en/latest/README.html))
 * [at42qt-acorn-python](https://github.com/skerr92/at42qt-acorn-python.git) Driver library for the AT42QT1070 Acorn.
 * [Bluepad 32](https://github.com/ricardoquesada/bluepad32-circuitpython) Enables gamepad support for CircuitPython.
-* [CircuitPython_AD5245](https://github.com/CedarGroveStudios/CircuitPython_AD5245.git) A driver for the AD5245 digital potentiometer.
-* [CircuitPython_AD9833](https://github.com/CedarGroveStudios/CircuitPython_AD9833.git) A driver for the AD9833 Programmable Waveform Generator.
+* [CircuitPython_AD5245](https://github.com/CedarGroveStudios/CircuitPython_AD5245.git) A driver for the AD5245 digital potentiometer. \([Docs](https://github.com/CedarGroveStudios/CircuitPython_AD5245/blob/main/media/pseudo_readthedocs_cedargrove_ad5245.pdf))
+* [CircuitPython_AD5293](https://github.com/CedarGroveStudios/CircuitPython_AD5293.git) A driver for the AD5293 digital potentiometer. \([Docs](https://github.com/CedarGroveStudios/CircuitPython_AD5293/blob/main/media/pseudo_readthedocs_cedargrove_ad5293.pdf))
+* [CircuitPython_AD9833](https://github.com/CedarGroveStudios/CircuitPython_AD9833.git) A driver for the AD9833 Programmable Waveform Generator. \([Docs](https://github.com/CedarGroveStudios/CircuitPython_AD9833/blob/master/media/pseudo_readthedocs_cedargrove_ad9833.pdf))
 * [CircuitPython AS3935](https://github.com/BiffoBear/CircuitPython_AS3935.git) Library for the Franklin AS3935 lightning detector. The driver supports connections via SPI and I2C. \([Docs](https://circuitpython-as3935.readthedocs.io/))
 * [CircuitPython_DRV8830](https://github.com/CedarGroveStudios/CircuitPython_DRV8830.git) A driver for the DRV8830 DC motor controller.
 * [CircuitPython GC9A01](https://github.com/tylercrumpton/CircuitPython_GC9A01.git) Displayio driver for GC9A01 TFT LCD displays.
