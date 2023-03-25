@@ -21,6 +21,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython Laser AT](https://github.com/furbrain/CircuitPython_laser_at.git) Driver for a cheap laser rangefinder \([Docs](https://circuitpython-laser-at.readthedocs.io/en/latest/))
 * [CircuitPython_NAU7802](https://github.com/CedarGroveStudios/CircuitPython_NAU7802.git) A driver for the NAU7802 24-bit ADC.
 * [CircuitPython_paj7620](https://github.com/deshipu/circuitpython-paj7620.git) A driver for the PAJ7620 gesture sensor.
+* [CircuitPython qmc5883l](https://github.com/jposada202020/CircuitPython_qmc5883l.git) Driver for the QMC5883l magnetometer ([PyPi](https://pypi.org/project/circuitpython-qmc5883l/) )\([Docs](https://readthedocs.org/projects/circuitpython-qmc5883l/en/latest/))
 * [CircuitPython RDA5807](https://github.com/tinkeringtech/CircuitPython_rda5807) rda5807m FM radio chip CircuitPython library \([Docs](https://circuitpython-rda5807m.readthedocs.io/en/latest/))
 * [CircuitPython RM3100](https://github.com/furbrain/CircuitPython_RM3100.git) Driver for the RM3100 magnetometer \([PyPI](https://circuitpython-rm3100.readthedocs.io/en/latest/)) \([Docs](https://circuitpython-rm3100.readthedocs.io/en/latest/))
 * [CircuitPython SH1106](https://github.com/winneymj/CircuitPython_SH1106) CircuitPython driver for SH1106 OLED displays.
