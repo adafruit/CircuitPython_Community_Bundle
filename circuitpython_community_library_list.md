@@ -17,6 +17,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython HCSR04](https://github.com/mmabey/CircuitPython_HCSR04.git) Library for The HC-SR04 for measuring distances using microcontrollers \([Docs](https://circuitpython-hcsr04.readthedocs.io/en/latest/))
 * [CircuitPython HX711](https://github.com/fivesixzero/CircuitPython_HX711) CircuitPython driver for the HX711 load cell amplifer and ADC \([Docs](https://circuitpython-hx711.readthedocs.io/en/latest/))
 * [CircuitPython INA3221](https://github.com/barbudor/CircuitPython_INA3221.git) CircuitPython driver for the Texas Instruments' INA3221 3 channels current sensor. \([Docs](https://circuitpython-ina3221.readthedocs.io/en/latest/))
+* [CircuitPython ISL29125](https://github.com/jposada202020/CircuitPython_isl29125.git) Driver for the ISL29125 Light Sensor ([PyPi](https://pypi.org/project/circuitpython-isl29125/) )\([Docs](https://circuitpython-isl29125.readthedocs.io/en/latest/))
 * [CircuitPython JLed](https://github.com/jandelgado/jled-circuitpython) Non-blocking LED effects. \([Docs](https://jandelgado.github.io/jled-circuitpython))
 * [CircuitPython Laser AT](https://github.com/furbrain/CircuitPython_laser_at.git) Driver for a cheap laser rangefinder \([Docs](https://circuitpython-laser-at.readthedocs.io/en/latest/))
 * [CircuitPython_NAU7802](https://github.com/CedarGroveStudios/CircuitPython_NAU7802.git) A driver for the NAU7802 24-bit ADC.
