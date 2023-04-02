@@ -299,3 +299,6 @@
 [submodule "libraries/drivers/ad5293"]
 	path = libraries/drivers/ad5293
 	url = https://github.com/CedarGroveStudios/CircuitPython_AD5293.git
+[submodule "libraries/drivers/mc3479"]
+	path = libraries/drivers/mc3479
+	url = https://github.com/jposada202020/CircuitPython_MC3479.git
