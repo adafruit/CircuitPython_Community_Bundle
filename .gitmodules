@@ -302,3 +302,6 @@
 [submodule "libraries/drivers/BMI160"]
 	path = libraries/drivers/BMI160
 	url = https://github.com/jposada202020/CircuitPython_BMI160.git
+[submodule "libraries/helpers/async_buzzer"]
+	path = libraries/helpers/async_buzzer
+	url = https://github.com/furbrain/CircuitPython_async_buzzer.git
