@@ -21,6 +21,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython ISL29125](https://github.com/jposada202020/CircuitPython_isl29125.git) Driver for the ISL29125 Light Sensor ([PyPi](https://pypi.org/project/circuitpython-isl29125/) )\([Docs](https://circuitpython-isl29125.readthedocs.io/en/latest/))
 * [CircuitPython JLed](https://github.com/jandelgado/jled-circuitpython) Non-blocking LED effects. \([Docs](https://jandelgado.github.io/jled-circuitpython))
 * [CircuitPython Laser AT](https://github.com/furbrain/CircuitPython_laser_at.git) Driver for a cheap laser rangefinder \([Docs](https://circuitpython-laser-at.readthedocs.io/en/latest/))
+* [CircuitPython MC3479](https://github.com/jposada202020/CircuitPython_MC3479.git) Driver for the Memsic MC3479 Accelerometer ([PyPi](https://pypi.org/project/circuitpython-mc3479/) )\([Docs](https://circuitpython-mc3479.readthedocs.io/en/latest/))
 * [CircuitPython_NAU7802](https://github.com/CedarGroveStudios/CircuitPython_NAU7802.git) A driver for the NAU7802 24-bit ADC.
 * [CircuitPython_paj7620](https://github.com/deshipu/circuitpython-paj7620.git) A driver for the PAJ7620 gesture sensor.
 * [CircuitPython qmc5883l](https://github.com/jposada202020/CircuitPython_qmc5883l.git) Driver for the QMC5883l magnetometer ([PyPi](https://pypi.org/project/circuitpython-qmc5883l/) )\([Docs](https://readthedocs.org/projects/circuitpython-qmc5883l/en/latest/))
