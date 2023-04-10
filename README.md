@@ -2,6 +2,8 @@
 
 [![Doc Status](https://readthedocs.org/projects/circuitpython/badge/?version=latest)](https://circuitpython.readthedocs.io/en/latest/docs/drivers.html) [![Discord](https://img.shields.io/discord/327254708534116352.svg)](https://adafru.it/discord)
 
+![Blinka Community](https://github.com/adafruit/CircuitPython_Community_Bundle/blob/main/adafruit_circuitpython_community_bundle_100_large.png)
+
 This repo bundles a bunch of useful CircuitPython libraries into an easy to
 download zip file. CircuitPython boards can ship with the contents of the zip to
 make it easy to provide a lot of libraries by default.

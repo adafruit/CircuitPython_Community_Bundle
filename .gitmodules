@@ -241,7 +241,6 @@
 [submodule "libraries/helpers/ohmslaw"]
 	path = libraries/helpers/ohmslaw
 	url = https://github.com/CedarGroveStudios/CircuitPython_OhmsLaw.git
-  
 [submodule "libraries/drivers/seeed_xiao_nrf52840"]
 	path = libraries/drivers/seeed_xiao_nrf52840
 	url = https://github.com/furbrain/CircuitPython_seeed_xiao_nRF52840.git
@@ -299,6 +298,18 @@
 [submodule "libraries/drivers/ad5293"]
 	path = libraries/drivers/ad5293
 	url = https://github.com/CedarGroveStudios/CircuitPython_AD5293.git
+[submodule "libraries/drivers/BMI160"]
+	path = libraries/drivers/BMI160
+	url = https://github.com/jposada202020/CircuitPython_BMI160.git
+[submodule "libraries/helpers/async_buzzer"]
+	path = libraries/helpers/async_buzzer
+	url = https://github.com/furbrain/CircuitPython_async_buzzer.git
+[submodule "libraries/helpers/simple_dial"]
+	path = libraries/helpers/simple_dial
+	url = https://github.com/jposada202020/CircuitPython_simple_dial.git
+[submodule "libraries/drivers/qmc5883l"]
+	path = libraries/drivers/qmc5883l
+	url = https://github.com/jposada202020/CircuitPython_qmc5883l.git
 [submodule "libraries/drivers/isl29125"]
 	path = libraries/drivers/isl29125
 	url = https://github.com/jposada202020/CircuitPython_isl29125.git
