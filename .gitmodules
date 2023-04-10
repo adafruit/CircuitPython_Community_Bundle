@@ -316,3 +316,6 @@
 [submodule "libraries/drivers/mc3479"]
 	path = libraries/drivers/mc3479
 	url = https://github.com/jposada202020/CircuitPython_MC3479.git
+[submodule "libraries/helpers/displayio_listselect"]
+	path = libraries/helpers/displayio_listselect
+	url = https://github.com/FoamyGuy/CircuitPython_DisplayIO_ListSelect.git
