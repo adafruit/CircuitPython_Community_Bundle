@@ -307,4 +307,6 @@
 [submodule "libraries/helpers/simple_dial"]
 	path = libraries/helpers/simple_dial
 	url = https://github.com/jposada202020/CircuitPython_simple_dial.git
-
+[submodule "libraries/drivers/qmc5883l"]
+	path = libraries/drivers/qmc5883l
+	url = https://github.com/jposada202020/CircuitPython_qmc5883l.git
