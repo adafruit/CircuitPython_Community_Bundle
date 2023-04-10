@@ -310,3 +310,6 @@
 [submodule "libraries/drivers/qmc5883l"]
 	path = libraries/drivers/qmc5883l
 	url = https://github.com/jposada202020/CircuitPython_qmc5883l.git
+[submodule "libraries/drivers/isl29125"]
+	path = libraries/drivers/isl29125
+	url = https://github.com/jposada202020/CircuitPython_isl29125.git
