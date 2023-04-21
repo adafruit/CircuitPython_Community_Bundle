@@ -22,4 +22,3 @@ help get the driver ready for the Bundle.
 * [https://github.com/maholli/CircuitPython_INA226](https://github.com/maholli/CircuitPython_INA226)
 * [https://github.com/maholli/CircuitPython_BQ25883](https://github.com/maholli/CircuitPython_BQ25883)
 * [https://github.com/spacecraft-design-lab-2019/CircuitPython_BMX160](https://github.com/spacecraft-design-lab-2019/CircuitPython_BMX160)
-* [https://github.com/2bndy5/CircuitPython_Cirque_Pinnacle](https://github.com/2bndy5/CircuitPython_Cirque_Pinnacle)
