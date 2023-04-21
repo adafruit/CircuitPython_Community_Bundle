@@ -322,3 +322,6 @@
 [submodule "libraries/drivers/laser_egismos"]
 	path = libraries/drivers/laser_egismos
 	url = https://github.com/furbrain/CircuitPython_laser_egismos.git
+[submodule "libraries/drivers/cirque_pinnacle"]
+	path = libraries/drivers/cirque_pinnacle
+	url = https://github.com/2bndy5/CircuitPython_Cirque_Pinnacle.git
