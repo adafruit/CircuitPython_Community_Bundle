@@ -328,3 +328,6 @@
 [submodule "libraries/helpers/absolute_mouse"]
 	path = libraries/helpers/absolute_mouse
 	url = https://github.com/Neradoc/CircuitPython_Absolute_Mouse
+[submodule "libraries/drivers/m5stack_unit8"]
+	path = libraries/drivers/m5stack_unit8
+	url = https://github.com/Neradoc/CircuitPython_m5stack_unit8
