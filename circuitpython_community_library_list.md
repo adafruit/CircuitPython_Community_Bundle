@@ -59,6 +59,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [Woolsey Workshop CircuitPython 74HC165](https://github.com/WoolseyWorkshop/WoolseyWorkshop_CircuitPython_74HC165.git) CircuitPython driver for 74HC165 shift register. ([PyPI](https://pypi.org/project/woolseyworkshop-circuitpython-74hc165/)) \([Docs](https://woolseyworkshop-circuitpython-74hc165.readthedocs.io/en/latest/))
 
 ## Helpers:
+* [Absolute Mouse](https://github.com/Neradoc/CircuitPython_Absolute_Mouse) An Absolute Position Mouse HID library and descriptor for adafruit\_hid ([Docs](https://circuitpython-absolute-mouse.readthedocs.io/))
 * [Ansi Escape Codes](https://github.com/s-light/CircuitPython_ansi_escape_code) Simple helper library for common ANSI escape codes ([PyPI](https://pypi.org/project/circuitpython-ansi-escape-code/)) \([Docs](https://circuitpython-ansi-escape-code.readthedocs.io/))
 * [CIRCUITPYTHON ifttt](https://github.com/benevpi/CIRCUITPYTHON_ifttt.git) A simple link to If This Then That (IFTTT) webhooks \([Docs](https://circuitpython-ifttt.readthedocs.io/))
 * [CircuitPython_AirQualityTools](https://github.com/CedarGroveStudios/CircuitPython_AirQualityTools.git) Calculate PM2.5 and CO2 air quality levels \([Docs](https://github.com/CedarGroveStudios/CircuitPython_AirQualityTools/blob/main/media/pseudo_rtd_cedargrove_airqualitytools.pdf))
