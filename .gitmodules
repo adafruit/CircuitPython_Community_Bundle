@@ -325,3 +325,6 @@
 [submodule "libraries/drivers/cirque_pinnacle"]
 	path = libraries/drivers/cirque_pinnacle
 	url = https://github.com/2bndy5/CircuitPython_Cirque_Pinnacle.git
+[submodule "libraries/helpers/slider"]
+	path = libraries/helpers/slider
+	url = https://github.com/jposada202020/CircuitPython_slider.git
