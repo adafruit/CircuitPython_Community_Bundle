@@ -322,6 +322,9 @@
 [submodule "libraries/helpers/displayio_listselect"]
 	path = libraries/helpers/displayio_listselect
 	url = https://github.com/FoamyGuy/CircuitPython_DisplayIO_ListSelect.git
+[submodule "libraries/drivers/tm1637_display"]
+	path = libraries/drivers/tm1637_display
+	url = https://github.com/Neradoc/CircuitPython_tm1637_display
 [submodule "libraries/drivers/laser_egismos"]
 	path = libraries/drivers/laser_egismos
 	url = https://github.com/furbrain/CircuitPython_laser_egismos.git
