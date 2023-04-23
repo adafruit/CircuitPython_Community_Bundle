@@ -316,6 +316,9 @@
 [submodule "libraries/drivers/mc3479"]
 	path = libraries/drivers/mc3479
 	url = https://github.com/jposada202020/CircuitPython_MC3479.git
+[submodule "libraries/helpers/mcp23017_scanner"]
+	path = libraries/helpers/mcp23017_scanner
+	url = https://github.com/Neradoc/CircuitPython_mcp23017_Scanner
 [submodule "libraries/helpers/displayio_listselect"]
 	path = libraries/helpers/displayio_listselect
 	url = https://github.com/FoamyGuy/CircuitPython_DisplayIO_ListSelect.git
