@@ -325,3 +325,6 @@
 [submodule "libraries/drivers/cirque_pinnacle"]
 	path = libraries/drivers/cirque_pinnacle
 	url = https://github.com/2bndy5/CircuitPython_Cirque_Pinnacle.git
+[submodule "libraries/helpers/absolute_mouse"]
+	path = libraries/helpers/absolute_mouse
+	url = https://github.com/Neradoc/CircuitPython_Absolute_Mouse
