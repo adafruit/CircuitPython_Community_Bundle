@@ -340,3 +340,6 @@
 [submodule "libraries/drivers/m5stack_unit8"]
 	path = libraries/drivers/m5stack_unit8
 	url = https://github.com/Neradoc/CircuitPython_m5stack_unit8
+[submodule "libraries/helpers/slider"]
+	path = libraries/helpers/slider
+	url = https://github.com/jposada202020/CircuitPython_slider.git
