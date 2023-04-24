@@ -316,15 +316,30 @@
 [submodule "libraries/drivers/mc3479"]
 	path = libraries/drivers/mc3479
 	url = https://github.com/jposada202020/CircuitPython_MC3479.git
+[submodule "libraries/helpers/mcp23017_scanner"]
+	path = libraries/helpers/mcp23017_scanner
+	url = https://github.com/Neradoc/CircuitPython_mcp23017_Scanner
 [submodule "libraries/helpers/displayio_listselect"]
 	path = libraries/helpers/displayio_listselect
 	url = https://github.com/FoamyGuy/CircuitPython_DisplayIO_ListSelect.git
+[submodule "libraries/helpers/multi_keypad"]
+	path = libraries/helpers/multi_keypad
+	url = https://github.com/Neradoc/CircuitPython_Multi_Keypad
+[submodule "libraries/drivers/tm1637_display"]
+	path = libraries/drivers/tm1637_display
+	url = https://github.com/Neradoc/CircuitPython_tm1637_display
 [submodule "libraries/drivers/laser_egismos"]
 	path = libraries/drivers/laser_egismos
 	url = https://github.com/furbrain/CircuitPython_laser_egismos.git
 [submodule "libraries/drivers/cirque_pinnacle"]
 	path = libraries/drivers/cirque_pinnacle
 	url = https://github.com/2bndy5/CircuitPython_Cirque_Pinnacle.git
+[submodule "libraries/helpers/absolute_mouse"]
+	path = libraries/helpers/absolute_mouse
+	url = https://github.com/Neradoc/CircuitPython_Absolute_Mouse
+[submodule "libraries/drivers/m5stack_unit8"]
+	path = libraries/drivers/m5stack_unit8
+	url = https://github.com/Neradoc/CircuitPython_m5stack_unit8
 [submodule "libraries/helpers/slider"]
 	path = libraries/helpers/slider
 	url = https://github.com/jposada202020/CircuitPython_slider.git
