@@ -343,3 +343,6 @@
 [submodule "libraries/helpers/slider"]
 	path = libraries/helpers/slider
 	url = https://github.com/jposada202020/CircuitPython_slider.git
+[submodule "libraries/drivers/lps28"]
+	path = libraries/drivers/lps28
+	url = https://github.com/jposada202020/CircuitPython_LPS28.git
