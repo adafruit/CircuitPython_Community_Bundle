@@ -343,3 +343,6 @@
 [submodule "libraries/helpers/slider"]
 	path = libraries/helpers/slider
 	url = https://github.com/jposada202020/CircuitPython_slider.git
+[submodule "libraries/drivers/bma400"]
+	path = libraries/drivers/bma400
+	url = https://github.com/jposada202020/CircuitPython_BMA400.git
