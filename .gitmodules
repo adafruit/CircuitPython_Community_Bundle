@@ -346,3 +346,6 @@
 [submodule "libraries/drivers/lps28"]
 	path = libraries/drivers/lps28
 	url = https://github.com/jposada202020/CircuitPython_LPS28.git
+[submodule "libraries/drivers/bma400"]
+	path = libraries/drivers/bma400
+	url = https://github.com/jposada202020/CircuitPython_BMA400.git
