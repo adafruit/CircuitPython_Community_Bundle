@@ -349,3 +349,6 @@
 [submodule "libraries/drivers/bma400"]
 	path = libraries/drivers/bma400
 	url = https://github.com/jposada202020/CircuitPython_BMA400.git
+[submodule "libraries/drivers/bmp581"]
+	path = libraries/drivers/bmp581
+	url = https://github.com/jposada202020/CircuitPython_BMP581.git
