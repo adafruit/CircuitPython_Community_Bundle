@@ -358,3 +358,6 @@
 [submodule "libraries/drivers/stts22h"]
 	path = libraries/drivers/stts22h
 	url = https://github.com/jposada202020/CircuitPython_STTS22H.git
+[submodule "libraries/drivers/bma423"]
+	path = libraries/drivers/bma423
+	url = https://github.com/jposada202020/CircuitPython_BMA423.git
