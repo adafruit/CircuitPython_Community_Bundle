@@ -361,3 +361,6 @@
 [submodule "libraries/drivers/bma423"]
 	path = libraries/drivers/bma423
 	url = https://github.com/jposada202020/CircuitPython_BMA423.git
+[submodule "libraries/drivers/axp192"]
+	path = libraries/drivers/axp192
+	url = https://github.com/CDarius/CircuitPython_AXP192.git
