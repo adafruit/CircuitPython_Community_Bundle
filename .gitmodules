@@ -367,3 +367,6 @@
 [submodule "libraries/drivers/bma220"]
 	path = libraries/drivers/bma220
 	url = https://github.com/jposada202020/CircuitPython_BMA220.git
+[submodule "libraries/helpers/scales"]
+	path = libraries/helpers/scales
+	url = https://github.com/jposada202020/CircuitPython_scales.git
