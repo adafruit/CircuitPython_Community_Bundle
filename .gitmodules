@@ -370,3 +370,6 @@
 [submodule "libraries/helpers/scales"]
 	path = libraries/helpers/scales
 	url = https://github.com/jposada202020/CircuitPython_scales.git
+[submodule "libraries/helpers/display_ht16k33"]
+	path = libraries/helpers/display_ht16k33
+	url = https://github.com/jposada202020/CircuitPython_DISPLAY_HT16K33.git
