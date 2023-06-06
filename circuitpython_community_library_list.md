@@ -31,6 +31,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython LPS28DFW](https://github.com/jposada202020/CircuitPython_LPS28.git) Driver for Sparkfun LPS28DFW Sensor ([PyPi](https://pypi.org/project/circuitpython-lps28/) )\([Docs](https://circuitpython-lps28.readthedocs.io/en/latest/))
 * [CircuitPython MC3479](https://github.com/jposada202020/CircuitPython_MC3479.git) Driver for the Memsic MC3479 Accelerometer ([PyPi](https://pypi.org/project/circuitpython-mc3479/) )\([Docs](https://circuitpython-mc3479.readthedocs.io/en/latest/))
 * [CircuitPython_NAU7802](https://github.com/CedarGroveStudios/CircuitPython_NAU7802.git) A driver for the NAU7802 24-bit ADC.
+* [CircuitPython PS2Controller](https://github.com/todbot/CircuitPython_PS2Controller.git) ([PyPi](https://pypi.org/project/circuitpython-ps2controller)) \([Docs](https://circuitpython-ps2controller.readthedocs.io/en/latest/)) CircuitPython library to read Sony PS2 game controllers
 * [CircuitPython_paj7620](https://github.com/deshipu/circuitpython-paj7620.git) A driver for the PAJ7620 gesture sensor.
 * [CircuitPython qmc5883l](https://github.com/jposada202020/CircuitPython_qmc5883l.git) Driver for the QMC5883l magnetometer ([PyPi](https://pypi.org/project/circuitpython-qmc5883l/) )\([Docs](https://readthedocs.org/projects/circuitpython-qmc5883l/en/latest/))
 * [CircuitPython RDA5807](https://github.com/tinkeringtech/CircuitPython_rda5807) rda5807m FM radio chip CircuitPython library \([Docs](https://circuitpython-rda5807m.readthedocs.io/en/latest/))
