@@ -376,3 +376,6 @@
 [submodule "libraries/drivers/ps2controller"]
 	path = libraries/drivers/ps2controller
 	url = https://github.com/todbot/CircuitPython_PS2Controller.git
+[submodule "libraries/drivers/h3lis200dl"]
+	path = libraries/drivers/h3lis200dl
+	url = https://github.com/jposada202020/CircuitPython_H3LIS200DL.git
