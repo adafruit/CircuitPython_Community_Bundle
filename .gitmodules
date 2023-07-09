@@ -376,6 +376,9 @@
 [submodule "libraries/drivers/h3lis200dl"]
 	path = libraries/drivers/h3lis200dl
 	url = https://github.com/jposada202020/CircuitPython_H3LIS200DL.git
+[submodule "libraries/drivers/ltc166x"]
+	path = libraries/drivers/ltc166x
+	url = https://github.com/creativecontrol/creativecontrol_CircuitPython_LTC166X.git
 [submodule "libraries/helpers/caveble"]
 	path = libraries/helpers/caveble
 	url = https://github.com/furbrain/CircuitPython_CaveBLE.git
