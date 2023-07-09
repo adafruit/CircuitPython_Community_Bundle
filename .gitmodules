@@ -286,9 +286,6 @@
 [submodule "libraries/drivers/pcf85063a"]
 	path = libraries/drivers/pcf85063a
 	url = https://github.com/bablokb/circuitpython-pcf85063a.git
-[submodule "libraries/helpers/distox"]
-	path = libraries/helpers/distox
-	url = https://github.com/furbrain/CircuitPython_distox.git
 [submodule "libraries/helpers/async_button"]
 	path = libraries/helpers/async_button
 	url = https://github.com/furbrain/CircuitPython_async_button.git
@@ -379,3 +376,6 @@
 [submodule "libraries/drivers/h3lis200dl"]
 	path = libraries/drivers/h3lis200dl
 	url = https://github.com/jposada202020/CircuitPython_H3LIS200DL.git
+[submodule "libraries/helpers/caveble"]
+	path = libraries/helpers/caveble
+	url = https://github.com/furbrain/CircuitPython_CaveBLE.git
