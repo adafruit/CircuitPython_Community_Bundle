@@ -382,3 +382,6 @@
 [submodule "libraries/helpers/caveble"]
 	path = libraries/helpers/caveble
 	url = https://github.com/furbrain/CircuitPython_CaveBLE.git
+[submodule "libraries/drivers/gc9d01"]
+	path = libraries/drivers/gc9d01
+	url = https://github.com/tylercrumpton/CircuitPython_GC9D01.git
