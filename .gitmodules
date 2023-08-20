@@ -385,3 +385,6 @@
 [submodule "libraries/drivers/gc9d01"]
 	path = libraries/drivers/gc9d01
 	url = https://github.com/tylercrumpton/CircuitPython_GC9D01.git
+[submodule "libraries/helpers/microosc"]
+	path = libraries/helpers/microosc
+	url = https://github.com/todbot/CircuitPython_MicroOSC.git
