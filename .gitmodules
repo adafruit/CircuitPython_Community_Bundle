@@ -388,3 +388,6 @@
 [submodule "libraries/helpers/microosc"]
 	path = libraries/helpers/microosc
 	url = https://github.com/todbot/CircuitPython_MicroOSC.git
+[submodule "libraries/drivers/at24mac_eeprom"]
+	path = libraries/drivers/at24mac_eeprom
+	url = https://github.com/facts-engineering/CircuitPython_AT24MAC_EEPROM.git
