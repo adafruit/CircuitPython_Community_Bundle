@@ -40,7 +40,6 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython RDA5807](https://github.com/tinkeringtech/CircuitPython_rda5807) rda5807m FM radio chip CircuitPython library \([Docs](https://circuitpython-rda5807m.readthedocs.io/en/latest/))
 * [CircuitPython RM3100](https://github.com/furbrain/CircuitPython_RM3100.git) Driver for the RM3100 magnetometer \([PyPI](https://circuitpython-rm3100.readthedocs.io/en/latest/)) \([Docs](https://circuitpython-rm3100.readthedocs.io/en/latest/))
 * [CircuitPython RuhRohRotaryIO](https://github.com/todbot/CircuitPython_RuhRohRotaryIO.git) CircuitPython library that pretents to be `rotaryio` for non-sequential pins ([PyPi](https://pypi.org/project/circuitpython-ruhrohrotaryio)) \([Docs](https://circuitpython-ruhrohrotaryio.readthedocs.io/en/latest/))
-
 * [CircuitPython SH1106](https://github.com/winneymj/CircuitPython_SH1106) CircuitPython driver for SH1106 OLED displays.
 * [CircuitPython Seeed XIAO nRF52840](https://github.com/furbrain/CircuitPython_seeed_xiao_nRF52840) Provides access to onboard sensors and battery charge management circuitry \([Docs](https://circuitpython-seeed-xiao-nrf52840.readthedocs.io/en/latest/))
 * [CircuitPython TCA9555](https://github.com/lesamouraipourpre/Community_CircuitPython_TCA9555) CircuitPython library for Texas Instruments TCA9555 Low-Voltage 16-Bit I2C and SMBus I/O Expander with Input / Output and Polarity Inversion. \([PyPI](https://pypi.org/project/community-circuitpython-tca9555/)) \([Docs](http://community-circuitpython-tca9555.rtfd.io/))
