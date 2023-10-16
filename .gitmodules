@@ -393,4 +393,4 @@
 	url = https://github.com/facts-engineering/CircuitPython_AT24MAC_EEPROM.git
 [submodule "libraries/drivers/ruhrohrotaryio"]
 	path = libraries/drivers/ruhrohrotaryio
-	url = git@github.com:todbot/CircuitPython_Community_Bundle.git
+	url = https://github.com/todbot/CircuitPython_Community_Bundle.git
