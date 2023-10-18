@@ -394,3 +394,6 @@
 [submodule "libraries/drivers/ruhrohrotaryio"]
 	path = libraries/drivers/ruhrohrotaryio
 	url = https://github.com/todbot/CircuitPython_RuhRohRotaryIO.git
+[submodule "libraries/helpers/chime"]
+	path = libraries/helpers/chime
+	url = https://github.com/cedargrovestudios/circuitpython_chime.git
