@@ -1,1 +1,2 @@
 circuitpython-build-tools
+setuptools
