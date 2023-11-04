@@ -36,7 +36,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython PS2Controller](https://github.com/todbot/CircuitPython_PS2Controller.git) ([PyPi](https://pypi.org/project/circuitpython-ps2controller)) \([Docs](https://circuitpython-ps2controller.readthedocs.io/en/latest/)) CircuitPython library to read Sony PS2 game controllers
 * [CircuitPython_paj7620](https://github.com/deshipu/circuitpython-paj7620.git) A driver for the PAJ7620 gesture sensor.
 * [CircuitPython qmc5883l](https://github.com/jposada202020/CircuitPython_qmc5883l.git) Driver for the QMC5883l magnetometer ([PyPi](https://pypi.org/project/circuitpython-qmc5883l/) )\([Docs](https://readthedocs.org/projects/circuitpython-qmc5883l/en/latest/))
-
+* [CircuitPython qmi8658c](https://github.com/jins-tkomoda/CircuitPython_QMI8658C.git) Driver for the QMI8658C inertial measurement unit ([Docs](https://circuitpython-qmi8658c.readthedocs.io/en/latest/))
 * [CircuitPython RDA5807](https://github.com/tinkeringtech/CircuitPython_rda5807) rda5807m FM radio chip CircuitPython library \([Docs](https://circuitpython-rda5807m.readthedocs.io/en/latest/))
 * [CircuitPython RM3100](https://github.com/furbrain/CircuitPython_RM3100.git) Driver for the RM3100 magnetometer \([PyPI](https://circuitpython-rm3100.readthedocs.io/en/latest/)) \([Docs](https://circuitpython-rm3100.readthedocs.io/en/latest/))
 * [CircuitPython RuhRohRotaryIO](https://github.com/todbot/CircuitPython_RuhRohRotaryIO.git) CircuitPython library that pretents to be `rotaryio` for non-sequential pins ([PyPi](https://pypi.org/project/circuitpython-ruhrohrotaryio)) \([Docs](https://circuitpython-ruhrohrotaryio.readthedocs.io/en/latest/))
