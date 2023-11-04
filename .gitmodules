@@ -397,3 +397,6 @@
 [submodule "libraries/helpers/chime"]
 	path = libraries/helpers/chime
 	url = https://github.com/cedargrovestudios/circuitpython_chime.git
+[submodule "libraries/drivers/qmi8658c"]
+	path = libraries/drivers/qmi8658c
+	url = https://github.com/jins-tkomoda/CircuitPython_QMI8658C.git
