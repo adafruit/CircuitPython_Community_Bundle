@@ -32,6 +32,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython Laser Egismos](https://github.com/furbrain/CircuitPython_laser_egismos.git) Driver for the Egismos laser rangefinder module 2 \([Docs](https://circuitpython-laser-egismos.readthedocs.io/en/latest/))
 * [CircuitPython LPS28DFW](https://github.com/jposada202020/CircuitPython_LPS28.git) Driver for Sparkfun LPS28DFW Sensor ([PyPi](https://pypi.org/project/circuitpython-lps28/) )\([Docs](https://circuitpython-lps28.readthedocs.io/en/latest/))
 * [CircuitPython MC3479](https://github.com/jposada202020/CircuitPython_MC3479.git) Driver for the Memsic MC3479 Accelerometer ([PyPi](https://pypi.org/project/circuitpython-mc3479/) )\([Docs](https://circuitpython-mc3479.readthedocs.io/en/latest/))
+* [CircuitPython MPU6886](https://github.com/jins-tkomoda/CircuitPython_MPU6886.git) Driver for the MPU6886 inertial measurement unit ([Docs](https://circuitpython-mpu6886.readthedocs.io/en/latest/))
 * [CircuitPython_NAU7802](https://github.com/CedarGroveStudios/CircuitPython_NAU7802.git) A driver for the NAU7802 24-bit ADC.
 * [CircuitPython PS2Controller](https://github.com/todbot/CircuitPython_PS2Controller.git) ([PyPi](https://pypi.org/project/circuitpython-ps2controller)) \([Docs](https://circuitpython-ps2controller.readthedocs.io/en/latest/)) CircuitPython library to read Sony PS2 game controllers
 * [CircuitPython_paj7620](https://github.com/deshipu/circuitpython-paj7620.git) A driver for the PAJ7620 gesture sensor.
