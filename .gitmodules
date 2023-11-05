@@ -400,3 +400,6 @@
 [submodule "libraries/drivers/qmi8658c"]
 	path = libraries/drivers/qmi8658c
 	url = https://github.com/jins-tkomoda/CircuitPython_QMI8658C.git
+[submodule "libraries/drivers/mpu6886"]
+	path = libraries/drivers/mpu6886
+	url = https://github.com/jins-tkomoda/CircuitPython_MPU6886.git
