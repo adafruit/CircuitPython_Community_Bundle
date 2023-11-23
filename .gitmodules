@@ -400,3 +400,6 @@
 [submodule "libraries/drivers/qmi8658c"]
 	path = libraries/drivers/qmi8658c
 	url = https://github.com/jins-tkomoda/CircuitPython_QMI8658C.git
+[submodule "libraries/helpers/toml"]
+	path = libraries/helpers/toml
+	url = https://github.com/elpekenin/circuitpython_toml.git
