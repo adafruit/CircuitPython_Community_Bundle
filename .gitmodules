@@ -406,3 +406,6 @@
 [submodule "libraries/drivers/lilygo_tdeck"]
 	path = libraries/drivers/lilygo_tdeck
 	url = https://github.com/rgrizzell/CircuitPython_LILYGO_T-Deck.git
+[submodule "libraries/drivers/P1AM"]
+	path = libraries/drivers/P1AM
+	url = https://github.com/facts-engineering/CircuitPython_P1AM.git
