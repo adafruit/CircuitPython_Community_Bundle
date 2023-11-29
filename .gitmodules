@@ -412,3 +412,6 @@
 [submodule "libraries/helpers/p1am_200_helpers"]
 	path = libraries/helpers/p1am_200_helpers
 	url = https://github.com/facts-engineering/CircuitPython_p1am_200_helpers.git
+[submodule "libraries/helpers/RS485-Wrapper"]
+	path = libraries/helpers/RS485-Wrapper
+	url = https://github.com/facts-engineering/CircuitPython_rs485_wrapper.git
