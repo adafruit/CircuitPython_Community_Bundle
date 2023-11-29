@@ -403,3 +403,6 @@
 [submodule "libraries/helpers/toml"]
 	path = libraries/helpers/toml
 	url = https://github.com/elpekenin/circuitpython_toml.git
+[submodule "libraries/drivers/lilygo_tdeck"]
+	path = libraries/drivers/lilygo_tdeck
+	url = https://github.com/rgrizzell/CircuitPython_LILYGO_T-Deck.git
