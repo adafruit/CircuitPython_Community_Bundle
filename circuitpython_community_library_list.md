@@ -140,5 +140,8 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [nonblocking Serial Input](https://github.com/s-light/CircuitPython_nonblocking_serialinput) CircuitPython helper library to handle serial user input in a nonblocking way \([Docs](https://circuitpython-nonblocking-serialinput.readthedocs.io/))
 * [NVM Helper](https://github.com/FoamyGuy/Foamyguy_CircuitPython_nvm_helper) Easy interface to store and retrieve objects persisted via NVM \([Docs](https://circuitpython-nvm-helper.readthedocs.io/))
 * [UUIDv4](https://github.com/DerBroader71/circuitpython_uuid4) This is a CircuitPython library to generate a UUID version 4
+* [P1AM](https://github.com/facts-engineering/CircuitPython_P1AM.git) A CircuitPython driver library for the P1AM product family.
+* [p1am_200_helpers](https://github.com/facts-engineering/CircuitPython_p1am_200_helpers.git) A CircuitPython helper library for the features of the P1AM-200.
 * [PCF85063A](https://github.com/bablokb/circuitpython-pcf85063a) A CircuitPython library for the PCF85063A RTC
+* [RS485-Wrapper](https://github.com/facts-engineering/CircuitPython_rs485_wrapper.git) A CircuitPython helper library to convert a UART object into an RS485 object.
 * [Cirque Pinnacle](https://github.com/2bndy5/CircuitPython_Cirque_Pinnacle) A driver library to use circular trackpads (as seen in the Steam controller and HTC Vive VR controllers) empowered with Cirque's 1CA027 ASIC (surnamed "Pinnacle"). More information can be found in the [documentation](https://circuitpython-cirque-pinnacle.rtfd.io).

@@ -403,6 +403,15 @@
 [submodule "libraries/drivers/lilygo_tdeck"]
 	path = libraries/drivers/lilygo_tdeck
 	url = https://github.com/rgrizzell/CircuitPython_LILYGO_T-Deck.git
+[submodule "libraries/drivers/P1AM"]
+	path = libraries/drivers/P1AM
+	url = https://github.com/facts-engineering/CircuitPython_P1AM.git
+[submodule "libraries/helpers/p1am_200_helpers"]
+	path = libraries/helpers/p1am_200_helpers
+	url = https://github.com/facts-engineering/CircuitPython_p1am_200_helpers.git
+[submodule "libraries/helpers/RS485-Wrapper"]
+	path = libraries/helpers/RS485-Wrapper
+	url = https://github.com/facts-engineering/CircuitPython_rs485_wrapper.git
 [submodule "libraries/helpers/biplane"]
 	path = libraries/helpers/biplane
 	url = https://github.com/Uberi/biplane.git
