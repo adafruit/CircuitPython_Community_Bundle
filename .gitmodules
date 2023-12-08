@@ -415,3 +415,6 @@
 [submodule "libraries/helpers/biplane"]
 	path = libraries/helpers/biplane
 	url = https://github.com/Uberi/biplane.git
+[submodule "libraries/drivers/segment_display"]
+	path = libraries/drivers/segment_display
+	url = https://github.com/bablokb/circuitpython-segment-display.git
