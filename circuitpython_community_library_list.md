@@ -74,6 +74,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [TM1637 7-Segment Display](https://github.com/Neradoc/CircuitPython_tm1637_display.git) CircuitPython library for a TM1637 7-segment display board ([Docs](https://tm1637-display-for-circuitpython.readthedocs.io/))
 * [Waveshare's I2C Character Display LCD1602](https://github.com/Neradoc/Circuitpython_Waveshare_LCD1602.git) Drive for Waveshare's I2C character display LCD1602 ([PyPi](https://pypi.org/project/circuitpython-waveshare-lcd1602)) \([Docs](https://waveshare-lcd1602-circuitpython-driver.readthedocs.io/))
 * [Woolsey Workshop CircuitPython 74HC165](https://github.com/WoolseyWorkshop/WoolseyWorkshop_CircuitPython_74HC165.git) CircuitPython driver for 74HC165 shift register. ([PyPI](https://pypi.org/project/woolseyworkshop-circuitpython-74hc165/)) \([Docs](https://woolseyworkshop-circuitpython-74hc165.readthedocs.io/en/latest/))
+* [Waveshare's I2C E-Ink Segment-Display](https://github.com/bablokb/circuitpython-segment-display.git) CircuitPython driver for E-Ink Segment-Display
 
 ## Helpers:
 * [Absolute Mouse](https://github.com/Neradoc/CircuitPython_Absolute_Mouse) An Absolute Position Mouse HID library and descriptor for adafruit\_hid ([Docs](https://circuitpython-absolute-mouse.readthedocs.io/))
