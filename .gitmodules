@@ -418,3 +418,6 @@
 [submodule "libraries/drivers/segment_display"]
 	path = libraries/drivers/segment_display
 	url = https://github.com/bablokb/circuitpython-segment-display.git
+[submodule "libraries/helpers/wavebuilder"]
+	path = libraries/helpers/wavebuilder
+	url = https://github.com/CedarGroveStudios/CircuitPython_WaveBuilder.git
