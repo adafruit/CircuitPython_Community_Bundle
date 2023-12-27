@@ -346,9 +346,6 @@
 [submodule "libraries/drivers/bma400"]
 	path = libraries/drivers/bma400
 	url = https://github.com/jposada202020/CircuitPython_BMA400.git
-[submodule "libraries/biplane"]
-	path = libraries/biplane
-	url = https://github.com/Uberi/biplane.git
 [submodule "libraries/drivers/bmp581"]
 	path = libraries/drivers/bmp581
 	url = https://github.com/jposada202020/CircuitPython_BMP581.git
@@ -400,6 +397,30 @@
 [submodule "libraries/drivers/qmi8658c"]
 	path = libraries/drivers/qmi8658c
 	url = https://github.com/jins-tkomoda/CircuitPython_QMI8658C.git
+[submodule "libraries/helpers/toml"]
+	path = libraries/helpers/toml
+	url = https://github.com/elpekenin/circuitpython_toml.git
+[submodule "libraries/drivers/lilygo_tdeck"]
+	path = libraries/drivers/lilygo_tdeck
+	url = https://github.com/rgrizzell/CircuitPython_LILYGO_T-Deck.git
+[submodule "libraries/drivers/P1AM"]
+	path = libraries/drivers/P1AM
+	url = https://github.com/facts-engineering/CircuitPython_P1AM.git
+[submodule "libraries/helpers/p1am_200_helpers"]
+	path = libraries/helpers/p1am_200_helpers
+	url = https://github.com/facts-engineering/CircuitPython_p1am_200_helpers.git
+[submodule "libraries/helpers/RS485-Wrapper"]
+	path = libraries/helpers/RS485-Wrapper
+	url = https://github.com/facts-engineering/CircuitPython_rs485_wrapper.git
+[submodule "libraries/helpers/biplane"]
+	path = libraries/helpers/biplane
+	url = https://github.com/Uberi/biplane.git
+[submodule "libraries/drivers/segment_display"]
+	path = libraries/drivers/segment_display
+	url = https://github.com/bablokb/circuitpython-segment-display.git
+[submodule "libraries/helpers/wavebuilder"]
+	path = libraries/helpers/wavebuilder
+	url = https://github.com/CedarGroveStudios/CircuitPython_WaveBuilder.git
 [submodule "libraries/drivers/mpu6886"]
 	path = libraries/drivers/mpu6886
 	url = https://github.com/jins-tkomoda/CircuitPython_MPU6886.git
