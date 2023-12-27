@@ -421,3 +421,6 @@
 [submodule "libraries/helpers/wavebuilder"]
 	path = libraries/helpers/wavebuilder
 	url = https://github.com/CedarGroveStudios/CircuitPython_WaveBuilder.git
+[submodule "libraries/drivers/mpu6886"]
+	path = libraries/drivers/mpu6886
+	url = https://github.com/jins-tkomoda/CircuitPython_MPU6886.git
