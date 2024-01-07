@@ -424,3 +424,6 @@
 [submodule "libraries/drivers/mpu6886"]
 	path = libraries/drivers/mpu6886
 	url = https://github.com/jins-tkomoda/CircuitPython_MPU6886.git
+[submodule "libraries/drivers/i2c_expanders"]
+	path = libraries/drivers/i2c_expanders
+	url = https://github.com/ilikecake/CircuitPython_I2C_Expanders.git
