@@ -427,3 +427,6 @@
 [submodule "libraries/drivers/i2c_expanders"]
 	path = libraries/drivers/i2c_expanders
 	url = https://github.com/ilikecake/CircuitPython_I2C_Expanders.git
+[submodule "libraries/drivers/gt911"]
+	path = libraries/drivers/gt911
+	url = https://github.com/rgrizzell/CircuitPython_GT911.git

@@ -22,6 +22,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython GC9A01](https://github.com/tylercrumpton/CircuitPython_GC9A01.git) Displayio driver for GC9A01 TFT LCD displays.
 * [CircuitPython GC9D01](https://github.com/tylercrumpton/CircuitPython_GC9D01.git) Displayio driver for GC9D01 TFT LCD displays.
 * [CircuitPython gpio_expander](https://github.com/gpongelli/CircuitPython_gpio_expander.git) I2C GPIO expander support for PCA9534, PCA9535, PCA9555, TCA9534, TCA9535 and TCA9555 chips. ([PyPi](https://pypi.org/project/circuitpython-gpio-expander/)) \([Docs](https://github.com/gpongelli/CircuitPython_gpio_expander/blob/main/README.rst))
+* [CircuitPython_GT911](https://github.com/rgrizzell/CircuitPython_GT911.git) Driver for the Goodix GT911 touchscreen sensor. \([Docs](https://circuitpython-gt911.readthedocs.io/en/latest/))
 * [CircuitPython H3LIS200DL](https://github.com/jposada202020/CircuitPython_H3LIS200DL.git) Driver for the ST H3LIS200DL Accelerometer sensor ([PyPi](https://pypi.org/project/circuitpython-h3lis200dl/)) \([Docs](https://circuitpython-h3lis200dl.readthedocs.io/en/latest/))
 * [CircuitPython HCSR04](https://github.com/mmabey/CircuitPython_HCSR04.git) Library for The HC-SR04 for measuring distances using microcontrollers \([Docs](https://circuitpython-hcsr04.readthedocs.io/en/latest/))
 * [CircuitPython HX711](https://github.com/fivesixzero/CircuitPython_HX711) CircuitPython driver for the HX711 load cell amplifer and ADC \([Docs](https://circuitpython-hx711.readthedocs.io/en/latest/))
