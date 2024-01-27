@@ -433,3 +433,6 @@
 [submodule "libraries/drivers/gt911"]
 	path = libraries/drivers/gt911
 	url = https://github.com/rgrizzell/CircuitPython_GT911.git
+[submodule "libraries/helpers/softkeyboard"]
+	path = libraries/helpers/softkeyboard
+	url = https://github.com/FoamyGuy/CircuitPython_SoftKeyboard.git
