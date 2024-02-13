@@ -436,3 +436,6 @@
 [submodule "libraries/helpers/softkeyboard"]
 	path = libraries/helpers/softkeyboard
 	url = https://github.com/FoamyGuy/CircuitPython_SoftKeyboard.git
+[submodule "libraries/helpers/ble_cycling_power_service"]
+	path = libraries/helpers/ble_cycling_power_service
+	url = https://github.com/EzrSchwartz/Circuitpython_BLE_Cycling_Power_Service.git
