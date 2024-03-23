@@ -147,6 +147,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [nonblocking timer](https://github.com/Angeleno-Tech/nonblocking_timer.git) nonblockingtimer is a class to simplify the use of time.monotonic() when working with CircuitPython \([Docs](https://circuitpython-nonblocking_timer.readthedocs.io/))
 * [nonblocking Serial Input](https://github.com/s-light/CircuitPython_nonblocking_serialinput) CircuitPython helper library to handle serial user input in a nonblocking way \([Docs](https://circuitpython-nonblocking-serialinput.readthedocs.io/))
 * [NVM Helper](https://github.com/FoamyGuy/Foamyguy_CircuitPython_nvm_helper) Easy interface to store and retrieve objects persisted via NVM \([Docs](https://circuitpython-nvm-helper.readthedocs.io/))
+* [Oak Dev Tech CircuitPython IcePython](https://github.com/skerr92/Oakdevtech_CircuitPython_IcePython) Helper for programming Lattice iCE40 FPGA
 * [UUIDv4](https://github.com/DerBroader71/circuitpython_uuid4) This is a CircuitPython library to generate a UUID version 4
 * [P1AM](https://github.com/facts-engineering/CircuitPython_P1AM.git) A CircuitPython driver library for the P1AM product family.
 * [p1am_200_helpers](https://github.com/facts-engineering/CircuitPython_p1am_200_helpers.git) A CircuitPython helper library for the features of the P1AM-200.
