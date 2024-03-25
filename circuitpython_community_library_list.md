@@ -154,3 +154,4 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [PCF85063A](https://github.com/bablokb/circuitpython-pcf85063a) A CircuitPython library for the PCF85063A RTC
 * [RS485-Wrapper](https://github.com/facts-engineering/CircuitPython_rs485_wrapper.git) A CircuitPython helper library to convert a UART object into an RS485 object.
 * [Cirque Pinnacle](https://github.com/2bndy5/CircuitPython_Cirque_Pinnacle) A driver library to use circular trackpads (as seen in the Steam controller and HTC Vive VR controllers) empowered with Cirque's 1CA027 ASIC (surnamed "Pinnacle"). More information can be found in the [documentation](https://circuitpython-cirque-pinnacle.rtfd.io).
+* [Embedded HTTPServer](https://github.com/bablokb/circuitpython-ehttpserver) An efficient and slim HTTP-server (fork of biplane)
