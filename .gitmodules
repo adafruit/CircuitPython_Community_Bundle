@@ -442,3 +442,6 @@
 [submodule "libraries/helpers/Oakdevtech_CircuitPython_IcePython"]
 	path = libraries/helpers/Oakdevtech_CircuitPython_IcePython
 	url = https://github.com/skerr92/Oakdevtech_CircuitPython_IcePython.git
+[submodule "libraries/helpers/ehttpserver"]
+	path = libraries/helpers/ehttpserver
+	url = https://github.com/bablokb/circuitpython-ehttpserver.git
