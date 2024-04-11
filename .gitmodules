@@ -445,3 +445,6 @@
 [submodule "libraries/helpers/ehttpserver"]
 	path = libraries/helpers/ehttpserver
 	url = https://github.com/bablokb/circuitpython-ehttpserver.git
+[submodule "libraries/drivers/mcp48xx"]
+	path = libraries/drivers/mcp48xx
+	url = https://github.com/brushmate/CircuitPython_MCP48XX.git
