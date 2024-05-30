@@ -451,3 +451,6 @@
 [submodule "libraries/driver/axp2101"]
 	path = libraries/driver/axp2101
 	url = https://github.com/CDarius/CircuitPython_AXP2101.git
+[submodule "libraries/drivers/displayio_st7565"]
+	path = libraries/drivers/displayio_st7565
+	url = https://github.com/mateusznowakdev/CircuitPython_DisplayIO_ST7565.git
