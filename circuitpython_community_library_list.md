@@ -19,6 +19,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython BMA423](https://github.com/jposada202020/CircuitPython_BMA423.git) Driver for the Bosch BMA423 Sensor ([PyPi](https://pypi.org/project/circuitpython-bma423/)) \([Docs](https://circuitpython-bma423.readthedocs.io/en/latest/))
 * [CircuitPython BMI160](https://github.com/jposada202020/CircuitPython_BMI160.git) Driver for the Bosch BMI160 Sensor ([PyPi](https://pypi.org/project/circuitpython-bmi160/)) \([Docs](https://circuitpython-bmi160.readthedocs.io/en/latest/))
 * [CircuitPython BMP581](https://github.com/jposada202020/CircuitPython_BMP581.git) Driver for the Bosch BMP581 Sensor ([PyPi](https://pypi.org/project/circuitpython-bmp581/)) \([Docs](https://circuitpython-bmp581.readthedocs.io/en/latest/))
+* [CircuitPython DisplayIO ST7565](https://github.com/mateusznowakdev/CircuitPython_DisplayIO_ST7565.git) CircuitPython displayio driver for ST7565 and ST7567 displays \([Docs](https://circuitpython-displayio-st7565.readthedocs.io/en/latest/))
 * [CircuitPython_DRV8830](https://github.com/CedarGroveStudios/CircuitPython_DRV8830.git) A driver for the DRV8830 DC motor controller.
 * [CircuitPython GC9A01](https://github.com/tylercrumpton/CircuitPython_GC9A01.git) Displayio driver for GC9A01 TFT LCD displays.
 * [CircuitPython GC9D01](https://github.com/tylercrumpton/CircuitPython_GC9D01.git) Displayio driver for GC9D01 TFT LCD displays.
