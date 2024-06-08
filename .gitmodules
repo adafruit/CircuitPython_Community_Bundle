@@ -448,8 +448,8 @@
 [submodule "libraries/drivers/mcp48xx"]
 	path = libraries/drivers/mcp48xx
 	url = https://github.com/brushmate/CircuitPython_MCP48XX.git
-[submodule "libraries/driver/axp2101"]
-	path = libraries/driver/axp2101
+[submodule "libraries/drivers/axp2101"]
+	path = libraries/drivers/axp2101
 	url = https://github.com/CDarius/CircuitPython_AXP2101.git
 [submodule "libraries/drivers/displayio_st7565"]
 	path = libraries/drivers/displayio_st7565
