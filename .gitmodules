@@ -455,5 +455,5 @@
 	path = libraries/drivers/displayio_st7565
 	url = https://github.com/mateusznowakdev/CircuitPython_DisplayIO_ST7565.git
 [submodule "libraries/helpers/circuitpython_tmidi"]
-	path = libraries/helpers/circuitpython_tmidi
+	path = libraries/helpers/tmidi
 	url = https://github.com/todbot/CircuitPython_TMIDI.git
