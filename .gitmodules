@@ -454,3 +454,6 @@
 [submodule "libraries/drivers/displayio_st7565"]
 	path = libraries/drivers/displayio_st7565
 	url = https://github.com/mateusznowakdev/CircuitPython_DisplayIO_ST7565.git
+[submodule "libraries/helpers/button_handler"]
+	path = libraries/helpers/button_handler
+	url = https://github.com/EGJ-Moorington/CircuitPython_Button_Handler.git
