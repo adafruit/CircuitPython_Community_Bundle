@@ -42,6 +42,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython_NAU7802](https://github.com/CedarGroveStudios/CircuitPython_NAU7802.git) A driver for the NAU7802 24-bit ADC.
 * [CircuitPython PS2Controller](https://github.com/todbot/CircuitPython_PS2Controller.git) ([PyPi](https://pypi.org/project/circuitpython-ps2controller)) \([Docs](https://circuitpython-ps2controller.readthedocs.io/en/latest/)) CircuitPython library to read Sony PS2 game controllers
 * [CircuitPython_paj7620](https://github.com/deshipu/circuitpython-paj7620.git) A driver for the PAJ7620 gesture sensor.
+* [CircuitPython PCA9674](https://github.com/XENONFFM/CircuitPython_PCA9674.git) Driver for the NXP PCA9674(A) 8 channel I2C I/O expander ([PyPi](https://pypi.org/project/circuitpython-pca9674))
 * [CircuitPython qmc5883l](https://github.com/jposada202020/CircuitPython_qmc5883l.git) Driver for the QMC5883l magnetometer ([PyPi](https://pypi.org/project/circuitpython-qmc5883l/) )\([Docs](https://readthedocs.org/projects/circuitpython-qmc5883l/en/latest/))
 * [CircuitPython qmi8658c](https://github.com/jins-tkomoda/CircuitPython_QMI8658C.git) Driver for the QMI8658C inertial measurement unit ([Docs](https://circuitpython-qmi8658c.readthedocs.io/en/latest/))
 * [CircuitPython RDA5807](https://github.com/tinkeringtech/CircuitPython_rda5807) rda5807m FM radio chip CircuitPython library \([Docs](https://circuitpython-rda5807m.readthedocs.io/en/latest/))

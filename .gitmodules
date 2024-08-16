@@ -457,3 +457,6 @@
 [submodule "libraries/helpers/circuitpython_tmidi"]
 	path = libraries/helpers/tmidi
 	url = https://github.com/todbot/CircuitPython_TMIDI.git
+[submodule "libraries/drivers/pca9674"]
+	path = libraries/drivers/pca9674
+	url = https://github.com/XENONFFM/CircuitPython_PCA9674.git
