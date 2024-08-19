@@ -457,3 +457,9 @@
 [submodule "libraries/helpers/button_handler"]
 	path = libraries/helpers/button_handler
 	url = https://github.com/EGJ-Moorington/CircuitPython_Button_Handler.git
+[submodule "libraries/helpers/circuitpython_tmidi"]
+	path = libraries/helpers/tmidi
+	url = https://github.com/todbot/CircuitPython_TMIDI.git
+[submodule "libraries/drivers/pca9674"]
+	path = libraries/drivers/pca9674
+	url = https://github.com/XENONFFM/CircuitPython_PCA9674.git
