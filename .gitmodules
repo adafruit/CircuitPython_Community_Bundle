@@ -460,3 +460,6 @@
 [submodule "libraries/drivers/pca9674"]
 	path = libraries/drivers/pca9674
 	url = https://github.com/XENONFFM/CircuitPython_PCA9674.git
+[submodule "libraries/helpers/rotaryselect"]
+	path = libraries/helpers/rotaryselect
+	url = https://github.com/FoamyGuy/CircuitPython_RotarySelect.git
