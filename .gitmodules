@@ -466,3 +466,6 @@
 [submodule "libraries/helpers/rotaryselect"]
 	path = libraries/helpers/rotaryselect
 	url = https://github.com/FoamyGuy/CircuitPython_RotarySelect.git
+[submodule "libraries/drivers/m5stack_pbhub"]
+	path = libraries/drivers/m5stack_pbhub
+	url = https://github.com/CDarius/CircuitPython_M5Stack_PbHub.git
