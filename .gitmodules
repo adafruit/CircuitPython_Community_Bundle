@@ -469,3 +469,6 @@
 [submodule "libraries/drivers/m5stack_pbhub"]
 	path = libraries/drivers/m5stack_pbhub
 	url = https://github.com/CDarius/CircuitPython_M5Stack_PbHub.git
+[submodule "libraries/drivers/buildhat"]
+	path = libraries/drivers/buildhat
+	url = https://github.com/CDarius/CircuitPython_RaspberryPI_BuildHAT.git
