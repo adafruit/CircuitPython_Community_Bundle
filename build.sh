@@ -32,4 +32,4 @@ gawk -F '\n' '{ match($1, /(drivers|helpers)\/(.+)\/(.+)\:/, arr) ; if (length(a
 gawk '{ trimmed = substr($0, 1, length($0) - 2) ; print "\"" trimmed "\"" }'
 )
 
-circuitpython-build-bundles --filename_prefix circuitpython-community-bundle --library_location libraries --library_depth 2 --package_folder_prefix "$P"
+circuitpython-build-bundles --filename_prefix circuitpython-community-bundle --library_location libraries --library_depth 2 --package_folder_prefix "$P" --skip_failed
