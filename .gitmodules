@@ -472,3 +472,6 @@
 [submodule "libraries/drivers/buildhat"]
 	path = libraries/drivers/buildhat
 	url = https://github.com/CDarius/CircuitPython_RaspberryPI_BuildHAT.git
+[submodule "libraries/drivers/mhz19"]
+	path = libraries/drivers/mhz19
+	url = https://github.com/bablokb/circuitpython-mhz19.git
