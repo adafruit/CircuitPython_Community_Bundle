@@ -69,6 +69,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [Electronutlabs CircuitPython LTR329ALS01](https://github.com/electronut/Electronutlabs_CircuitPython_LTR329ALS01.git) Circuitpython library for reading data from light sensor LTR329ALS01. \([Docs](https://circuitpython-ltr329als01-library.readthedocs.io/en/latest/))
 * [Hierophect Circuitpython Dynamixel](https://github.com/hierophect/Hierophect_Circuitpython_Dynamixel.git) Circuitpython driver library for the Dynamixel series of servo motors from Robotis \([Docs](https://circuitpython-dynamixel.readthedocs.io/))
 * [M5Stack 8 Angle and 8 Encoder Unit](https://github.com/Neradoc/CircuitPython_m5stack_unit8) Circuitpython driver library for the M5Stack 8Unit Angle and Encoder breakout boards \([Docs](https://m5stack-unit8-for-circuitpython.readthedocs.io/))
+* [MH-Z19x](https://github.com/bablokb/circuitpython-mhz19.git) Driver for the MH-Z19x CO2-sensors
 * [Mindwidgets CircuitPython DF1201S](https://github.com/mindwidgets/Mindwidgets_CircuitPython_DF1201S) CircuitPython driver for DFRobot DFPlayer Pro MP3 player with onboard storage \([Docs](https://mindwidgets-circuitpython-df1201s-library.readthedocs.io/en/latest/))
 * [Pimoroni CircuitPython LTR559](https://github.com/pimoroni/Pimoroni_CircuitPython_LTR559.git) Library for the LTR559 Proximity/Presence/Light Sensor \([Docs](https://circuitpython.readthedocs.io/projects/pimoroni_circuitpython_ltr559/en/latest/))
 * [Pimoroni CircuitPython MICS6814](https://github.com/pimoroni/Pimoroni_CircuitPython_MICS6814.git) Driver for the MICS6814 Gas sensor \([Docs](https://circuitpython.readthedocs.io/projects/mics6814/en/latest/))
@@ -165,4 +166,3 @@ c* [CircuitPython_RotarySelect](https://github.com/FoamyGuy/CircuitPython_Rotary
 * [RS485-Wrapper](https://github.com/facts-engineering/CircuitPython_rs485_wrapper.git) A CircuitPython helper library to convert a UART object into an RS485 object.
 * [Cirque Pinnacle](https://github.com/2bndy5/CircuitPython_Cirque_Pinnacle) A driver library to use circular trackpads (as seen in the Steam controller and HTC Vive VR controllers) empowered with Cirque's 1CA027 ASIC (surnamed "Pinnacle"). More information can be found in the [documentation](https://circuitpython-cirque-pinnacle.rtfd.io).
 * [Embedded HTTPServer](https://github.com/bablokb/circuitpython-ehttpserver) An efficient and slim HTTP-server (fork of biplane)
-* [MH-Z19x](https://github.com/bablokb/circuitpython-mhz19.git) Driver for the MH-Z19x CO2-sensors
