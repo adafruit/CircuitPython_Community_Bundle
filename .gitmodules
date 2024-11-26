@@ -475,6 +475,6 @@
 [submodule "libraries/drivers/mhz19"]
 	path = libraries/drivers/mhz19
 	url = https://github.com/bablokb/circuitpython-mhz19.git
-[submodule "libraries/drivers/i2sinout"]
-	path = libraries/drivers/i2sinout
-	url = https://github.com/relic-se/CircuitPython_I2SInOut.git
+[submodule "libraries/helpers/pio_i2s"]
+	path = libraries/helpers/pio_i2s
+	url = https://github.com/relic-se/CircuitPython_PIO_I2S.git
