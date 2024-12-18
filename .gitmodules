@@ -304,9 +304,6 @@
 [submodule "libraries/helpers/simple_dial"]
 	path = libraries/helpers/simple_dial
 	url = https://github.com/jposada202020/CircuitPython_simple_dial.git
-[submodule "libraries/drivers/qmc5883l"]
-	path = libraries/drivers/qmc5883l
-	url = https://github.com/jposada202020/CircuitPython_qmc5883l.git
 [submodule "libraries/drivers/isl29125"]
 	path = libraries/drivers/isl29125
 	url = https://github.com/jposada202020/CircuitPython_isl29125.git
@@ -349,18 +346,12 @@
 [submodule "libraries/drivers/bmp581"]
 	path = libraries/drivers/bmp581
 	url = https://github.com/jposada202020/CircuitPython_BMP581.git
-[submodule "libraries/drivers/stts22h"]
-	path = libraries/drivers/stts22h
-	url = https://github.com/jposada202020/CircuitPython_STTS22H.git
 [submodule "libraries/drivers/bma423"]
 	path = libraries/drivers/bma423
 	url = https://github.com/jposada202020/CircuitPython_BMA423.git
 [submodule "libraries/drivers/axp192"]
 	path = libraries/drivers/axp192
 	url = https://github.com/CDarius/CircuitPython_AXP192.git
-[submodule "libraries/drivers/bma220"]
-	path = libraries/drivers/bma220
-	url = https://github.com/jposada202020/CircuitPython_BMA220.git
 [submodule "libraries/helpers/scales"]
 	path = libraries/helpers/scales
 	url = https://github.com/jposada202020/CircuitPython_scales.git
