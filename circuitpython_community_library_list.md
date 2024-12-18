@@ -14,7 +14,6 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython AS3935](https://github.com/BiffoBear/CircuitPython_AS3935.git) Library for the Franklin AS3935 lightning detector. The driver supports connections via SPI and I2C. \([Docs](https://circuitpython-as3935.readthedocs.io/))
 * [CircuitPython AXP192](https://github.com/CDarius/CircuitPython_AXP192.git) A driver for AXP192 power management IC. \([Docs](https://circuitpython-axp192.readthedocs.io/))
 * [CircuitPython AXP2101](https://github.com/CDarius/CircuitPython_AXP2101.git) A driver for AXP2101 power management IC. \([Docs](http://circuitpython-driver-for-axp2101-power-management-ic.readthedocs.io//))
-* [CircuitPython BMA220](https://github.com/jposada202020/CircuitPython_BMA220.git) Driver for the Bosch BMA220 Sensor ([PyPi](https://pypi.org/project/circuitpython-bma220/)) \([Docs](https://circuitpython-bma220.readthedocs.io/en/latest/))
 * [CircuitPython BMA400](https://github.com/jposada202020/CircuitPython_BMA400.git) Driver for the Bosch BMA400 Sensor ([PyPi](https://pypi.org/project/circuitpython-bma400/)) \([Docs](https://circuitpython-bma400.readthedocs.io/en/latest/))
 * [CircuitPython BMA423](https://github.com/jposada202020/CircuitPython_BMA423.git) Driver for the Bosch BMA423 Sensor ([PyPi](https://pypi.org/project/circuitpython-bma423/)) \([Docs](https://circuitpython-bma423.readthedocs.io/en/latest/))
 * [CircuitPython BMI160](https://github.com/jposada202020/CircuitPython_BMI160.git) Driver for the Bosch BMI160 Sensor ([PyPi](https://pypi.org/project/circuitpython-bmi160/)) \([Docs](https://circuitpython-bmi160.readthedocs.io/en/latest/))
@@ -44,7 +43,6 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython PS2Controller](https://github.com/todbot/CircuitPython_PS2Controller.git) ([PyPi](https://pypi.org/project/circuitpython-ps2controller)) \([Docs](https://circuitpython-ps2controller.readthedocs.io/en/latest/)) CircuitPython library to read Sony PS2 game controllers
 * [CircuitPython_paj7620](https://github.com/deshipu/circuitpython-paj7620.git) A driver for the PAJ7620 gesture sensor.
 * [CircuitPython PCA9674](https://github.com/XENONFFM/CircuitPython_PCA9674.git) Driver for the NXP PCA9674(A) 8 channel I2C I/O expander ([PyPi](https://pypi.org/project/circuitpython-pca9674))
-* [CircuitPython qmc5883l](https://github.com/jposada202020/CircuitPython_qmc5883l.git) Driver for the QMC5883l magnetometer ([PyPi](https://pypi.org/project/circuitpython-qmc5883l/) )\([Docs](https://readthedocs.org/projects/circuitpython-qmc5883l/en/latest/))
 * [CircuitPython qmi8658c](https://github.com/jins-tkomoda/CircuitPython_QMI8658C.git) Driver for the QMI8658C inertial measurement unit 
 ([Docs](https://circuitpython-qmi8658c.readthedocs.io/en/latest/))
 * [CircuitPython Raspberry PI Build HAT](https://github.com/CDarius/CircuitPython_RaspberryPI_BuildHAT.git) Driver for Raspberry PI Build HAT \([Docs](https://circuitpython-raspberrypi-buildhat.readthedocs.io/en/latest/))
