@@ -307,9 +307,6 @@
 [submodule "libraries/drivers/qmc5883l"]
 	path = libraries/drivers/qmc5883l
 	url = https://github.com/jposada202020/CircuitPython_qmc5883l.git
-[submodule "libraries/drivers/isl29125"]
-	path = libraries/drivers/isl29125
-	url = https://github.com/jposada202020/CircuitPython_isl29125.git
 [submodule "libraries/drivers/mc3479"]
 	path = libraries/drivers/mc3479
 	url = https://github.com/jposada202020/CircuitPython_MC3479.git
@@ -340,18 +337,12 @@
 [submodule "libraries/helpers/slider"]
 	path = libraries/helpers/slider
 	url = https://github.com/jposada202020/CircuitPython_slider.git
-[submodule "libraries/drivers/lps28"]
-	path = libraries/drivers/lps28
-	url = https://github.com/jposada202020/CircuitPython_LPS28.git
 [submodule "libraries/drivers/bma400"]
 	path = libraries/drivers/bma400
 	url = https://github.com/jposada202020/CircuitPython_BMA400.git
 [submodule "libraries/drivers/bmp581"]
 	path = libraries/drivers/bmp581
 	url = https://github.com/jposada202020/CircuitPython_BMP581.git
-[submodule "libraries/drivers/stts22h"]
-	path = libraries/drivers/stts22h
-	url = https://github.com/jposada202020/CircuitPython_STTS22H.git
 [submodule "libraries/drivers/bma423"]
 	path = libraries/drivers/bma423
 	url = https://github.com/jposada202020/CircuitPython_BMA423.git
@@ -370,9 +361,6 @@
 [submodule "libraries/drivers/ps2controller"]
 	path = libraries/drivers/ps2controller
 	url = https://github.com/todbot/CircuitPython_PS2Controller.git
-[submodule "libraries/drivers/h3lis200dl"]
-	path = libraries/drivers/h3lis200dl
-	url = https://github.com/jposada202020/CircuitPython_H3LIS200DL.git
 [submodule "libraries/drivers/ltc166x"]
 	path = libraries/drivers/ltc166x
 	url = https://github.com/creativecontrol/creativecontrol_CircuitPython_LTC166X.git
