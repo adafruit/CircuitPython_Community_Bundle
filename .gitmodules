@@ -295,9 +295,6 @@
 [submodule "libraries/drivers/ad5293"]
 	path = libraries/drivers/ad5293
 	url = https://github.com/CedarGroveStudios/CircuitPython_AD5293.git
-[submodule "libraries/drivers/BMI160"]
-	path = libraries/drivers/BMI160
-	url = https://github.com/jposada202020/CircuitPython_BMI160.git
 [submodule "libraries/helpers/async_buzzer"]
 	path = libraries/helpers/async_buzzer
 	url = https://github.com/furbrain/CircuitPython_async_buzzer.git
@@ -343,18 +340,9 @@
 [submodule "libraries/drivers/lps28"]
 	path = libraries/drivers/lps28
 	url = https://github.com/jposada202020/CircuitPython_LPS28.git
-[submodule "libraries/drivers/bma400"]
-	path = libraries/drivers/bma400
-	url = https://github.com/jposada202020/CircuitPython_BMA400.git
-[submodule "libraries/drivers/bmp581"]
-	path = libraries/drivers/bmp581
-	url = https://github.com/jposada202020/CircuitPython_BMP581.git
 [submodule "libraries/drivers/stts22h"]
 	path = libraries/drivers/stts22h
 	url = https://github.com/jposada202020/CircuitPython_STTS22H.git
-[submodule "libraries/drivers/bma423"]
-	path = libraries/drivers/bma423
-	url = https://github.com/jposada202020/CircuitPython_BMA423.git
 [submodule "libraries/drivers/axp192"]
 	path = libraries/drivers/axp192
 	url = https://github.com/CDarius/CircuitPython_AXP192.git
