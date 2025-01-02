@@ -307,9 +307,6 @@
 [submodule "libraries/drivers/isl29125"]
 	path = libraries/drivers/isl29125
 	url = https://github.com/jposada202020/CircuitPython_isl29125.git
-[submodule "libraries/drivers/mc3479"]
-	path = libraries/drivers/mc3479
-	url = https://github.com/jposada202020/CircuitPython_MC3479.git
 [submodule "libraries/helpers/mcp23017_scanner"]
 	path = libraries/helpers/mcp23017_scanner
 	url = https://github.com/Neradoc/CircuitPython_mcp23017_Scanner
