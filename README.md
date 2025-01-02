@@ -30,6 +30,16 @@ also do `git submodule update`.
 To update the libraries run `update-submodules.sh`. The script will fetch the
 latest code and update to the newest tag (not master).
 
+## Expectations for Library Inclusion
+You're interested in having your library included in the Community Bundle? Great! Here are some things to keep in mind:
+
+ * The subject and content of your library has to be compatible with the [Adafruit Community Code of Conduct](CODE_OF_CONDUCT.md)
+ * Tagged release of the library must be compatible with [circuitpython-build-tools](https://github.com/adafruit/circuitpython-build-tools). The best way to ensure this is to use Github Actions with files like those produced by our [Cookie Cutter](https://github.com/adafruit/cookiecutter-adafruit-circuitpython/)
+ * If your library has a problematic release that impacts Community Bundle releases, you will do your best to resolve it in a timely manner
+ * If future changes to circuitpython-build-tools impact your library, you will do your best to resolve it in a timely manner (we try to keep breaking changes to a minimum, but they do happen!)
+
+If a particular library is causing problems for distribution in the Community Bundle we may temporarily drop it or hold it at an old revision, so that we can continue making Community Bundle releases.
+
 ## Adding a library
 Determine the best location within `libraries` for the new library and then run:
 
