@@ -295,21 +295,12 @@
 [submodule "libraries/drivers/ad5293"]
 	path = libraries/drivers/ad5293
 	url = https://github.com/CedarGroveStudios/CircuitPython_AD5293.git
-[submodule "libraries/drivers/BMI160"]
-	path = libraries/drivers/BMI160
-	url = https://github.com/jposada202020/CircuitPython_BMI160.git
 [submodule "libraries/helpers/async_buzzer"]
 	path = libraries/helpers/async_buzzer
 	url = https://github.com/furbrain/CircuitPython_async_buzzer.git
 [submodule "libraries/helpers/simple_dial"]
 	path = libraries/helpers/simple_dial
 	url = https://github.com/jposada202020/CircuitPython_simple_dial.git
-[submodule "libraries/drivers/qmc5883l"]
-	path = libraries/drivers/qmc5883l
-	url = https://github.com/jposada202020/CircuitPython_qmc5883l.git
-[submodule "libraries/drivers/mc3479"]
-	path = libraries/drivers/mc3479
-	url = https://github.com/jposada202020/CircuitPython_MC3479.git
 [submodule "libraries/helpers/mcp23017_scanner"]
 	path = libraries/helpers/mcp23017_scanner
 	url = https://github.com/Neradoc/CircuitPython_mcp23017_Scanner
@@ -337,21 +328,9 @@
 [submodule "libraries/helpers/slider"]
 	path = libraries/helpers/slider
 	url = https://github.com/jposada202020/CircuitPython_slider.git
-[submodule "libraries/drivers/bma400"]
-	path = libraries/drivers/bma400
-	url = https://github.com/jposada202020/CircuitPython_BMA400.git
-[submodule "libraries/drivers/bmp581"]
-	path = libraries/drivers/bmp581
-	url = https://github.com/jposada202020/CircuitPython_BMP581.git
-[submodule "libraries/drivers/bma423"]
-	path = libraries/drivers/bma423
-	url = https://github.com/jposada202020/CircuitPython_BMA423.git
 [submodule "libraries/drivers/axp192"]
 	path = libraries/drivers/axp192
 	url = https://github.com/CDarius/CircuitPython_AXP192.git
-[submodule "libraries/drivers/bma220"]
-	path = libraries/drivers/bma220
-	url = https://github.com/jposada202020/CircuitPython_BMA220.git
 [submodule "libraries/helpers/scales"]
 	path = libraries/helpers/scales
 	url = https://github.com/jposada202020/CircuitPython_scales.git
