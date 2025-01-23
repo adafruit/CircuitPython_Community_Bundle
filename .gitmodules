@@ -445,3 +445,6 @@
 [submodule "libraries/helpers/pio_i2s"]
 	path = libraries/helpers/pio_i2s
 	url = https://github.com/relic-se/CircuitPython_PIO_I2S.git
+[submodule "libraries/drivers/pca9955b"]
+	path = libraries/drivers/pca9955b
+	url = https://github.com/noelanderson/CircuitPython_PCA9955B.git
