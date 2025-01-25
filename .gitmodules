@@ -448,3 +448,6 @@
 [submodule "libraries/drivers/pca9955b"]
 	path = libraries/drivers/pca9955b
 	url = https://github.com/noelanderson/CircuitPython_PCA9955B.git
+[submodule "libraries/helpers/buzzer-music"]
+	path = libraries/helpers/buzzer-music
+	url = https://github.com/bablokb/cp-buzzer-music.git
