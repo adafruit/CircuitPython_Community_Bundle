@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 149 libraries available.
+There are 150 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -30,6 +30,7 @@ There are 149 libraries available.
 * [CircuitPython NAU7802](https://github.com/CedarGroveStudios/CircuitPython_NAU7802.git)
 * [CircuitPython P1AM](https://github.com/facts-engineering/CircuitPython_P1AM.git)
 * [CircuitPython PCA9674](https://github.com/XENONFFM/CircuitPython_PCA9674.git) ([PyPi](https://pypi.org/project/circuitpython-pca9674))
+* [CircuitPython PCA9955B](https://github.com/noelanderson/CircuitPython_PCA9955B.git) \([Docs](https://circuitpython-pca9955b.readthedocs.io/))
 * [CircuitPython PS2Controller](https://github.com/todbot/CircuitPython_PS2Controller.git) ([PyPi](https://pypi.org/project/circuitpython-ps2controller)) \([Docs](https://circuitpython-ps2controller.readthedocs.io/))
 * [CircuitPython QMI8658C](https://github.com/jins-tkomoda/CircuitPython_QMI8658C.git)
 * [CircuitPython RM3100](https://github.com/furbrain/CircuitPython_RM3100.git) ([PyPi](https://pypi.org/project/circuitpython-rm3100)) \([Docs](https://circuitpython-rm3100.readthedocs.io/))
