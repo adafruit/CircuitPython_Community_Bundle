@@ -448,3 +448,6 @@
 [submodule "libraries/drivers/pca9955b"]
 	path = libraries/drivers/pca9955b
 	url = https://github.com/noelanderson/CircuitPython_PCA9955B.git
+[submodule "libraries/SUBFOLDER/as5600"]
+	path = libraries/SUBFOLDER/as5600
+	url = https://github.com/noelanderson/CircuitPython_AS5600.git
