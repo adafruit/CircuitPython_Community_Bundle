@@ -451,6 +451,9 @@
 [submodule "libraries/helpers/buzzer-music"]
 	path = libraries/helpers/buzzer-music
 	url = https://github.com/bablokb/cp-buzzer-music.git
+[submodule "libraries/drivers/as5600"]
+	path = libraries/drivers/as5600
+	url = https://github.com/noelanderson/CircuitPython_AS5600.git
 [submodule "libraries/helpers/game_controls"]
 	path = libraries/helpers/game_controls
 	url = https://github.com/FoamyGuy/CircuitPython_GameControls.git

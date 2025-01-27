@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 150 libraries available.
+There are 152 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -9,6 +9,7 @@ There are 150 libraries available.
 * [CircuitPython AD5293](https://github.com/CedarGroveStudios/CircuitPython_AD5293.git)
 * [CircuitPython AD9833](https://github.com/CedarGroveStudios/CircuitPython_AD9833.git)
 * [CircuitPython AS3935](https://github.com/BiffoBear/CircuitPython_AS3935.git) \([Docs](https://circuitpython-as3935.readthedocs.io/))
+* [CircuitPython AS5600](https://github.com/noelanderson/CircuitPython_AS5600.git) \([Docs](https://circuitpython-as5600.readthedocs.io/))
 * [CircuitPython AT24MAC EEPROM](https://github.com/facts-engineering/CircuitPython_AT24MAC_EEPROM.git)
 * [CircuitPython AXP192](https://github.com/CDarius/CircuitPython_AXP192.git) \([Docs](https://circuitpython-axp192.readthedocs.io/))
 * [CircuitPython AXP2101](https://github.com/CDarius/CircuitPython_AXP2101.git) \([Docs](https://circuitpython-axp2101.readthedocs.io/))
@@ -155,4 +156,5 @@ There are 150 libraries available.
 * [circuitpython uuid4](https://github.com/DerBroader71/circuitpython_uuid4.git)
 * [circuitpython waveviz](https://github.com/cedargrovestudios/circuitpython_waveviz.git)
 * [circuitpython-ehttpserver](https://github.com/bablokb/circuitpython-ehttpserver.git)
+* [cp-buzzer-music](https://github.com/bablokb/cp-buzzer-music.git)
 * [nonblocking timer](https://github.com/Angeleno-Tech/nonblocking_timer.git) \([Docs](https://circuitpython-nonblocking_timer.readthedocs.io/))
