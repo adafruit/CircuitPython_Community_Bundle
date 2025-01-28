@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 152 libraries available.
+There are 153 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -97,6 +97,7 @@ There are 152 libraries available.
 * [CircuitPython Display Frame](https://github.com/FoamyGuy/CircuitPython_Display_Frame.git) ([PyPi](https://pypi.org/project/circuitpython-display-frame)) \([Docs](https://circuitpython.readthedocs.io/projects/display_frame/en/latest/))
 * [CircuitPython DisplayIO ListSelect](https://github.com/FoamyGuy/CircuitPython_DisplayIO_ListSelect.git) ([PyPi](https://pypi.org/project/circuitpython-displayio-listselect)) \([Docs](https://circuitpython-displayio-listselect.readthedocs.io/))
 * [CircuitPython Example](https://github.com/tannewt/CircuitPython_Example.git) \([Docs](https://circuitpython-example.readthedocs.io/en/latest/))
+* [CircuitPython GameControls](https://github.com/FoamyGuy/CircuitPython_GameControls.git) ([PyPi](https://pypi.org/project/circuitpython-gamecontrols)) \([Docs](https://circuitpython-gamecontrols.readthedocs.io/))
 * [CircuitPython HMAC](https://github.com/jimbobbennett/CircuitPython_HMAC) ([PyPi](https://pypi.org/project/circuitpython-hmac)) \([Docs](https://circuitpython.readthedocs.io/projects/hmac/en/latest/))
 * [CircuitPython MIDI Tools](https://github.com/CedarGroveStudios/CircuitPython_MIDI_Tools.git)
 * [CircuitPython MicroOSC](https://github.com/todbot/CircuitPython_MicroOSC.git) ([PyPi](https://pypi.org/project/circuitpython-microosc)) \([Docs](https://circuitpython-microosc.readthedocs.io/))
