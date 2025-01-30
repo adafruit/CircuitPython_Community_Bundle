@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 153 libraries available.
+There are 154 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -16,6 +16,7 @@ There are 153 libraries available.
 * [CircuitPython Cirque Pinnacle](https://github.com/2bndy5/CircuitPython_Cirque_Pinnacle.git) ([PyPi](https://pypi.org/project/circuitpython-cirque-pinnacle)) \([Docs](https://circuitpython-cirque-pinnacle.readthedocs.io/en/latest/?badge=latest))
 * [CircuitPython DRV8830](https://github.com/CedarGroveStudios/CircuitPython_DRV8830.git)
 * [CircuitPython DisplayIO ST7565](https://github.com/mateusznowakdev/CircuitPython_DisplayIO_ST7565.git)
+* [CircuitPython FS3000](https://github.com/noelanderson/CircuitPython_FS3000.git) \([Docs](https://circuitpython-fs3000.readthedocs.io/))
 * [CircuitPython GC9A01](https://github.com/tylercrumpton/CircuitPython_GC9A01.git)
 * [CircuitPython GC9D01](https://github.com/tylercrumpton/CircuitPython_GC9D01.git)
 * [CircuitPython GT911](https://github.com/rgrizzell/CircuitPython_GT911.git) ([PyPi](https://pypi.org/project/circuitpython-gt911)) \([Docs](https://circuitpython-gt911.readthedocs.io/))
