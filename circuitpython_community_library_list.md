@@ -18,6 +18,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython BMA220](https://github.com/jposada202020/CircuitPython_BMA220.git) Driver for the Bosch BMA220 Sensor ([PyPi](https://pypi.org/project/circuitpython-bma220/)) \([Docs](https://circuitpython-bma220.readthedocs.io/en/latest/))
 * [CircuitPython DisplayIO ST7565](https://github.com/mateusznowakdev/CircuitPython_DisplayIO_ST7565.git) CircuitPython displayio driver for ST7565 and ST7567 displays \([Docs](https://circuitpython-displayio-st7565.readthedocs.io/en/latest/))
 * [CircuitPython_DRV8830](https://github.com/CedarGroveStudios/CircuitPython_DRV8830.git) A driver for the DRV8830 DC motor controller.
+* [CircuitPython FS3000](https://github.com/noelanderson/CircuitPython_FS3000.git) Driver for the Renesas FS3000 Air Velocity Sensor Module ([Docs](https://circuitpython-fs3000.readthedocs.io/en/latest/))
 * [CircuitPython GC9A01](https://github.com/tylercrumpton/CircuitPython_GC9A01.git) Displayio driver for GC9A01 TFT LCD displays.
 * [CircuitPython GC9D01](https://github.com/tylercrumpton/CircuitPython_GC9D01.git) Displayio driver for GC9D01 TFT LCD displays.
 * [CircuitPython gpio_expander](https://github.com/gpongelli/CircuitPython_gpio_expander.git) I2C GPIO expander support for PCA9534, PCA9535, PCA9555, TCA9534, TCA9535 and TCA9555 chips. ([PyPi](https://pypi.org/project/circuitpython-gpio-expander/)) \([Docs](https://github.com/gpongelli/CircuitPython_gpio_expander/blob/main/README.rst))

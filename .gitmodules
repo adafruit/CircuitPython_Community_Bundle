@@ -457,3 +457,6 @@
 [submodule "libraries/helpers/game_controls"]
 	path = libraries/helpers/game_controls
 	url = https://github.com/FoamyGuy/CircuitPython_GameControls.git
+[submodule "libraries/drivers/fs3000"]
+	path = libraries/drivers/fs3000
+	url = https://github.com/noelanderson/CircuitPython_FS3000.git
