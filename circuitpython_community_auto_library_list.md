@@ -135,7 +135,7 @@ There are 154 libraries available.
 * [CircuitPython simple dial](https://github.com/jposada202020/CircuitPython_simple_dial.git) \([Docs](https://circuitpython-simple_dial.readthedocs.io/))
 * [CircuitPython slider](https://github.com/jposada202020/CircuitPython_slider.git) ([PyPi](https://pypi.org/project/circuitpython-slider)) \([Docs](https://circuitpython-slider.readthedocs.io/en/latest/?badge=latest))
 * [CircuitPython styles](https://github.com/jposada202020/CircuitPython_styles) ([PyPi](https://pypi.org/project/circuitpython-styles)) \([Docs](https://circuitpython-styles.readthedocs.io/en/latest/?badge=latest))
-* [CircuitPython uplot](https://github.com/jposada202020/CircuitPython_uplot.git) ([PyPi](https://pypi.org/project/circuitpython-uplot)) \([Docs](https://circuitpython-uplot.readthedocs.io/))
+* [CircuitPython uplot](https://github.com/jposada202020/CircuitPython_uplot.git) ([PyPi](https://pypi.org/project/circuitpython-uplot))
 * [CircuitPython-UBoxplot](https://github.com/jposada202020/CircuitPython-UBoxplot.git) ([PyPi](https://pypi.org/project/circuitpython-uboxplot)) \([Docs](https://circuitpython-uboxplot.readthedocs.io/))
 * [Circuitpython BLE Cycling Power Service](https://github.com/EzrSchwartz/Circuitpython_BLE_Cycling_Power_Service.git)
 * [Foamyguy CircuitPython nvm helper](https://github.com/FoamyGuy/Foamyguy_CircuitPython_nvm_helper.git) ([PyPi](https://pypi.org/project/foamyguy-circuitpython-nvm-helper)) \([Docs](https://circuitpython-nvm-helper.readthedocs.io/))
