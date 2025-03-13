@@ -460,3 +460,6 @@
 [submodule "libraries/drivers/fs3000"]
 	path = libraries/drivers/fs3000
 	url = https://github.com/noelanderson/CircuitPython_FS3000.git
+[submodule "libraries/helpers/iperf"]
+	path = libraries/helpers/iperf
+	url = https://github.com/bablokb/circuitpython-iperf.git
