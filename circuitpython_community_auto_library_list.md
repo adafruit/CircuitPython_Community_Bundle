@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 154 libraries available.
+There are 155 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -158,5 +158,6 @@ There are 154 libraries available.
 * [circuitpython uuid4](https://github.com/DerBroader71/circuitpython_uuid4.git)
 * [circuitpython waveviz](https://github.com/cedargrovestudios/circuitpython_waveviz.git)
 * [circuitpython-ehttpserver](https://github.com/bablokb/circuitpython-ehttpserver.git)
+* [circuitpython-iperf](https://github.com/bablokb/circuitpython-iperf.git)
 * [cp-buzzer-music](https://github.com/bablokb/cp-buzzer-music.git)
 * [nonblocking timer](https://github.com/Angeleno-Tech/nonblocking_timer.git) \([Docs](https://circuitpython-nonblocking_timer.readthedocs.io/))
