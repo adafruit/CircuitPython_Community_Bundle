@@ -469,4 +469,6 @@
 [submodule "libraries/helpers/keymanager"]
 	path = libraries/helpers/keymanager
 	url = https://github.com/relic-se/CircuitPython_KeyManager.git
-  
+[submodule "libraries/helpers/synthvoice"]
+	path = libraries/helpers/synthvoice
+	url = https://github.com/relic-se/CircuitPython_SynthVoice.git
