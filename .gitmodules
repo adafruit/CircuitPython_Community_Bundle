@@ -463,3 +463,6 @@
 [submodule "libraries/helpers/iperf"]
 	path = libraries/helpers/iperf
 	url = https://github.com/bablokb/circuitpython-iperf.git
+[submodule "libraries/helpers/synthvoice"]
+	path = libraries/helpers/synthvoice
+	url = https://github.com/relic-se/CircuitPython_SynthVoice.git
