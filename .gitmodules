@@ -466,3 +466,7 @@
 [submodule "libraries/helpers/waveform"]
 	path = libraries/helpers/waveform
 	url = https://github.com/relic-se/CircuitPython_Waveform.git
+[submodule "libraries/helpers/keymanager"]
+	path = libraries/helpers/keymanager
+	url = https://github.com/relic-se/CircuitPython_KeyManager.git
+  
