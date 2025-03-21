@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 155 libraries available.
+There are 158 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -100,6 +100,7 @@ There are 155 libraries available.
 * [CircuitPython Example](https://github.com/tannewt/CircuitPython_Example.git) \([Docs](https://circuitpython-example.readthedocs.io/en/latest/))
 * [CircuitPython GameControls](https://github.com/FoamyGuy/CircuitPython_GameControls.git) ([PyPi](https://pypi.org/project/circuitpython-gamecontrols)) \([Docs](https://circuitpython-gamecontrols.readthedocs.io/))
 * [CircuitPython HMAC](https://github.com/jimbobbennett/CircuitPython_HMAC) ([PyPi](https://pypi.org/project/circuitpython-hmac)) \([Docs](https://circuitpython.readthedocs.io/projects/hmac/en/latest/))
+* [CircuitPython KeyManager](https://github.com/relic-se/CircuitPython_KeyManager.git) \([Docs](https://circuitpython-keymanager.readthedocs.io/))
 * [CircuitPython MIDI Tools](https://github.com/CedarGroveStudios/CircuitPython_MIDI_Tools.git)
 * [CircuitPython MicroOSC](https://github.com/todbot/CircuitPython_MicroOSC.git) ([PyPi](https://pypi.org/project/circuitpython-microosc)) \([Docs](https://circuitpython-microosc.readthedocs.io/))
 * [CircuitPython MorseCode](https://github.com/jposada202020/CircuitPython_MorseCode.git) ([PyPi](https://pypi.org/project/circuitpython-morsecode)) \([Docs](https://circuitpython-morsecode.readthedocs.io/))
@@ -115,9 +116,11 @@ There are 155 libraries available.
 * [CircuitPython RotarySelect](https://github.com/FoamyGuy/CircuitPython_RotarySelect.git) ([PyPi](https://pypi.org/project/circuitpython-rotaryselect)) \([Docs](https://circuitpython-rotaryselect.readthedocs.io/))
 * [CircuitPython Schedule](https://github.com/cognitivegears/CircuitPython_Schedule.git) ([PyPi](https://pypi.org/project/circuitpython-schedule)) \([Docs](https://circuitpython-schedule.readthedocs.io/))
 * [CircuitPython SoftKeyboard](https://github.com/FoamyGuy/CircuitPython_SoftKeyboard.git) ([PyPi](https://pypi.org/project/circuitpython-softkeyboard)) \([Docs](https://circuitpython-softkeyboard.readthedocs.io/))
+* [CircuitPython SynthVoice](https://github.com/relic-se/CircuitPython_SynthVoice.git) \([Docs](https://circuitpython-synthvoice.readthedocs.io/))
 * [CircuitPython TMIDI](https://github.com/todbot/CircuitPython_TMIDI.git) ([PyPi](https://pypi.org/project/circuitpython-tmidi)) \([Docs](https://circuitpython-tmidi.readthedocs.io/))
 * [CircuitPython TouchCalibrator](https://github.com/CedarGroveStudios/CircuitPython_TouchCalibrator.git)
 * [CircuitPython WaveBuilder](https://github.com/CedarGroveStudios/CircuitPython_WaveBuilder.git)
+* [CircuitPython Waveform](https://github.com/relic-se/CircuitPython_Waveform.git) \([Docs](https://circuitpython-waveform.readthedocs.io/))
 * [CircuitPython ansi escape code](https://github.com/s-light/CircuitPython_ansi_escape_code.git) ([PyPi](https://pypi.org/project/circuitpython-ansi-escape-code)) \([Docs](https://circuitpython-ansi-escape-code.readthedocs.io/))
 * [CircuitPython async button](https://github.com/furbrain/CircuitPython_async_button.git) ([PyPi](https://pypi.org/project/circuitpython-async-button)) \([Docs](https://circuitpython-async-button.readthedocs.io/))
 * [CircuitPython async buzzer](https://github.com/furbrain/CircuitPython_async_buzzer.git) ([PyPi](https://pypi.org/project/circuitpython-async-buzzer)) \([Docs](https://circuitpython-async-buzzer.readthedocs.io/))
