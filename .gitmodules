@@ -472,3 +472,6 @@
 [submodule "libraries/helpers/synthvoice"]
 	path = libraries/helpers/synthvoice
 	url = https://github.com/relic-se/CircuitPython_SynthVoice.git
+[submodule "libraries/drivers/ttp229"]
+	path = libraries/drivers/ttp229
+	url = https://github.com/relic-se/CircuitPython_TTP229.git
