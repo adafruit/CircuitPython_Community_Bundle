@@ -475,3 +475,6 @@
 [submodule "libraries/drivers/ttp229"]
 	path = libraries/drivers/ttp229
 	url = https://github.com/relic-se/CircuitPython_TTP229.git
+[submodule "libraries/helpers/displayio_cartesian"]
+	path = libraries/helpers/displayio_cartesian
+	url = https://github.com/circuitpython/CircuitPython_Org_DisplayIO_Cartesian.git
