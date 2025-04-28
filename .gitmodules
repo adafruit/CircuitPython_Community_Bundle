@@ -7,9 +7,6 @@
 [submodule "libraries/drivers/adafruit_soundboard"]
 	path = libraries/drivers/adafruit_soundboard
 	url = https://github.com/mmabey/Adafruit_Soundboard.git
-[submodule "libraries/helpers/dotstar_featherwing"]
-	path = libraries/helpers/dotstar_featherwing
-	url = https://github.com/jepler/circuitPython_dotstar_featherwing.git
 [submodule "libraries/helpers/nonblocking_timer"]
 	path = libraries/helpers/nonblocking_timer
 	url = https://github.com/Angeleno-Tech/nonblocking_timer.git
