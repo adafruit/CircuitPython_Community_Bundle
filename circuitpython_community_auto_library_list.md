@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 159 libraries available.
+There are 160 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -108,6 +108,7 @@ There are 159 libraries available.
 * [CircuitPython Multi Keypad](https://github.com/Neradoc/CircuitPython_Multi_Keypad) \([Docs](https://multi-keypad-for-circuitpython.readthedocs.io/))
 * [CircuitPython Noise](https://github.com/todbot/CircuitPython_Noise.git) ([PyPi](https://pypi.org/project/circuitpython-noise))
 * [CircuitPython OhmsLaw](https://github.com/CedarGroveStudios/CircuitPython_OhmsLaw.git)
+* [CircuitPython Org DisplayIO Cartesian](https://github.com/circuitpython/CircuitPython_Org_DisplayIO_Cartesian.git) \([Docs](https://circuitpython-displayio-cartesian.readthedocs.io/))
 * [CircuitPython PIO I2S](https://github.com/relic-se/CircuitPython_PIO_I2S.git) \([Docs](https://circuitpython-pio-i2s.readthedocs.io/))
 * [CircuitPython PaletteFader](https://github.com/CedarGroveStudios/CircuitPython_PaletteFader.git)
 * [CircuitPython PaletteSlice](https://github.com/CedarGroveStudios/CircuitPython_PaletteSlice.git)
@@ -148,7 +149,7 @@ There are 159 libraries available.
 * [Oakdevtech CircuitPython IcePython](https://github.com/skerr92/Oakdevtech_CircuitPython_IcePython.git)
 * [PiperBlocklyLibrary](https://github.com/buildwithpiper/PiperBlocklyLibrary.git)
 * [biplane](https://github.com/Uberi/biplane.git) ([PyPi](https://pypi.org/project/biplane))
-* [circuitPython dotstar featherwing](https://github.com/jepler/circuitPython_dotstar_featherwing.git) \([Docs](https://circuitpython.readthedocs.io/projects/dotstar_featherwing/en/latest/))
+* [circuitPython dotstar featherwing](https://github.com/circuitpython/circuitPython_dotstar_featherwing.git) \([Docs](https://circuitpython.readthedocs.io/projects/dotstar_featherwing/en/latest/))
 * [circuitpython airqualitytools](https://github.com/cedargrovestudios/circuitpython_airqualitytools.git)
 * [circuitpython chime](https://github.com/cedargrovestudios/circuitpython_chime.git)
 * [circuitpython dst adjuster](https://github.com/cedargrovestudios/circuitpython_dst_adjuster)
