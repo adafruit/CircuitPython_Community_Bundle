@@ -481,3 +481,6 @@
 [submodule "libraries/helpers/displayio_dial"]
 	path = libraries/helpers/displayio_dial
 	url = https://github.com/circuitpython/CircuitPython_Org_DisplayIO_Dial.git
+[submodule "libraries/helpers/displayio_annotation"]
+	path = libraries/helpers/displayio_annotation
+	url = https://github.com/circuitpython/CircuitPython_Org_DisplayIO_Annotation.git
