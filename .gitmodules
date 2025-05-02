@@ -484,3 +484,6 @@
 [submodule "libraries/helpers/displayio_annotation"]
 	path = libraries/helpers/displayio_annotation
 	url = https://github.com/circuitpython/CircuitPython_Org_DisplayIO_Annotation.git
+[submodule "libraries/helpers/displayio_effects"]
+	path = libraries/helpers/displayio_effects
+	url = https://github.com/circuitpython/CircuitPython_Org_DisplayIO_Effects.git
