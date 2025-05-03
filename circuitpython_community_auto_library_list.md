@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 162 libraries available.
+There are 163 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -111,6 +111,7 @@ There are 162 libraries available.
 * [CircuitPython Org DisplayIO Annotation](https://github.com/circuitpython/CircuitPython_Org_DisplayIO_Annotation.git) \([Docs](https://circuitpython-displayio-annotation.readthedocs.io/))
 * [CircuitPython Org DisplayIO Cartesian](https://github.com/circuitpython/CircuitPython_Org_DisplayIO_Cartesian.git) \([Docs](https://circuitpython-displayio-cartesian.readthedocs.io/))
 * [CircuitPython Org DisplayIO Dial](https://github.com/circuitpython/CircuitPython_Org_DisplayIO_Dial.git) \([Docs](https://circuitpython-displayio-dial.readthedocs.io/en/latest/))
+* [CircuitPython Org DisplayIO Effects](https://github.com/circuitpython/CircuitPython_Org_DisplayIO_Effects.git) \([Docs](https://circuitpython-displayio-effects.readthedocs.io/))
 * [CircuitPython PIO I2S](https://github.com/relic-se/CircuitPython_PIO_I2S.git) \([Docs](https://circuitpython-pio-i2s.readthedocs.io/))
 * [CircuitPython PaletteFader](https://github.com/CedarGroveStudios/CircuitPython_PaletteFader.git)
 * [CircuitPython PaletteSlice](https://github.com/CedarGroveStudios/CircuitPython_PaletteSlice.git)
