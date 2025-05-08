@@ -1,0 +1,3 @@
+[submodule "libraries/drivers/circuitpython-as7343"]
+  path = libraries/drivers/circuitpython-as7343
+  url = https://github.com/joepardue/circuitpython-as7343.git
