@@ -487,3 +487,6 @@
 [submodule "libraries/helpers/displayio_effects"]
 	path = libraries/helpers/displayio_effects
 	url = https://github.com/circuitpython/CircuitPython_Org_DisplayIO_Effects.git
+[submodule "libraries/drivers/circuitpython-as7343"]
+	path = libraries/drivers/circuitpython-as7343
+	url = https://github.com/joepardue/circuitpython-as7343.git

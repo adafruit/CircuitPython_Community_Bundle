@@ -169,3 +169,4 @@ There are 163 libraries available.
 * [circuitpython-iperf](https://github.com/bablokb/circuitpython-iperf.git)
 * [cp-buzzer-music](https://github.com/bablokb/cp-buzzer-music.git)
 * [nonblocking timer](https://github.com/Angeleno-Tech/nonblocking_timer.git) \([Docs](https://circuitpython-nonblocking_timer.readthedocs.io/))
+* [circuitpython-as7343](https://github.com/joepardue/circuitpython-as7343): CircuitPython driver for the AMS AS7343 spectral sensor.
