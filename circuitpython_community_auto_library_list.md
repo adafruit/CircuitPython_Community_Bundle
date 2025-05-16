@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 163 libraries available.
+There are 164 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -75,6 +75,7 @@ There are 163 libraries available.
 * [arturo182 CircuitPython BBQ10Keyboard](https://github.com/solderparty/arturo182_CircuitPython_BBQ10Keyboard.git)
 * [at42qt-acorn-python](https://github.com/skerr92/at42qt-acorn-python.git)
 * [bluepad32-circuitpython](https://github.com/ricardoquesada/bluepad32-circuitpython.git)
+* [circuitpython-as7343](https://github.com/joepardue/circuitpython-as7343.git)
 * [circuitpython-mhz19](https://github.com/bablokb/circuitpython-mhz19.git)
 * [circuitpython-paj7620](https://github.com/deshipu/circuitpython-paj7620.git)
 * [circuitpython-pcf85063a](https://github.com/bablokb/circuitpython-pcf85063a.git)
@@ -169,4 +170,3 @@ There are 163 libraries available.
 * [circuitpython-iperf](https://github.com/bablokb/circuitpython-iperf.git)
 * [cp-buzzer-music](https://github.com/bablokb/cp-buzzer-music.git)
 * [nonblocking timer](https://github.com/Angeleno-Tech/nonblocking_timer.git) \([Docs](https://circuitpython-nonblocking_timer.readthedocs.io/))
-* [circuitpython-as7343](https://github.com/joepardue/circuitpython-as7343): CircuitPython driver for the AMS AS7343 spectral sensor.
