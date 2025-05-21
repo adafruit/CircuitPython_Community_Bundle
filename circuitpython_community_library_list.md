@@ -39,7 +39,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython_paj7620](https://github.com/deshipu/circuitpython-paj7620.git) A driver for the PAJ7620 gesture sensor.
 * [CircuitPython PCA9674](https://github.com/XENONFFM/CircuitPython_PCA9674.git) Driver for the NXP PCA9674(A) 8 channel I2C I/O expander ([PyPi](https://pypi.org/project/circuitpython-pca9674))
 * [CircuitPython PCA9955b](https://github.com/noelanderson/CircuitPython_PCA9955B.git) Driver for the NXP PCA9955b 16-Channel I2C-Bus Constant-Current LED Driver ([Docs](https://circuitpython-pca9955b.readthedocs.io/en/latest/))
-* [CircuitPython qmi8658c](https://github.com/jins-tkomoda/CircuitPython_QMI8658C.git) Driver for the QMI8658C inertial measurement unit 
+* [CircuitPython qmi8658c](https://github.com/jins-tkomoda/CircuitPython_QMI8658C.git) Driver for the QMI8658C inertial measurement unit
 ([Docs](https://circuitpython-qmi8658c.readthedocs.io/en/latest/))
 * [CircuitPython Raspberry PI Build HAT](https://github.com/CDarius/CircuitPython_RaspberryPI_BuildHAT.git) Driver for Raspberry PI Build HAT \([Docs](https://circuitpython-raspberrypi-buildhat.readthedocs.io/en/latest/))
 * [CircuitPython RDA5807](https://github.com/tinkeringtech/CircuitPython_rda5807) rda5807m FM radio chip CircuitPython library \([Docs](https://circuitpython-rda5807m.readthedocs.io/en/latest/))
@@ -115,6 +115,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython HMAC](https://github.com/jimbobbennett/CircuitPython_HMAC) HMAC (Keyed-Hashing for Message Authentication) Python module. Implements the HMAC algorithm as described by RFC 2104 ([PyPi](https://pypi.org/project/circuitpython-hmac)) \([Docs](https://circuitpython.readthedocs.io/projects/hmac/en/latest/))
 * [CircuitPython Display_HT16K33](https://github.com/jposada202020/CircuitPython_DISPLAY_HT16K33.git) On display simulation for the HT16K33 driver. Works with 8x8 and 16x8 matrices, as well as 4x7 and 4x14 segments ([PyPi](https://pypi.org/project/circuitpython-display-ht16k33/)) \([Docs](https://circuitpython-display-ht16k33.readthedocs.io/en/latest/))
 * [CircuitPython I2C Button](https://github.com/gmparis/CircuitPython_I2C_Button) CircuitPython I2C Button à la Sparkfun Qwiic Button/Switch/Arcade ([PyPI](https://pypi.org/project/circuitpython-i2c-button/)) \([Docs](https://circuitpython-i2c-button.readthedocs.io/en/latest/))
+* [CircuitPython_pixel_mapper](https://github.com/clickonben/CircuitPython_pixel_mapper/) Pixel Mapper helper for Adafruit_CircuitPython_LED_Animation ([PyPI](https://pypi.org/project/circuitpython-pixel-mapper/)) \([Docs](https://circuitpython-pixel-mapper.readthedocs.io/))
 * [CircuitPython iperf](https://github.com/bablokb/circuitpython-iperf) CircuitPython port of the iperf3-utility
 * [CircuitPython KeyManager](https://github.com/relic-se/CircuitPython_KeyManager) Helper library to manage notes in musical applications. Includes note priority, arpeggiation, and sequencing. \([Docs](https://circuitpython-keymanager.readthedocs.io/en/latest/))
 * [CircuitPython LeapYear](https://github.com/CedarGroveStudios/CircuitPython_LeapYear.git) Confirms whether a specified year is a leap year \([Docs](https://github.com/CedarGroveStudios/CircuitPython_LeapYear/blob/main/media/pseudo_rtd_cedargrove_leapyear.pdf))
