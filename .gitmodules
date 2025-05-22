@@ -490,3 +490,6 @@
 [submodule "libraries/drivers/circuitpython-as7343"]
 	path = libraries/drivers/circuitpython-as7343
 	url = https://github.com/joepardue/circuitpython-as7343.git
+[submodule "libraries/helpers/pixel_mapper"]
+	path = libraries/helpers/pixel_mapper
+	url = https://github.com/clickonben/CircuitPython_pixel_mapper.git
