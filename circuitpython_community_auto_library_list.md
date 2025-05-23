@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 164 libraries available.
+There are 165 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -139,6 +139,7 @@ There are 164 libraries available.
 * [CircuitPython mcp23017 Scanner](https://github.com/Neradoc/CircuitPython_mcp23017_Scanner) \([Docs](https://circuitpython-mcp23017-scanner.readthedocs.io/))
 * [CircuitPython nonblocking serialinput](https://github.com/s-light/CircuitPython_nonblocking_serialinput.git) \([Docs](https://circuitpython-nonblocking-serialinput.readthedocs.io/))
 * [CircuitPython p1am 200 helpers](https://github.com/facts-engineering/CircuitPython_p1am_200_helpers.git)
+* [CircuitPython pixel mapper](https://github.com/clickonben/CircuitPython_pixel_mapper.git) ([PyPi](https://pypi.org/project/circuitpython-pixel-mapper))
 * [CircuitPython rs485 wrapper](https://github.com/facts-engineering/CircuitPython_rs485_wrapper.git)
 * [CircuitPython scales](https://github.com/jposada202020/CircuitPython_scales.git) ([PyPi](https://pypi.org/project/circuitpython-scales)) \([Docs](https://circuitpython-scales.readthedocs.io/en/latest/?badge=latest))
 * [CircuitPython simple dial](https://github.com/jposada202020/CircuitPython_simple_dial.git) \([Docs](https://circuitpython-simple_dial.readthedocs.io/))
