@@ -493,3 +493,6 @@
 [submodule "libraries/helpers/pixel_mapper"]
 	path = libraries/helpers/pixel_mapper
 	url = https://github.com/clickonben/CircuitPython_pixel_mapper.git
+[submodule "libraries/drivers/sc_servo"]
+	path = libraries/drivers/sc_servo
+	url = https://github.com/supcik/CircuitPython_SerialControlledServo.git
