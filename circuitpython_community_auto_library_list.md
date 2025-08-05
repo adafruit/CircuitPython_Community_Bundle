@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 165 libraries available.
+There are 166 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -39,6 +39,7 @@ There are 165 libraries available.
 * [CircuitPython RaspberryPI BuildHAT](https://github.com/CDarius/CircuitPython_RaspberryPI_BuildHAT.git) \([Docs](https://circuitpython-raspberrypi-buildhat.readthedocs.io/))
 * [CircuitPython RuhRohRotaryIO](https://github.com/todbot/CircuitPython_RuhRohRotaryIO.git) ([PyPi](https://pypi.org/project/circuitpython-ruhrohrotaryio)) \([Docs](https://circuitpython-ruhrohrotaryio.readthedocs.io/))
 * [CircuitPython SH1106](https://github.com/winneymj/CircuitPython_SH1106)
+* [CircuitPython SerialControlledServo](https://github.com/supcik/CircuitPython_SerialControlledServo.git) \([Docs](https://circuitpython-serial-controlled-servo.readthedocs.io/))
 * [CircuitPython Sparkfun QwiicQuadSolidStateRelay](https://github.com/gbeland/CircuitPython_Sparkfun_QwiicQuadSolidStateRelay.git) ([PyPi](https://pypi.org/project/circuitpython-sparkfun-qwiicquadsolidstaterelay)) \([Docs](https://circuitpython-sparkfun-qwiicquadsolidstaterelay.readthedocs.io/))
 * [CircuitPython TMP75](https://github.com/barbudor/CircuitPython_TMP75.git) \([Docs](https://circuitpython-tmp75.readthedocs.io/en/latest/))
 * [CircuitPython TTP229](https://github.com/relic-se/CircuitPython_TTP229.git) \([Docs](https://circuitpython-ttp229.readthedocs.io/))
