@@ -496,6 +496,3 @@
 [submodule "libraries/drivers/sc_servo"]
 	path = libraries/drivers/sc_servo
 	url = https://github.com/supcik/CircuitPython_SerialControlledServo.git
-[submodule "libraries/helpers/usb_host_descriptor_parser"]
-	path = libraries/helpers/usb_host_descriptor_parser
-	url = https://github.com/relic-se/CircuitPython_Community_Bundle.git
