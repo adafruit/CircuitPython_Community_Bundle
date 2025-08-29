@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 166 libraries available.
+There are 167 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -126,6 +126,7 @@ There are 166 libraries available.
 * [CircuitPython SynthVoice](https://github.com/relic-se/CircuitPython_SynthVoice.git) \([Docs](https://circuitpython-synthvoice.readthedocs.io/))
 * [CircuitPython TMIDI](https://github.com/todbot/CircuitPython_TMIDI.git) ([PyPi](https://pypi.org/project/circuitpython-tmidi)) \([Docs](https://circuitpython-tmidi.readthedocs.io/))
 * [CircuitPython TouchCalibrator](https://github.com/CedarGroveStudios/CircuitPython_TouchCalibrator.git)
+* [CircuitPython USB Host Descriptor Parser](https://github.com/relic-se/CircuitPython_USB_Host_Descriptor_Parser.git) \([Docs](https://circuitpython-usb-host-descriptor-parser.readthedocs.io/))
 * [CircuitPython WaveBuilder](https://github.com/CedarGroveStudios/CircuitPython_WaveBuilder.git)
 * [CircuitPython Waveform](https://github.com/relic-se/CircuitPython_Waveform.git) \([Docs](https://circuitpython-waveform.readthedocs.io/))
 * [CircuitPython ansi escape code](https://github.com/s-light/CircuitPython_ansi_escape_code.git) ([PyPi](https://pypi.org/project/circuitpython-ansi-escape-code)) \([Docs](https://circuitpython-ansi-escape-code.readthedocs.io/))
