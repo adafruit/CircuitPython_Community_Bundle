@@ -7,6 +7,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git) An easy way to add sound to your maker project. \([Docs](https://adafruit-soundboard.readthedocs.io/en/latest/README.html))
 * [at24mac-eeprom](https://github.com/facts-engineering/CircuitPython_AT24MAC_EEPROM.git) I2C driver for the AT24MAC402 and AT24MAC602 devices.
 * [at42qt-acorn-python](https://github.com/skerr92/at42qt-acorn-python.git) Driver library for the AT42QT1070 Acorn.
+* [CircuitPython_AT42QT2120](https://github.com/MikeCoats/CircuitPython_AT42QT2120.git) Driver library the AT42QT2120 capacitive touch sensor IC. \([PyPi](https://pypi.org/project/circuitpython-at42qt2120/)) \([Docs](https://at42qt2120.readthedocs.io/en/latest/))
 * [Bluepad 32](https://github.com/ricardoquesada/bluepad32-circuitpython) Enables gamepad support for CircuitPython.
 * [CircuitPython_AD5245](https://github.com/CedarGroveStudios/CircuitPython_AD5245.git) A driver for the AD5245 digital potentiometer. \([Docs](https://github.com/CedarGroveStudios/CircuitPython_AD5245/blob/main/media/pseudo_readthedocs_cedargrove_ad5245.pdf))
 * [CircuitPython_AD5293](https://github.com/CedarGroveStudios/CircuitPython_AD5293.git) A driver for the AD5293 digital potentiometer. \([Docs](https://github.com/CedarGroveStudios/CircuitPython_AD5293/blob/main/media/pseudo_readthedocs_cedargrove_ad5293.pdf))
