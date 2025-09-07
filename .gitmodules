@@ -499,3 +499,6 @@
 [submodule "libraries/helpers/usb_host_descriptor_parser"]
 	path = libraries/helpers/usb_host_descriptor_parser
 	url = https://github.com/relic-se/CircuitPython_USB_Host_Descriptor_Parser.git
+[submodule "libraries/drivers/at42qt2120"]
+	path = libraries/drivers/at42qt2120
+	url = https://github.com/MikeCoats/CircuitPython_AT42QT2120.git
