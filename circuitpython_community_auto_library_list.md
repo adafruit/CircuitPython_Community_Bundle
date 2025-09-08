@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 167 libraries available.
+There are 168 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -11,6 +11,7 @@ There are 167 libraries available.
 * [CircuitPython AS3935](https://github.com/BiffoBear/CircuitPython_AS3935.git) \([Docs](https://circuitpython-as3935.readthedocs.io/))
 * [CircuitPython AS5600](https://github.com/noelanderson/CircuitPython_AS5600.git) \([Docs](https://circuitpython-as5600.readthedocs.io/))
 * [CircuitPython AT24MAC EEPROM](https://github.com/facts-engineering/CircuitPython_AT24MAC_EEPROM.git)
+* [CircuitPython AT42QT2120](https://github.com/MikeCoats/CircuitPython_AT42QT2120.git) ([PyPi](https://pypi.org/project/circuitpython-at42qt2120))
 * [CircuitPython AXP192](https://github.com/CDarius/CircuitPython_AXP192.git) \([Docs](https://circuitpython-axp192.readthedocs.io/))
 * [CircuitPython AXP2101](https://github.com/CDarius/CircuitPython_AXP2101.git) \([Docs](https://circuitpython-axp2101.readthedocs.io/))
 * [CircuitPython Cirque Pinnacle](https://github.com/2bndy5/CircuitPython_Cirque_Pinnacle.git) ([PyPi](https://pypi.org/project/circuitpython-cirque-pinnacle)) \([Docs](https://circuitpython-cirque-pinnacle.readthedocs.io/en/latest/?badge=latest))
