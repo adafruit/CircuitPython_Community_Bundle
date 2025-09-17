@@ -502,3 +502,6 @@
 [submodule "libraries/drivers/at42qt2120"]
 	path = libraries/drivers/at42qt2120
 	url = https://github.com/MikeCoats/CircuitPython_AT42QT2120.git
+[submodule "libraries/helpers/usb_host_gamepad"]
+	path = libraries/helpers/usb_host_gamepad
+	url = https://github.com/relic-se/CircuitPython_USB_Host_Gamepad.git
