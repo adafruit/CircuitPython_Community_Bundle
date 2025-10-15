@@ -505,3 +505,6 @@
 [submodule "libraries/helpers/usb_host_gamepad"]
 	path = libraries/helpers/usb_host_gamepad
 	url = https://github.com/relic-se/CircuitPython_USB_Host_Gamepad.git
+[submodule "libraries/helpers/miniethers"]
+	path = libraries/helpers/miniethers
+	url = https://github.com/ShambaC/CircuitPython_MiniEthers.git
