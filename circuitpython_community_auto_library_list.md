@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 169 libraries available.
+There are 170 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -107,6 +107,7 @@ There are 169 libraries available.
 * [CircuitPython KeyManager](https://github.com/relic-se/CircuitPython_KeyManager.git) \([Docs](https://circuitpython-keymanager.readthedocs.io/))
 * [CircuitPython MIDI Tools](https://github.com/CedarGroveStudios/CircuitPython_MIDI_Tools.git)
 * [CircuitPython MicroOSC](https://github.com/todbot/CircuitPython_MicroOSC.git) ([PyPi](https://pypi.org/project/circuitpython-microosc)) \([Docs](https://circuitpython-microosc.readthedocs.io/))
+* [CircuitPython MiniEthers](https://github.com/ShambaC/CircuitPython_MiniEthers.git) ([PyPi](https://pypi.org/project/circuitpython-miniethers)) \([Docs](https://circuitpython-miniethers.readthedocs.io/))
 * [CircuitPython MorseCode](https://github.com/jposada202020/CircuitPython_MorseCode.git) ([PyPi](https://pypi.org/project/circuitpython-morsecode)) \([Docs](https://circuitpython-morsecode.readthedocs.io/))
 * [CircuitPython Multi Keypad](https://github.com/Neradoc/CircuitPython_Multi_Keypad) \([Docs](https://multi-keypad-for-circuitpython.readthedocs.io/))
 * [CircuitPython Noise](https://github.com/todbot/CircuitPython_Noise.git) ([PyPi](https://pypi.org/project/circuitpython-noise))
