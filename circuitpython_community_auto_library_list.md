@@ -30,7 +30,7 @@ There are 170 libraries available.
 * [CircuitPython M5Stack PbHub](https://github.com/CDarius/CircuitPython_M5Stack_PbHub.git) \([Docs](https://circuitpython-m5stack-pbhub.readthedocs.io/))
 * [CircuitPython MCP48XX](https://github.com/brushmate/CircuitPython_MCP48XX.git) ([PyPi](https://pypi.org/project/circuitpython-mcp48xx)) \([Docs](https://circuitpython-mcp48xx.readthedocs.io/))
 * [CircuitPython MPU6886](https://github.com/jins-tkomoda/CircuitPython_MPU6886.git)
-* [CircuitPython NAU7802](https://github.com/CedarGroveStudios/CircuitPython_NAU7802.git)
+* [CircuitPython NAU7802](https://github.com/CedarGroveStudios/CircuitPython_NAU7802.git) \([Docs](https://docs.circuitpython.org/projects/nau7802/en/latest/))
 * [CircuitPython P1AM](https://github.com/facts-engineering/CircuitPython_P1AM.git)
 * [CircuitPython PCA9674](https://github.com/XENONFFM/CircuitPython_PCA9674.git) ([PyPi](https://pypi.org/project/circuitpython-pca9674))
 * [CircuitPython PCA9955B](https://github.com/noelanderson/CircuitPython_PCA9955B.git) \([Docs](https://circuitpython-pca9955b.readthedocs.io/))
