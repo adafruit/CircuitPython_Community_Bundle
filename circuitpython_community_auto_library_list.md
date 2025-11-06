@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 170 libraries available.
+There are 171 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -49,6 +49,7 @@ There are 170 libraries available.
 * [CircuitPython WiiChuck](https://github.com/jfurcean/CircuitPython_WiiChuck.git) ([PyPi](https://pypi.org/project/circuitpython-wiichuck)) \([Docs](https://circuitpython-wiichuck.readthedocs.io/))
 * [CircuitPython bteve](https://github.com/jamesbowman/CircuitPython_bteve.git)
 * [CircuitPython gpio expander](https://github.com/gpongelli/CircuitPython_gpio_expander.git) ([PyPi](https://pypi.org/project/circuitpython-gpio-expander)) \([Docs](https://circuitpython-gpio-expander.readthedocs.io/))
+* [CircuitPython grove vision ai v2](https://github.com/bikeNomad/CircuitPython_grove_vision_ai_v2.git) \([Docs](https://circuitpython-grove-vision-ai-v2.readthedocs.io/))
 * [CircuitPython laser at](https://github.com/furbrain/CircuitPython_laser_at.git) ([PyPi](https://pypi.org/project/circuitpython-laser-at))
 * [CircuitPython laser egismos](https://github.com/furbrain/CircuitPython_laser_egismos.git) ([PyPi](https://pypi.org/project/circuitpython-laser-egismos)) \([Docs](https://circuitpython-laser-egismos.readthedocs.io/))
 * [CircuitPython m5stack unit8](https://github.com/Neradoc/CircuitPython_m5stack_unit8) \([Docs](https://circuitpython-m5stack-unit8.readthedocs.io/))
