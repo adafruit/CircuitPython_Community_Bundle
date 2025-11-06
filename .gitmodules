@@ -508,3 +508,6 @@
 [submodule "libraries/helpers/miniethers"]
 	path = libraries/helpers/miniethers
 	url = https://github.com/ShambaC/CircuitPython_MiniEthers.git
+[submodule "libraries/drivers/grove_vision_ai_v2"]
+	path = libraries/drivers/grove_vision_ai_v2
+	url = https://github.com/bikeNomad/CircuitPython_grove_vision_ai_v2.git
