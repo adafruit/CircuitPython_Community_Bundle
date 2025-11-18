@@ -87,7 +87,7 @@
 	url = https://github.com/pimoroni/Pimoroni_CircuitPython_LTR559.git
 [submodule "libraries/helpers/udecimal"]
 	path = libraries/helpers/udecimal
-	url = https://github.com/jepler/Jepler_CircuitPython_udecimal.git
+	url = https://github.com/circuitpython/Jepler_CircuitPython_udecimal.git
 [submodule "libraries/helpers/discordbot"]
 	path = libraries/helpers/discordbot
 	url = https://github.com/2231puppy/CircuitPython_DiscordBot.git
