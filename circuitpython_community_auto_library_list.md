@@ -156,7 +156,7 @@ There are 171 libraries available.
 * [Circuitpython BLE Cycling Power Service](https://github.com/EzrSchwartz/Circuitpython_BLE_Cycling_Power_Service.git)
 * [Foamyguy CircuitPython nvm helper](https://github.com/FoamyGuy/Foamyguy_CircuitPython_nvm_helper.git) ([PyPi](https://pypi.org/project/foamyguy-circuitpython-nvm-helper)) \([Docs](https://circuitpython-nvm-helper.readthedocs.io/))
 * [Gamblor21 CircuitPython AHRS](https://github.com/gamblor21/Gamblor21_CircuitPython_AHRS.git) \([Docs](https://circuitpython-ahrs.readthedocs.io/))
-* [Jepler CircuitPython udecimal](https://github.com/jepler/Jepler_CircuitPython_udecimal.git) ([PyPi](https://pypi.org/project/jepler-circuitpython-udecimal)) \([Docs](https://jepler-udecimal.readthedocs.io/en/latest/))
+* [Jepler CircuitPython udecimal](https://github.com/circuitpython/Jepler_CircuitPython_udecimal.git) ([PyPi](https://pypi.org/project/jepler-circuitpython-udecimal)) \([Docs](https://jepler-udecimal.readthedocs.io/en/latest/))
 * [Oakdevtech CircuitPython IcePython](https://github.com/skerr92/Oakdevtech_CircuitPython_IcePython.git)
 * [PiperBlocklyLibrary](https://github.com/buildwithpiper/PiperBlocklyLibrary.git)
 * [biplane](https://github.com/Uberi/biplane.git) ([PyPi](https://pypi.org/project/biplane))
