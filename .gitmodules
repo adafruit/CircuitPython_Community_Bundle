@@ -511,3 +511,6 @@
 [submodule "libraries/drivers/grove_vision_ai_v2"]
 	path = libraries/drivers/grove_vision_ai_v2
 	url = https://github.com/bikeNomad/CircuitPython_grove_vision_ai_v2.git
+[submodule "libraries/drivers/serial-tft"]
+	path = libraries/drivers/serial-tft
+	url = https://github.com/bablokb/circuitpython-serial-tft.git
