@@ -514,3 +514,6 @@
 [submodule "libraries/drivers/serial-tft"]
 	path = libraries/drivers/serial-tft
 	url = https://github.com/bablokb/circuitpython-serial-tft.git
+[submodule "libraries/helpers/thingsboard_client_sdk"]
+	path = libraries/helpers/thingsboard_client_sdk
+	url = https://github.com/thingsboard/CircuitPython_thingsboard-client-sdk.git
