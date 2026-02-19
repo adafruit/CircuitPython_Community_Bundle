@@ -514,3 +514,6 @@
 [submodule "libraries/drivers/serial-tft"]
 	path = libraries/drivers/serial-tft
 	url = https://github.com/bablokb/circuitpython-serial-tft.git
+[submodule "libraries/helpers/synthiota"]
+	path = libraries/helpers/synthiota
+	url = https://github.com/relic-se/CircuitPython_Synthiota.git
