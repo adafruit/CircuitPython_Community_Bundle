@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 172 libraries available.
+There are 173 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -128,6 +128,7 @@ There are 172 libraries available.
 * [CircuitPython Schedule](https://github.com/cognitivegears/CircuitPython_Schedule.git) ([PyPi](https://pypi.org/project/circuitpython-schedule)) \([Docs](https://circuitpython-schedule.readthedocs.io/))
 * [CircuitPython SoftKeyboard](https://github.com/FoamyGuy/CircuitPython_SoftKeyboard.git) ([PyPi](https://pypi.org/project/circuitpython-softkeyboard)) \([Docs](https://circuitpython-softkeyboard.readthedocs.io/))
 * [CircuitPython SynthVoice](https://github.com/relic-se/CircuitPython_SynthVoice.git) \([Docs](https://circuitpython-synthvoice.readthedocs.io/))
+* [CircuitPython Synthiota](https://github.com/relic-se/CircuitPython_Synthiota.git) \([Docs](https://circuitpython-synthiota.readthedocs.io/))
 * [CircuitPython TMIDI](https://github.com/todbot/CircuitPython_TMIDI.git) ([PyPi](https://pypi.org/project/circuitpython-tmidi)) \([Docs](https://circuitpython-tmidi.readthedocs.io/))
 * [CircuitPython TouchCalibrator](https://github.com/CedarGroveStudios/CircuitPython_TouchCalibrator.git)
 * [CircuitPython USB Host Descriptor Parser](https://github.com/relic-se/CircuitPython_USB_Host_Descriptor_Parser.git) ([PyPi](https://pypi.org/project/circuitpython-usb-host-descriptor-parser)) \([Docs](https://circuitpython-usb-host-descriptor-parser.readthedocs.io/))
