@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 173 libraries available.
+There are 174 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -153,6 +153,7 @@ There are 173 libraries available.
 * [CircuitPython simple dial](https://github.com/jposada202020/CircuitPython_simple_dial.git) \([Docs](https://circuitpython-simple_dial.readthedocs.io/))
 * [CircuitPython slider](https://github.com/jposada202020/CircuitPython_slider.git) ([PyPi](https://pypi.org/project/circuitpython-slider)) \([Docs](https://circuitpython-slider.readthedocs.io/en/latest/?badge=latest))
 * [CircuitPython styles](https://github.com/jposada202020/CircuitPython_styles) ([PyPi](https://pypi.org/project/circuitpython-styles)) \([Docs](https://circuitpython-styles.readthedocs.io/en/latest/?badge=latest))
+* [CircuitPython thingsboard-client-sdk](https://github.com/thingsboard/CircuitPython_thingsboard-client-sdk.git)
 * [CircuitPython uplot](https://github.com/jposada202020/CircuitPython_uplot.git) ([PyPi](https://pypi.org/project/circuitpython-uplot))
 * [CircuitPython-UBoxplot](https://github.com/jposada202020/CircuitPython-UBoxplot.git) ([PyPi](https://pypi.org/project/circuitpython-uboxplot)) \([Docs](https://circuitpython-uboxplot.readthedocs.io/))
 * [Circuitpython BLE Cycling Power Service](https://github.com/EzrSchwartz/Circuitpython_BLE_Cycling_Power_Service.git)
