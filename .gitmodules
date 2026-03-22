@@ -520,3 +520,6 @@
 [submodule "libraries/helpers/synthiota"]
 	path = libraries/helpers/synthiota
 	url = https://github.com/relic-se/CircuitPython_Synthiota.git
+[submodule "libraries/helpers/nitroclass"]
+	path = libraries/helpers/nitroclass
+	url = https://github.com/tekktrik/CircuitPython_Nitroclass.git
