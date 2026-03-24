@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 174 libraries available.
+There are 176 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -42,6 +42,7 @@ There are 174 libraries available.
 * [CircuitPython SH1106](https://github.com/winneymj/CircuitPython_SH1106)
 * [CircuitPython SerialControlledServo](https://github.com/supcik/CircuitPython_SerialControlledServo.git) ([Docs](https://circuitpython-serial-controlled-servo.readthedocs.io/))
 * [CircuitPython Sparkfun QwiicQuadSolidStateRelay](https://github.com/gbeland/CircuitPython_Sparkfun_QwiicQuadSolidStateRelay.git) ([PyPi](https://pypi.org/project/circuitpython-sparkfun-qwiicquadsolidstaterelay)) ([Docs](https://circuitpython-sparkfun-qwiicquadsolidstaterelay.readthedocs.io/))
+* [CircuitPython TLV320AIC3204](https://github.com/relic-se/CircuitPython_TLV320AIC3204.git) ([PyPi](https://pypi.org/project/circuitpython-tlv320aic3204)) ([Docs](https://circuitpython-tlv320aic3204.readthedocs.io/))
 * [CircuitPython TMP75](https://github.com/barbudor/CircuitPython_TMP75.git) ([Docs](https://circuitpython-tmp75.readthedocs.io/en/latest/))
 * [CircuitPython TTP229](https://github.com/relic-se/CircuitPython_TTP229.git) ([Docs](https://circuitpython-ttp229.readthedocs.io/))
 * [CircuitPython TicStepper](https://github.com/tekktrik/CircuitPython_TicStepper.git) ([PyPi](https://pypi.org/project/circuitpython-ticstepper)) ([Docs](https://circuitpython-ticstepper.readthedocs.io/))
@@ -112,6 +113,7 @@ There are 174 libraries available.
 * [CircuitPython MiniEthers](https://github.com/ShambaC/CircuitPython_MiniEthers.git) ([PyPi](https://pypi.org/project/circuitpython-miniethers)) ([Docs](https://circuitpython-miniethers.readthedocs.io/))
 * [CircuitPython MorseCode](https://github.com/jposada202020/CircuitPython_MorseCode.git) ([PyPi](https://pypi.org/project/circuitpython-morsecode)) ([Docs](https://circuitpython-morsecode.readthedocs.io/))
 * [CircuitPython Multi Keypad](https://github.com/Neradoc/CircuitPython_Multi_Keypad) ([Docs](https://multi-keypad-for-circuitpython.readthedocs.io/))
+* [CircuitPython Nitroclass](https://github.com/tekktrik/CircuitPython_Nitroclass.git) ([PyPi](https://pypi.org/project/circuitpython-nitroclass)) ([Docs](https://circuitpython-nitroclass.readthedocs.io/))
 * [CircuitPython Noise](https://github.com/todbot/CircuitPython_Noise.git) ([PyPi](https://pypi.org/project/circuitpython-noise))
 * [CircuitPython OhmsLaw](https://github.com/CedarGroveStudios/CircuitPython_OhmsLaw.git)
 * [CircuitPython Org DisplayIO Annotation](https://github.com/circuitpython/CircuitPython_Org_DisplayIO_Annotation.git) ([Docs](https://circuitpython-displayio-annotation.readthedocs.io/))
