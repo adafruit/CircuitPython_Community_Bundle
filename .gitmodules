@@ -523,3 +523,6 @@
 [submodule "libraries/helpers/nitroclass"]
 	path = libraries/helpers/nitroclass
 	url = https://github.com/tekktrik/CircuitPython_Nitroclass.git
+[submodule "libraries/drivers/tlv320aic3204"]
+	path = libraries/drivers/tlv320aic3204
+	url = https://github.com/relic-se/CircuitPython_TLV320AIC3204.git
