@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 176 libraries available.
+There are 177 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -141,6 +141,7 @@ There are 176 libraries available.
 * [CircuitPython async button](https://github.com/furbrain/CircuitPython_async_button.git) ([PyPi](https://pypi.org/project/circuitpython-async-button)) ([Docs](https://circuitpython-async-button.readthedocs.io/))
 * [CircuitPython async buzzer](https://github.com/furbrain/CircuitPython_async_buzzer.git) ([PyPi](https://pypi.org/project/circuitpython-async-buzzer)) ([Docs](https://circuitpython-async-buzzer.readthedocs.io/))
 * [CircuitPython async](https://github.com/WarriorOfWire/CircuitPython_async.git)
+* [CircuitPython bambulabs](https://github.com/prcutler/CircuitPython_bambulabs.git) ([PyPi](https://pypi.org/project/circuitpython-bambulabs)) ([Docs](https://circuitpython-bambulabs.readthedocs.io/))
 * [CircuitPython color picker](https://github.com/jposada202020/CircuitPython_color_picker.git) ([PyPi](https://pypi.org/project/circuitpython-color-picker)) ([Docs](https://circuitpython-color-picker.readthedocs.io/en/latest/?badge=latest))
 * [CircuitPython equalizer](https://github.com/jposada202020/CircuitPython_equalizer.git) ([PyPi](https://pypi.org/project/circuitpython-equalizer)) ([Docs](https://circuitpython-equalizer.readthedocs.io/en/latest/?badge=latest))
 * [CircuitPython functools](https://github.com/tekktrik/CircuitPython_functools.git) ([PyPi](https://pypi.org/project/circuitpython-functools)) ([Docs](https://circuitpython-functools.readthedocs.io/))
