@@ -526,3 +526,6 @@
 [submodule "libraries/drivers/tlv320aic3204"]
 	path = libraries/drivers/tlv320aic3204
 	url = https://github.com/relic-se/CircuitPython_TLV320AIC3204.git
+[submodule "libraries/helpers/bambulabs"]
+	path = libraries/helpers/bambulabs
+	url = https://github.com/prcutler/CircuitPython_bambulabs.git
