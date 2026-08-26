@@ -544,3 +544,6 @@
 [submodule "libraries/helpers/menumanager"]
 	path = libraries/helpers/menumanager
 	url = https://github.com/relic-se/CircuitPython_MenuManager.git
+[submodule "libraries/drivers/ts20"]
+	path = libraries/drivers/ts20
+	url = https://github.com/todbot/CircuitPython_TS20.git
