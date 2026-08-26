@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 182 libraries available.
+There are 183 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -45,6 +45,7 @@ There are 182 libraries available.
 * [CircuitPython Sparkfun QwiicQuadSolidStateRelay](https://github.com/gbeland/CircuitPython_Sparkfun_QwiicQuadSolidStateRelay.git) ([PyPi](https://pypi.org/project/circuitpython-sparkfun-qwiicquadsolidstaterelay)) ([Docs](https://circuitpython-sparkfun-qwiicquadsolidstaterelay.readthedocs.io/))
 * [CircuitPython TLV320AIC3204](https://github.com/relic-se/CircuitPython_TLV320AIC3204.git) ([PyPi](https://pypi.org/project/circuitpython-tlv320aic3204)) ([Docs](https://circuitpython-tlv320aic3204.readthedocs.io/))
 * [CircuitPython TMP75](https://github.com/barbudor/CircuitPython_TMP75.git) ([Docs](https://circuitpython-tmp75.readthedocs.io/en/latest/))
+* [CircuitPython TS20](https://github.com/todbot/CircuitPython_TS20.git) ([PyPi](https://pypi.org/project/circuitpython-ts20)) ([Docs](https://circuitpython-ts20.readthedocs.io/))
 * [CircuitPython TTP229](https://github.com/relic-se/CircuitPython_TTP229.git) ([Docs](https://circuitpython-ttp229.readthedocs.io/))
 * [CircuitPython TicStepper](https://github.com/tekktrik/CircuitPython_TicStepper.git) ([PyPi](https://pypi.org/project/circuitpython-ticstepper)) ([Docs](https://circuitpython-ticstepper.readthedocs.io/))
 * [CircuitPython TrellisM4 extended](https://github.com/arofarn/CircuitPython_TrellisM4_extended.git) ([Docs](https://circuitpython-trellism4_extended.readthedocs.io/))
