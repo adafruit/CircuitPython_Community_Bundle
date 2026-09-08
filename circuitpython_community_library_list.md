@@ -41,6 +41,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython_paj7620](https://github.com/deshipu/circuitpython-paj7620.git) A driver for the PAJ7620 gesture sensor.
 * [CircuitPython PCA9674](https://github.com/XENONFFM/CircuitPython_PCA9674.git) Driver for the NXP PCA9674(A) 8 channel I2C I/O expander ([PyPi](https://pypi.org/project/circuitpython-pca9674))
 * [CircuitPython PCA9955b](https://github.com/noelanderson/CircuitPython_PCA9955B.git) Driver for the NXP PCA9955b 16-Channel I2C-Bus Constant-Current LED Driver ([Docs](https://circuitpython-pca9955b.readthedocs.io/en/latest/))
+* [CircuitPython PN7150](https://github.com/TheFilipcom4607/circuitpython-pn7150.git) Driver for the NXP PN7150 NFC controller, with NDEF decoding and encoding, reader/writer support for NTAG/Ultralight, Mifare Classic, DESFire, ISO15693 and FeliCa, and Type 4 card emulation.
 * [CircuitPython qmi8658c](https://github.com/jins-tkomoda/CircuitPython_QMI8658C.git) Driver for the QMI8658C inertial measurement unit
 ([Docs](https://circuitpython-qmi8658c.readthedocs.io/en/latest/))
 * [CircuitPython Raspberry PI Build HAT](https://github.com/CDarius/CircuitPython_RaspberryPI_BuildHAT.git) Driver for Raspberry PI Build HAT ([Docs](https://circuitpython-raspberrypi-buildhat.readthedocs.io/en/latest/))
