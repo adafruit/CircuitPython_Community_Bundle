@@ -547,3 +547,6 @@
 [submodule "libraries/drivers/ts20"]
 	path = libraries/drivers/ts20
 	url = https://github.com/todbot/CircuitPython_TS20.git
+[submodule "libraries/drivers/pn7150"]
+	path = libraries/drivers/pn7150
+	url = https://github.com/TheFilipcom4607/circuitpython-pn7150.git
