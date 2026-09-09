@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 183 libraries available.
+There are 184 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -85,6 +85,7 @@ There are 183 libraries available.
 * [circuitpython-mhz19](https://github.com/bablokb/circuitpython-mhz19.git)
 * [circuitpython-paj7620](https://github.com/deshipu/circuitpython-paj7620.git)
 * [circuitpython-pcf85063a](https://github.com/bablokb/circuitpython-pcf85063a.git)
+* [circuitpython-pn7150](https://github.com/TheFilipcom4607/circuitpython-pn7150.git)
 * [circuitpython-segment-display](https://github.com/bablokb/circuitpython-segment-display.git)
 * [circuitpython-serial-tft](https://github.com/bablokb/circuitpython-serial-tft.git)
 * [creativecontrol CircuitPython LTC166X](https://github.com/creativecontrol/creativecontrol_CircuitPython_LTC166X.git) ([PyPi](https://pypi.org/project/creativecontrol-circuitpython-ltc166x))
