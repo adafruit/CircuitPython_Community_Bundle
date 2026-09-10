@@ -550,3 +550,6 @@
 [submodule "libraries/drivers/pn7150"]
 	path = libraries/drivers/pn7150
 	url = https://github.com/TheFilipcom4607/circuitpython-pn7150.git
+[submodule "libraries/drivers/st25dv"]
+	path = libraries/drivers/st25dv
+	url = https://github.com/TheFilipcom4607/circuitpython-st25dv.git
