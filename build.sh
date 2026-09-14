@@ -29,7 +29,12 @@ set -e
 P=$(
 ls -RUx |
 gawk -F '\n' '{ match($1, /(drivers|helpers)\/(.+)\/(.+)\:/, arr) ; if (length(arr[0]) > 0 && match(arr[3], arr[2]) > 0) printf "%s, ", arr[3] }' |
-gawk '{ trimmed = substr($0, 1, length($0) - 2) ; print "\"" trimmed "\"" }'
+gawk '{ print substr($0, 1, length($0) - 2) }'
 )
+
+if [ -z "$P" ]; then
+    echo "error: no package folders matched under libraries/" >&2
+    exit 1
+fi
 
 circuitpython-build-bundles --filename_prefix circuitpython-community-bundle --library_location libraries --library_depth 2 --package_folder_prefix "$P"
