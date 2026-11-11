@@ -553,3 +553,6 @@
 [submodule "libraries/drivers/st25dv"]
 	path = libraries/drivers/st25dv
 	url = https://github.com/TheFilipcom4607/circuitpython-st25dv.git
+[submodule "libraries/helpers/rv565"]
+	path = libraries/helpers/rv565
+	url = https://github.com/elixpo/CircuitPython_RV565.git
