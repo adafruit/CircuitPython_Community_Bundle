@@ -1,7 +1,7 @@
 # Adafruit CircuitPython Libraries
 ![Blinka Reading](https://raw.githubusercontent.com/adafruit/Adafruit_CircuitPython_Bundle/main/assets/BlinkaBook.png)  
 Here is a listing of current Adafruit CircuitPython Libraries.  
-There are 185 libraries available.
+There are 186 libraries available.
 
 ## Drivers:
 * [Adafruit Soundboard](https://github.com/mmabey/Adafruit_Soundboard.git)
@@ -131,6 +131,7 @@ There are 185 libraries available.
 * [CircuitPython PaletteSlice](https://github.com/CedarGroveStudios/CircuitPython_PaletteSlice.git)
 * [CircuitPython Parse](https://github.com/jimbobbennett/CircuitPython_Parse) ([PyPi](https://pypi.org/project/circuitpython-parse)) ([Docs](https://circuitpython.readthedocs.io/projects/parse/en/latest/))
 * [CircuitPython RGB SpectrumTools](https://github.com/CedarGroveStudios/CircuitPython_RGB_SpectrumTools.git)
+* [CircuitPython RV565](https://github.com/elixpo/CircuitPython_RV565.git) ([PyPi](https://pypi.org/project/circuitpython-rv565)) ([Docs](https://circuitpython-rv565.readthedocs.io/))
 * [CircuitPython RangeSlicer](https://github.com/CedarGroveStudios/CircuitPython_RangeSlicer.git)
 * [CircuitPython RotarySelect](https://github.com/FoamyGuy/CircuitPython_RotarySelect.git) ([PyPi](https://pypi.org/project/circuitpython-rotaryselect)) ([Docs](https://circuitpython-rotaryselect.readthedocs.io/))
 * [CircuitPython Schedule](https://github.com/cognitivegears/CircuitPython_Schedule.git) ([PyPi](https://pypi.org/project/circuitpython-schedule)) ([Docs](https://circuitpython-schedule.readthedocs.io/))
