@@ -556,3 +556,6 @@
 [submodule "libraries/helpers/rv565"]
 	path = libraries/helpers/rv565
 	url = https://github.com/elixpo/CircuitPython_RV565.git
+[submodule "libraries/drivers/erdi_lrf"]
+	path = libraries/drivers/erdi_lrf
+	url = https://github.com/ErdiTech/CircuitPython_ERDI_LRF.git

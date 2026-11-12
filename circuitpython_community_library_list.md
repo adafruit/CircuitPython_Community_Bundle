@@ -20,6 +20,7 @@ Here is a listing of current CircuitPython Community Libraries. These libraries 
 * [CircuitPython DisplayIO ST7565](https://github.com/mateusznowakdev/CircuitPython_DisplayIO_ST7565.git) CircuitPython displayio driver for ST7565 and ST7567 displays ([Docs](https://circuitpython-displayio-st7565.readthedocs.io/en/latest/))
 * [CircuitPython_DRV8830](https://github.com/CedarGroveStudios/CircuitPython_DRV8830.git) A driver for the DRV8830 DC motor controller.
 * [CircuitPython_DS1302](https://github.com/Elfking29/CircuitPython_DS1302.git) Driver for the Maxim Integrated / Analog Devices DS1302 Real Time Clock. ([PyPi](https://pypi.org/project/circuitpython-ds1302/)) ([Docs](https://circuitpython-ds1302.readthedocs.io/en/latest/))
+* [CircuitPython ERDI LRF](https://github.com/ErdiTech/CircuitPython_ERDI_LRF.git) Driver for ERDI 905 nm laser rangefinder modules over UART (stream and single-shot models)
 * [CircuitPython FS3000](https://github.com/noelanderson/CircuitPython_FS3000.git) Driver for the Renesas FS3000 Air Velocity Sensor Module ([Docs](https://circuitpython-fs3000.readthedocs.io/en/latest/))
 * [CircuitPython GC9A01](https://github.com/tylercrumpton/CircuitPython_GC9A01.git) Displayio driver for GC9A01 TFT LCD displays.
 * [CircuitPython GC9D01](https://github.com/tylercrumpton/CircuitPython_GC9D01.git) Displayio driver for GC9D01 TFT LCD displays.
