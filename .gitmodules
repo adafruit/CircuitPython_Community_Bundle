@@ -1,9 +1,6 @@
 [submodule "libraries/helpers/example"]
 	path = libraries/helpers/example
 	url = https://github.com/tannewt/CircuitPython_Example.git
-[submodule "libraries/drivers/hcsr04"]
-	path = libraries/drivers/hcsr04
-	url = https://github.com/mmabey/CircuitPython_HCSR04.git
 [submodule "libraries/drivers/adafruit_soundboard"]
 	path = libraries/drivers/adafruit_soundboard
 	url = https://github.com/mmabey/Adafruit_Soundboard.git
