@@ -556,3 +556,6 @@
 [submodule "libraries/drivers/erdi_lrf"]
 	path = libraries/drivers/erdi_lrf
 	url = https://github.com/ErdiTech/CircuitPython_ERDI_LRF.git
+[submodule "libraries/drivers/adxl36x"]
+	path = libraries/drivers/adxl36x
+	url = https://github.com/mmabey/circuitpython-adxl36x.git
